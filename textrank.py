@@ -3,7 +3,7 @@ from nltk.cluster.util import cosine_distance
 
 stopwords = set(open('stopwords.txt', 'r').read().split('\n'))
 
-def similarity(sentence1, sentence2):
+def similarity(sentence1, sentence2, lambdaScaling=.001):
     words = {}
     index = 0
 
@@ -28,7 +28,7 @@ def similarity(sentence1, sentence2):
         if word not in stopwords:
             vector2[words[word]] += 1
 
-    return 1 - cosine_distance(vector1, vector2)
+    return max(1 - cosine_distance(vector1, vector2), lambdaScaling)
 
 def pagerank(A, eps=0.0001, d=0.85):
     P = np.ones(len(A)) / len(A)
@@ -52,13 +52,39 @@ def createSummaryMatrix(sentences):
 
     return pagerank(matrix)
 
-def createSummary(fileName, separator='\n'):
+def createSummary(fileName, separator='\n', summaryLength=5):
     sentences = open(fileName, 'r', encoding='utf8').read().split(separator)
     result = createSummaryMatrix(sentences)
 
     rankedSentences = [item[0] for item in sorted(enumerate(result), key=lambda item: -item[1])]
-    rankedSentences = rankedSentences[:5]
+    rankedSentences = rankedSentences[:summaryLength]
     summary = "\n".join(list(map(lambda index: sentences[index], sorted(rankedSentences))))
+
+    print(summary)
     return summary
 
-print(createSummary('data/star_wars_episode7.txt'))
+def baseline(fileName, separator='\n', segmentSeparator='\n###\n'):
+    segments = open(fileName, 'r', encoding='utf8').read().split(segmentSeparator)
+    segments = list(map(lambda segment: segment.split(separator), segments))
+    sentences = []
+    for s in segments:
+        sentences.extend(s)
+
+    result = createSummaryMatrix(sentences)
+
+    summaries = []
+    idx = 0
+    for segment in segments:
+        nextIdx = idx + len(segment)
+        submatrix = result[idx:nextIdx]
+        rankedSentences = [item[0] for item in sorted(enumerate(submatrix), key=lambda item: -item[1])]
+        rankedSentences = rankedSentences[:1]
+        summary = "\n".join(list(map(lambda index: sentences[idx + index], sorted(rankedSentences))))
+        summaries.append(summary)
+        idx = nextIdx
+
+    for summary in summaries:
+        print(summary + '\n')
+    return summaries
+
+createSummary('data/star_wars_episode1.txt', summaryLength=1)
