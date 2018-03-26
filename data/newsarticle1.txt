@@ -1,0 +1,49 @@
+Imagine being able to convert water into a boundless source of cheap energy. That's what BlackLight Power, a 25-employee firm in Cranbury, N.J., says it can do. The only problem: Most scientists say that company's technology violates the basic laws of physics.
+
+Such skepticism doesn't daunt Dr. Randell Mills, a Harvard-trained physician and founder of BlackLight, who recently claimed that he has created a working fuel cell using the world's most pervasive element: the hydrogen found in water.
+
+"This is no longer an academic argument," Mills, 50, insists. "It's proven technology, and we're going to commercialize it as quickly as possible."
+
+For the first time in his company's 19 years of persistent trial and error, Mills says he has a market-ready product: a fuel cell that produces a chemical reaction to alter hydrogen atoms. The fuel cell releases heat that turns water into steam, which drives electric turbines.
+
+The working models in his lab generate 50 kilowatts of electricity - enough to power six or seven houses. But these, Mills says, can be scaled to drive a large, electric power plant. The inventor claims this electricity will cost less than 2 cents per kilowatt-hour, which compares to a national average of 8.9 cents.
+
+While his business has been working on the "BlackLight Process" since its inception almost two decades ago, Mills developed the patented cocktail that enables the reaction - a solid fuel made of hydrogen and a sodium hydride catalyst - only a year ago. (He recently posted instructions on the company's Web site, blacklightpower.com). Now that the device is ready for commercialization, he says, BlackLight is negotiating with several utilities and architecture and engineering firms, but he won't disclose any partners' names until the deals are finalized.
+
+About 20 of the generators, which look like small copper water heaters turned on their sides, rest on lab benches inside the company's 55,000 square foot headquarters, once a Lockheed Martin facility. BlackLight's 11 scientists barely make a sound as they slip among the cavernous rooms, blue lab coats flapping behind them. The near-emptiness is eerie, but it's also portentous, says Mills: "Within the next two years, we're going to grow to 500, maybe 1,000 employees. This could satisfy a majority of the world's power needs, and the demand is going to be huge."
+
+Such grandiose predictions invite comparison to cold fusion, a source of cheap and abundant energy that two scientists in Utah claimed to unearth in 1989, only to be immediately discredited by government and independent experts.
+
+But while the cold-fusion scientists rushed to the media shortly after their "discovery," BlackLight hasn't courted press until it considered its invention commercially viable, and had lined up financing and respected board members. The business, Mills says, has attracted $60 million in funding from wealthy individuals, investment firms, and utilities such as Delaware's Conectiv, and it is no longer seeking money. BlackLight's board of directors reads like a Who's Who of finance and energy leaders, including Michael Jordan, former CEO of both Electronic Data Systems (EDS, Fortune 500) and Westinghouse; Neil Moskowitz, CFO of Credit Suisse First Boston; and Shelby Brewer, former CEO of ABB (ABB) Combustion Engineering Nuclear Power. BlackLight has all of the trappings of prestige, minus one hitch: Mills' theory is rejected by almost all of the scientific community.
+
+"He's wrong in so many ways, it's beyond counting," says Robert Park, a professor of physics at the University of Maryland and former spokesman for the American Physics Society. Parks, 77, uses BlackLight as an example of phony physics in his 2002 book, Voodoo Science: The Road from Foolishness to Fraud. He says of Mills, "I don't know of a single scientist of any reputation who takes his claims seriously."
+
+Mills' theory, which he expounds upon in his self-published 2,000 page book, The Grand Unified Theory of Classical Quantum Mechanics, rests on what he describes as his discovery of the hydrino - an altered version of hydrogen that has an energy level lower than its ground state, or the baseline energy level. These modified atoms, he argues, are the stuff that comprises dark matter, the invisible material that many scientists believe composes more than 90% of the universe. The mechanism that creates hydrinos - a chemical reaction whose released energy can allegedly be harnessed for power - is what Mills calls the BlackLight Process.
+
+Why do scientists give Mills so much heat? By positing that a molecule's energy level can dip below its ground state, he rewrites the principles of quantum mechanics, which are widely viewed as incontrovertible. Perhaps the most widely-known critique of his theory was published by Andreas Rathke of the European Space Agency, who argues that Mills' mathematics is flawed.
+
+Jan Naudts, a physics professor at the University of Antwerp, says of Mills' work, "The few people who looked at it immediately found errors." He adds, however, "That's quite common with new theories. And his hasn't been investigated on a large scale."
+
+Mills attributes the lack of engagement with his theory to the self-preserving nature of academia.
+
+"As long as you're in the mainstream, you're fine. But if you're doing something paradigm-changing, you're proving that academics have been going down the wrong path," he says. Such self-interested politics, argues Mills, have led mainstream scientists to seek BlackLight's demise by blacklisting the company from publications and spreading disinformation on the Web.
+
+Brewer, who has served on the firm's board since 1997, agrees that the fear of losing government grants has bred widespread skepticism towards the hydrino: "Hell hath no fury like a professor whose funding is cut off."
+
+BlackLight does have a few fans among scientists. Gerrit Kroesen, a professor Eindhoven University in the Netherlands, wrote in an e-mail that he's attempted to replicate Mills' experiment and produced surprising, if not conclusive, results.
+
+In 2005, leaders at Greenpeace asked Randy Booker, chair of the physics department at the University of North Carolina at Asheville, to fly to New Jersey to investigate BlackLight's claims. Booker says he was skeptical at the outset, but during his visit, "I found that they really were producing a great deal of excess energy with hydrogen," he says. "Some people may disagree with the theory, but the experiments work." Booker believes that commercialization could lead more independent laboratories to validate BlackLight's claims. He now performs paid research work for the company.
+
+Critics such as Park say the high-profile CEOs on BlackLight's board are following each other over a cliff. He could be right: Both Jordan and Jim Lenehan - a BlackLight investor, senior consultant at hedge fund Cerberus, and former president of Johnson and Johnson (JNJ, Fortune 500) - say they were led to the business by friends. But Lenehan, who does not sit on BlackLight's board, says, "It's no longer a high-risk part of my portfolio. It now has the ability to make a huge difference in the world of power."
+
+Jordan, who earned science degrees from Yale and Princeton, expresses a similar sentiment.
+
+"In the beginning, I thought it was worth putting money into because it was going to be a huge flop or a huge success." he says. "But when they made the breakthrough last fall, I saw the results."
+
+That logic could explain BlackLight's success in garnering investors, despite its lack of scientific approval: While the academic community stresses theoretical backing for a new discovery, the business world is more concerned with practical applications.
+
+Lenehan says, "My point of view is, just do it - generate power. In terms of influencing investors, it's about results."
+
+Jordan agrees: "Theoretically, the bumble bee can't fly - but no one told the bumble bee. Now they're saying this can't be done, but it's happening."
+
+While the company's followers already extol the high-energy, green, and thrifty virtues of BlackLight's technology, the rest of the world will have to wait for evidence until the fall of 2009, when the business promises to install its cells in power plants. Whether or not Mills' team meets that deadline will likely determine how BlackLight goes down in history - as a revolutionary startup or a flop 19-years in the making.
