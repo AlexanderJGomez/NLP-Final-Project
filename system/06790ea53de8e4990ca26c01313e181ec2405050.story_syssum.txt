@@ -1,0 +1,5 @@
+(CNN) -- The SpaceX Dragon capsule remains on course for the International Space Station despite losing one of nine booster engines, but a satellite launched on the same rocket didn't reach its intended orbit, its operator said Monday.
+The satellite separated properly from the second stage of the Falcon 9 -- but the engine trouble meant the satellite would not pass clear of a safety zone if it fired its own engine, leaving it in a lower orbit than planned, Orbcomm said in a statement issued Monday night.
+Video posted online by the company shows a flash as the rocket ascends, followed by what appears to be debris falling away from the accelerating craft.
+SpaceX, meanwhile, is looking beyond just cargo flights to developing a human-rated version of the Dragon that would carry astronauts to the ISS.
+Instead of using Cape Canaveral as its launch site, the company's rocket will take off from Wallops Island, off the coast of Virginia.

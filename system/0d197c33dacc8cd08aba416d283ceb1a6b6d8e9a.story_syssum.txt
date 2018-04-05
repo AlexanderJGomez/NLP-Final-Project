@@ -1,0 +1,11 @@
+In this case, 175 pages of contractors' internal updates on the beleaguered HealthCare.gov website were blasted out Wednesday night by Rep. Darryl Issa's Republican-led House Oversight and Government Reform Committee.
+An October 8 entry about the number of paper forms turned in at that point simply said "500 applications ... but can't process any because of log-in and other issues."
+Meanwhile, the call center was getting high marks for low wait times and professional operators, but an October 3 note reads: "50% of call center calls have issues."
+In response, the Department of Health and Human Services told CNN that these are contractor notes that only depict the state of the website in its first days.
+"834 issue - Raised here as well - issuers not receiving 834s that they should be getting," a contractor wrote on October 3.
+At one point no one could track whether the final 834 data entered by individuals was actually the same as the 834 data going out to insurers.
+The documents refer to those generally on a first-name basis, but not that many names appear.
+"There was a fix regarding residency for Medicaid and CHIP that was not fixed correctly and is denying ... 90% of people based on residency," the war room notes from the day read.
+In other words, nearly a third of applicants couldn't fill out the form, because the website was skipping "events" or entries they needed to make.
+• Contractors spent almost two weeks sorting out how to handle weight loss surgery and whether insurance companies need to include that in all policies.
+That was affecting the tool and its results, potentially for almost everyone.

@@ -1,0 +1,9 @@
+It's easy to forget that we're volunteering basic information about ourselves in return for free e-mail, social networking and other digital services.
+"So much that's geo-political, so much cybercrime, so many struggles of various types are being played out in terms of information security today," said Wade Williamson, a senior security analyst at Palo Alto Networks.
+"Properly implemented strong crypto systems are one of the few things that you can rely on.
+Many major websites offer the option of using a secure connection all the time.
+There are also tools like HTTPS Everywhere, a free extension for Chrome and Firefox browsers, that encrypt your connection with most major websites.
+But for people who are really worried about their e-mails being intercepted -- and that's always just an unsecured network and an eager hacker away -- Williamson suggests buying encryption software.
+There's some free disk encryption software floating around in the open-source community, but for most folks this, too, will cost some cash.
+To summarize, there are lots of encryption and other security options out there.
+To find a level of security you're comfortable with, start by poking around with security settings on your browser, e-mail client and favorite websites.

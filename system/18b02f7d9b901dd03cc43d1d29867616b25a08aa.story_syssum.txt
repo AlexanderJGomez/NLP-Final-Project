@@ -1,0 +1,4 @@
+(CNN) -- Schools of robotic fish could one day map the ocean floor, detect pollution or inspect and survey submerged boats or oil and gas pipelines, researchers at the Massachusetts Institute of Technology say.
+"Since these prototypes are very cheap, the idea was to build hundreds -- 200, 500 -- and then just release them in a bay or at a port, and they would be roaming around taking measurements."
+At five to 18 inches, the new fish is much smaller than Robotuna and built from a single, soft polymer.
+The new generation has withstood harsh conditions in the lab, including two years of testing inside tanks filled with tap water, which is corrosive to standard robots, according to Alvarado, who says the Robotuna inspired him to take the technology to the next level.

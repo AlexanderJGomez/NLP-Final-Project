@@ -1,0 +1,11 @@
+And as a result, just 10 percent of those surveyed use mobile location services at least once a week, according to the Mobile Marketing Association's latest Mobile Consumer Briefing survey.
+Here's a look at why location-based services haven't yet hit critical mass and what those platforms are doing about it.
+Concerns about loopholes in Foursquare that give others the ability to announce your check-inshave also been raised.
+Users need to know how their location data will be used, and feel comfortable that the companies that have access to it will behave responsibly, according to van Dillen.
+For some users, the privacy concerns of sharing their location might be trumped by the potential utility of receiving highly targeted advertising and promotions.
+For early adopters, though, the long-term promise of more value through targeted ads, coupons and deals, along with the game mechanics (i.e., badges and "mayor" competitions) instituted by some networks has made location-based services worth the potential privacy headaches.
+Facebook, meanwhile, will also reportedly soon enable members to add location details to their status updates and release an API so other apps can offer location ability to Facebook users.
+Unfortunately for Twitter, compared to sites like Foursquare and Gowalla which clearly indicate the value -- every check-in is part of a game, you can find your friends, get tacit recommendations for places to go, and maybe score a deal or two -- Twitter is only communicating what feels like a very niche and impractical value proposition.
+And Facebook hasn't always had the best track record when it comes to rolling out new features in a way that people trust.
+The advantage for both Twitter and Facebook is that their users already have a built-in network of followers and friends, so they don't have to sign up for a new service and start adding people to it.
+What remains to be seen is if the users will go for it.

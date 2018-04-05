@@ -1,0 +1,8 @@
+Paterson suggests the first step for concerned consumers should be to check the security settings on their web camera and ensure that their password is not set to default.
+I believe you can view more or less live footage and it looks like one person has automatically scanned the internet for unsecured cameras and then aggregated this information in one site," Paterson says.
+Paterson says in the case of the Russian website it appears that the operator has concentrated on only a few makes.
+"There have been some very public examples of smart home equipment that could be accessed remotely," he says -- including devices to raise blinds or turn on lights remotely.
+But the same flaw that has allowed this website to access personal feeds, could also have let other online users view your feed -- and they may not be broadcasting the fact.
+It's completely irresponsible -- it's like selling a car without a key piece of safety equipment.
+"If you have strong evidence that somebody has compromised your camera you may be able to take it to law enforcement," he says.
+As the website appears to be Russian-based, however, any potential legal action would require action from the authorities there.

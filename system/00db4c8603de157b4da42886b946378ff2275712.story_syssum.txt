@@ -1,0 +1,10 @@
+(CNN) -- In September 1985 a devastating earthquake measuring 8.1 on the Richter Scale smashed into Mexico City killing 10,000 people and leaving parts of the city in ruins.
+But not everyone has access to a SASMEX receiver -- there are 100,000 in operation but at a cost of roughly $330 apiece, they are a luxury the majority of Mexicans can't afford.
+"Until you live in one of these places you don't really understand the primitive fear of earthquakes," he said.
+"This is the most affordable and the most direct way for the Mexican public to connect to the early warning system," Meira says of the product, which also became Mexico's most successful ever Kickstarter campaign.
+Meira also hopes versions of the Grillo system could be introduced elsewhere in the world where earthquakes are a real risk -- like in Nepal, India, the West Coast of the U.S. and along much of the Pacific Coast of South America.
+On top of that, the $50 price is still a considerable investment for many residents of a country where the average wage remains under $5 a day.
+He speaks of the next stage of the Grillo project which will see hundreds of specially developed sensors placed all over Mexico, feeding into an algorithm that will provide early-warning alerts to apps and smartphones.
+Given that the devices can be produced cheaply and located anywhere with an internet connection, the potential for Grillo to be used in a variety of vulnerable areas around the world is very real.
+The first small batch of Grillo boxes produced have been sold, although they haven't yet seen any action in the field.
+One was a seven pointer (on the Richter scale) and it worked perfectly."

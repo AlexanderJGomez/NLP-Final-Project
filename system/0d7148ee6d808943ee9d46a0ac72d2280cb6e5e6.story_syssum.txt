@@ -1,0 +1,9 @@
+The official says the virus infected the classified military computer systems that control the drones, but it has not "stopped the drones from flying worldwide."
+They're not sure if it's something accidental."
+The virus is logging each keystroke that the remote pilots input, and officials are trying to determine whether any classified information is actually being lost or sent outside the network.
+In the case of the computers that help coordinate the drones, care also has to be taken to back up all the information, so it isn't lost during rebuilding.
+The cyber exploitation being perpetrated against the defense industry cuts across a wide swath of crucial military hardware, extending from missile tracking systems and satellite navigation devices to UAVs and the Joint Strike Fighter."
+Despite the fact the controls are not linked into any outside network, and therefore seemingly impervious to intrusion, the drone systems do have security issues.
+And he surmises that if officials come to think that the data they're receiving from the unmanned vehicles has been compromised, they're much less likely to view the information as safe and valuable.
+Former Deputy Secretary Lynn says, "And the most malicious actors have not yet obtained the most harmful capabilities.
+The most recent high-profile drone strike resulted in the death of U.S.-born militant cleric Anwar al-Awlaki in Yemen last month.

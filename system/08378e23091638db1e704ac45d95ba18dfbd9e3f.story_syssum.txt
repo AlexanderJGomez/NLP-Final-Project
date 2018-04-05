@@ -1,0 +1,11 @@
+Facebook and Google have added new translation tools, but they take different approaches.
+Facebook Inc. and Google Inc. are two Web companies trying particularly hard to make this happen, and they've released a number of updates to their translation services in recent weeks.
+But for now, here's a look at the latest language features from both companies, and some background on how their translation services work.
+(Feel free to add your own Internet translation tips -- and fun translation bloopers -- in the comments section at the bottom of the story):
+At least another 30 languages are in the works, meaning Facebook needs help working out the kinks on those languages before they're put to use.
+Pros and cons: People are good at knowing idioms and slang, so Facebook tends to get these right, but there are limited numbers of multi-lingual volunteers who want to spend time helping Facebook translate things.
+How it works: Google's computers learn how to be translators by examining text that's already on the Web, and from professional Web translations posted online, said Franz Och, a principal scientist at Google.
+The site's interface has been translated, with the help of Google users, into 130 languages.
+Google also recently unveiled a translation service for Google Docs, which lets anyone upload a document to the Web and have it translated into a number of languages for free.
+Och said real-time translation of Internet chats is on the horizon, as are more languages and increased quality as Google's computers get smarter.
+Also, Google lets people spot translation errors, suggest new wordings and translate its interface into languages Google's computers don't speak just yet.
