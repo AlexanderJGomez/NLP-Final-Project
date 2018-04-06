@@ -1,0 +1,4 @@
+"We're just getting started with the Gmail app for iOS and will be iterating rapidly to bring you more features, including all the ones listed above plus many more," Matthew Izatt, a product manager, wrote on Google's Gmail blog.
+"Based on your comments we have already improved our handling of image HTML messages - they are now sized to fit to the screen and you can pinch to zoom in. "
+The whole ordeal led at least one tech writer to lose his faith in the company's innovative potential.
+"I really like it, the UI is great - don't know what all these people are complaining about," one person wrote on the app's page in iTunes Preview.

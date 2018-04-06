@@ -1,0 +1,11 @@
+(CNN) -- "Skyfall," the 23rd installment in the James Bond series, one of the longest-running film franchises in history, recently landed at the top of the box office with $87.8 million in ticket sales.
+Shaking disbelief: One of the standout moments in "Skyfall" is the film's opening sequence in which Bond, played for the third time by Daniel Craig, and field operative Eve, played by Naomie Harris, chase a man through the streets of Istanbul.
+"If you take Osama bin Laden, for example, they're not going to have big classified systems or safeguards that go with that," Wright said.
+"That's very consistent when you're not part of the government and you lack the infrastructure to build out a big system that a national security agency does," Wright said.
+"It's not very plausible that the government is going to put all of their sensitive information on one hard drive that manages to get stolen because that would be a violation of what they call OPSEC," Wright said.
+Shaking disbelief: After hacking into the MI6 mainframe, Silva accesses the London Underground and manages to send one of the Tube's trains off the rails, launching it toward Bond in rapid succession.
+"You can create a small explosion or diversion using a computer to change the lights from go to stop or interfering with the traffic control capabilities of the track by overriding a command."
+Still, just like M's office, Wright said the idea that Silva could target a train so quickly and send it to Bond's location is based predominately in fantasy.
+By doing so, Wright and his team were able to see the latest techniques being used and which vulnerabilities cyberterrorists were willing to exploit.
+"People tend to get comfortable using their own techniques, and they use the same approach over and over again," Wright explained.
+"You can get a profile of an attacker, determine if it was the same group doing something else, and see what methodology they're using."

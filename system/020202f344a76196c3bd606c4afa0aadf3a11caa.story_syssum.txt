@@ -1,0 +1,4 @@
+Ookla, creators of the Speedtest.net broadband test, compiled data from tests run by iPhone customers using the Speedtest.net app on both AT&T and Verizon.
+However, the AT&T iPhone sometimes could not complete tests because it did not have a connection, whereas the Verizon iPhone successfully completed every test.
+In short, I found the Verizon iPhone to be slower with network transfers but more reliable with coverage.
+Speedtest.net's nationwide results back my verdict: You should get a Verizon iPhone if you really care about voice quality and calls, but the AT&T iPhone is better as a media-consumption device (Netflix movies, photo downloads and uploads, etc.)

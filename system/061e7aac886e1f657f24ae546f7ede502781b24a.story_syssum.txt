@@ -1,0 +1,10 @@
+Think of Zite, the free personalized iPad magazine that launched today, as the Genius playlist or Pandora of news discovery -- but with one noticeable advantage: Zite is smarter, at least for now.
+Link a Twitter account or Google Reader, and Zite will analyze (not simply display) your feeds to create a magazine tailored to your interests.
+Did I enjoy straight-news items or editorials?
+"It's a combination of semantic- and statistically based machine learning," says CEO Ali Davar, of Zite's content algorithm, the technology of which has been in development for years.
+Users can tell Zite whether they enjoyed a particular article, whether they liked a particular source, or whether they want more news on a particular topic area.
+Users can select these topics on their own, but Zite is best at autosuggesting them--after playing with the app for a week, Zite began featuring "Graphic Design & Typography" as one of my top news sections.
+According to the Vancouver-based company, Zite is the first iPad news reader "to go beyond manual customization."
+So, for example, your technology section and someone else's will look very different based on your behavior -- rather than being the same generic thing that everyone else is seeing."
+But when it comes to "personalized" content discovery, Zite follows in the same impressive footsteps as Pandora and Netflix -- and certainly gives Flipboard a run for its money.
+All rights reserved.

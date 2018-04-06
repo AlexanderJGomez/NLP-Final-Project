@@ -1,0 +1,4 @@
+It uses a system designed by Amazon subsidiary Kiva that keeps track of all inventory so the robots know exactly what is on each storage unit.
+Like a choreographed routine they move autonomously up and down the aisles of the warehouse at about 10 kilometers per hour -- never missing a step, and always hitting their mark.
+They are designed to operate in tight quarters and at just 76 cm long, 64cm wide and 41 cm high, the robots are small enough to travel under the storage units, yet strong enough to lift almost a metric ton of merchandise.
+Quiet Logistics has 400 people working on fulfillment at the Massachusetts facility alone, so these smart machines are not yet ready to replace living workers.

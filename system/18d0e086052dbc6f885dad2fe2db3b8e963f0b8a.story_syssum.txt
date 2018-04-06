@@ -1,0 +1,5 @@
+Evernote said the encryption coding they use to protect passwords is "robust," but still sent the password warning to users of the service, which is popular among college students and others who rely on taking notes for later use.
+It is easy to imagine how this information could be abused -- for instance, the hackers could send out spam emails to those users claiming to come from Evernote, and trick them into visiting a malicious website.
+"That's a technique commonly used in a normal marketing email communications, but looks very out of place in an email about a security breach which tries to hammer home the point to 'Never click on reset-password requests in emails," he said.
+Reports that surfaced last week suggested that a gang of hackers based in Eastern Europe was behind at least some of the attacks, using a website frequented by developers who use Apple's mobile operating system to worm their way into companies where they hoped to steal valuable information.
+CNN's Melissa Gray contributed to this report.

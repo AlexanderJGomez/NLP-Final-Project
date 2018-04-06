@@ -1,0 +1,6 @@
+Like with Facebook Music, the social network may create monthly personalized reports that are posted to a person's profile showing how the app was used at any given time.
+For example, someone could see the places a friend traveled to last summer, thanks to TripAdvisor.
+Whether food, movies or exercises logged into Facebook, the site will try to predict what you're most passionate about based on past choices, similar to how the system determines its news feed based partly on the people you contact most often, Taylor said.
+Taylor described the new app features as part of a maturation of Facebook, which goes beyond the initial perspective of its co-founder, Mark Zuckerberg, who coded the website in his sophomore year at Harvard University.
+Facebook will review each new action, as it's called, that's proposed by developers in order to screen for profanity or other unwanted words, Mike Vernal, the company's platform engineering director, said in an interview.
+"We've got a whole new set, a whole new class, of applications that we think we're enabling with this platform," Carl Sjogreen, a Facebook product director, said onstage during the announcement.

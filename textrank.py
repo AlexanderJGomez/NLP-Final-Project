@@ -75,7 +75,6 @@ def createSummary(fileName, separator='\n', summaryLength=5):
     rankedSentences = rankedSentences[:summaryLength]
     summary = "\n".join(list(map(lambda index: sentences[index], sorted(rankedSentences))))
 
-    print(summary)
     return summary
 
 def baseline(fileName, separator='\n', segmentSeparator='\n###\n'):
@@ -102,8 +101,4 @@ def baseline(fileName, separator='\n', segmentSeparator='\n###\n'):
         summaries.append(summary)
         idx = nextIdx
 
-    for summary in summaries:
-        print(summary + '\n')
     return summaries
-
-createSummary('data/star_wars_episode1.txt', summaryLength=1)

@@ -1,0 +1,7 @@
+"Unauthorized data transfers routinely occur on classified networks using removable media and are a method the insider threat uses to exploit classified information.
+It's one of a number of moves the Defense Department is making to prevent further disclosures of secret information in the wake of the WikiLeaks document dumps.
+One military source who works on these networks says it will make the job harder; classified computers are often disconnected from the network, or are in low-bandwidth areas.
+"Users will experience difficulty with transferring data for operational needs which could impede timeliness on mission execution," the document admits.
+Tape and disk backups, as well as hard drive removals, will continue as normal in the military's Secure Compartmented Information Facilities, where top-secret information is discussed and handled.
+The ban was lifted this February, after the worm cleanup effort, dubbed "Operational Buckshot Yankee," was finally completed.
+But, like all Darpa projects, this one won't be ready to deploy for years -- if ever.

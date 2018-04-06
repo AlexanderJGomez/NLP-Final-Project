@@ -1,0 +1,9 @@
+In the past year, researchers have developed technology that makes it possible to use thoughts to operate a computer, maneuver a wheelchair or even use Twitter -- all without lifting a finger.
+But what would happen if they focused their nefarious energy on neural devices, such as the deep-brain stimulators used to treat Parkinson's and depression, or electrode systems for controlling prosthetic limbs?
+Some might question why anyone would want to hack into someone else's brain, but the researchers say there's a precedent for using computers to cause neurological harm.
+Hacking into these devices could enable patients to "self-prescribe" elevated moods or pain relief by increasing the activity of the brain's reward centers.
+This is the first time an academic paper has addressed the topic of "neurosecurity," a term the group coined to describe their field.
+"I would not be surprised if most people working in this space have never thought about security."
+Perhaps the best example is the Internet, which was originally conceived as a research project and didn't take security into account.
+Kohno and his colleagues hope to avoid such problems in the neural device world, by getting the community to discuss potential security problems before they become a reality.
+Subscribe to WIRED magazine for less than $1 an issue and get a FREE GIFT!
