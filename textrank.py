@@ -57,7 +57,7 @@ def createSummaryMatrix(sentences, sameSegments=None):
     for i, sentence1 in enumerate(sentences):
         for j, sentence2 in enumerate(sentences):
             if sameSegments is not None:
-                matrix[i][j] = similarity(sentence1, sentence2, True)
+                matrix[i][j] = similarity(sentence1, sentence2, sameSegments.get((sentence1, sentence2), False))
             else:
                 matrix[i][j] = similarity(sentence1, sentence2, False)
 
