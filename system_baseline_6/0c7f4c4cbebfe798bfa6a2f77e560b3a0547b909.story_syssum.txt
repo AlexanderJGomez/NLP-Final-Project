@@ -1,0 +1,6 @@
+except that it would be so old, the email and password wouldn't get you anywhere.
+Maekju80: "I'm surprised that many people still use Yahoo.
+The company cut 2,000 jobs in April as part of an overhaul by then-CEO Scott Thompson.
+In a written statement Thursday, Yahoo said they were fixing the exploit the hackers used and changing the passwords of users who were hit.
+Over-react much?"
+But security firm Sucuri Labs has created a page with a tool it says will tell users whether their e-mail address was leaked.

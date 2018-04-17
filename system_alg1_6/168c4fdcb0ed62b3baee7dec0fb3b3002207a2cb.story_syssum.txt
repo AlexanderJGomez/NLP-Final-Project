@@ -1,0 +1,11 @@
+Why aren't air traffic controllers using it to constantly track all commercial airliners?
+Why don't all airliners stream their so-called black box data to satellites in real time?
+Throughout most of the world, air traffic controllers still track airplanes with radar -- which uses technology dating back to the 1940s.
+Aircraft flying more than about 200 miles from land over oceans are not tracked by air traffic control radar screens.
+In these cases, air traffic controllers see only a blip on radar screens.
+• Later, an orbiting satellite checks in with the plane's satellite transceiver, kind of like a cell tower pinging a mobile phone.
+We might know more about what happened to MH370 if air traffic controllers used orbiting satellites to track airliners, instead of radar.
+An aircraft outfitted with this system determines its location using GPS and transmits that data back to controllers by radio -- which has a greater range than radar.
+Another emerging technology that might have helped us know more about what happened is called AFIRS, the Automated Flight Information Reporting System, developed by a Canadian company called FLYHT.
+Possibly.
+Although technology continues to shrink the planet in terms of communication, the tragedy offers a bitter reminder of how easy it still is to lose an entire airliner full of people.

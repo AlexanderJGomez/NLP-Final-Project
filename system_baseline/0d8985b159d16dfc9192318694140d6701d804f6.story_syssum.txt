@@ -1,9 +1,0 @@
-They are created through a digital mining system, in which digital "miners" are granted Bitcoins by using their computers to do computations that verify Bitcoin transactions.
-As a result, Bitcoins seem to present the best of all possible worlds -- the convenience of modern digital payment technology and the stability of a fixed money supply.
-The near anonymity built into the Bitcoin system keeps funds away from the prying eyes of tax collectors, who are getting ever better at shutting down tax havens.
-No one really knows who is really behind Bitcoins, as the creator is just a pseudonym Satoshi Nakamoto.
-I would not be surprised if the Bitcoin mining software becomes a magnet for computer viruses.
-The authorities won't be too eager to help out Bitcoin-based financial enterprises when they get in trouble, just as they were all too eager to punish the depositors of the Cyprus banks storing questionable funds from Russian oligarchs.
-If Bitcoin ever could establish itself as a legitimate payment scheme, which I doubt, it's hard to tell what the appropriate exchange rates should be with respect to other currencies.
-One can expect governments to throw up legal roadblocks to prevent such competition from cutting into the lucrative business of printing money.
-Much as we love to criticize the governmental entities that control the monetary system, it does help to have some human judgment (armed with a checkbook) involved to deal with crises.

@@ -1,0 +1,9 @@
+Facebook and Google have added new translation tools, but they take different approaches.
+Facebook Inc. and Google Inc. are two Web companies trying particularly hard to make this happen, and they've released a number of updates to their translation services in recent weeks.
+But for now, here's a look at the latest language features from both companies, and some background on how their translation services work.
+How it works: Real people are at the heart of Facebook translation plan.
+The update allows sites to install a translation gadget on their sites through Facebook Connect, a service that lets Facebook users sign in on other Web pages.
+How it works: Google's computers learn how to be translators by examining text that's already on the Web, and from professional Web translations posted online, said Franz Och, a principal scientist at Google.
+Size: Google claims to be the largest free language translation service online.
+And there's a new Firefox add-on from Google to help people translate the Web more quickly.
+Also, Google lets people spot translation errors, suggest new wordings and translate its interface into languages Google's computers don't speak just yet.

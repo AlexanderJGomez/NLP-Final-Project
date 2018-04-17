@@ -1,0 +1,4 @@
+The FBI tracked down the teen and believes the 18-year-old, known by the cyber alias "AKILL," was the ringleader of an international botnet group know as the "A-team," responsible for infecting more than 1 million computers.
+"Today, botnets are the weapon of choice for cyber criminals," said FBI Director Robert Mueller in a statement.
+Between January and June, Symantec Corp., a leading computer security company, detected more than 5 million bot-infested personal computers carrying out at least one attack a day, according to the company's September report.
+However, 43 percent of the servers used by hackers to operate the hijacked computers were located in the United States, Symantec said.

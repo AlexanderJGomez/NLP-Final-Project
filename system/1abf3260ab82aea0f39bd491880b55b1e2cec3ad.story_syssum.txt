@@ -1,9 +1,0 @@
-Exciting or frightening, these connected devices of the futuristic "smart" home may be familiar to fans of science fiction.
-But there's a catch: So far, most Internet of Things products have been a messy tangle of different wireless protocols and brands.
-Now chipmaker Qualcomm is trying to give the industry a major push with an open-source project that can link all these disparate pieces.
-"The only way that vision can be realized is if we turn this into a true panindustrial effort with companies all over the world," said Liat Ben-Zur, Qualcomm's senior director of product management.
-But consumers like to have choices and will demand that closed systems learn to communicate with each other," explained Karen Bartleson, president of the IEEE Standards Association.
-But the connected-things revolution will only work if all the companies and products find a way to break out of their silos and work together, according to Ben-Zur.
-The Internet becomes a two-way street where we share context about our location, environment and habits so it can serve up customized information.
-Sensors will show up in more and more devices and turn them into sponges that soak up data about our habits, environment, movements and health.
-"The guys who had been running mobile for 20 years had no idea that some developer was going to take the touchscreen and microphone and some graphical resources and turn a phone into a flute," Ben-Zur said.

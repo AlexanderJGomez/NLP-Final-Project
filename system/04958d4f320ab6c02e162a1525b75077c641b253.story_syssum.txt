@@ -1,5 +1,0 @@
-A security firm that had pointed the finger at a 17-year-old Russian last week updated its report Monday to identify a different Russian resident as being responsible for writing the malware used in an attack compromised the credit card numbers and other personal information of up to 110 million Target customers.
-One of the things the hackers do is take the malware as it's called.
-The first sample of the malware was created in March and since then, more than 40 versions have been sold around the world, IntelCrawler said.
-Andrew Komarov, IntelCrawler CEO, said most of the victims are department stores and said more BlackPOS infections as well as new breaches could appear soon.
-All 40 million may have been damaged in some way, and under law they can all be joined together in a class action lawsuit."

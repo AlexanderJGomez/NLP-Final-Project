@@ -1,0 +1,6 @@
+Radar data from air traffic control can provide tracking data that will indicate the flight path, altitude and direction the A320-200 followed.
+With Malaysia 370, radar data was sketchy; satellite data has been the primary source in determining the track and thus the search area.
+Experience dictates much of the decision process that airline pilots use to deviate around convective weather.
+And let's not be misled by the reported request of Flight 8501 asking air traffic control for a higher altitude.
+Perhaps a high altitude stall occurred and the airplane never recovered.
+For the moment, I am keeping my fingers crossed that a search and rescue operation will find survivors.

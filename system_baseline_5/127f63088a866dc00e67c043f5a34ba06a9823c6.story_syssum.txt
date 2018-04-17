@@ -1,0 +1,7 @@
+The company expects to roll out an update to its free Google Search app later this week with the new feature, which uses speech-recognition technology to understand spoken, natural language search requests.
+The app also can give answers specific to your location, such as movie times or weather.
+For example, a search for "Luxor" will suggest the Las Vegas casino, the city and the original Egyptian temple in search field.
+A search for famous astronauts will bring up images of relevant people, along with dates of birth and death.
+When the feature is on, Google will search the Web as well as all the e-mails in your account and include a list of relevant e-mails or contacts on the side of your screen.
+In 2011, the search team conducted 58,000 experiments on search and made 530 tweaks to how search works.
+"The destiny of search is to become that 'Star Trek' computer," he said.

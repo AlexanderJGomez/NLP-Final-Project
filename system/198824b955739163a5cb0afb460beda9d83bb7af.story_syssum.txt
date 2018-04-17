@@ -1,7 +1,0 @@
-(CNN) -- At least one corner of the solar system may be serving up an ice-and-water sandwich, with the possibility of life on the rocks.
-When we added salts to our models, we came up with liquids dense enough to sink to the sea floor."
-Vance and colleagues did not visit Ganymede, obviously, but they performed laboratory experiments here on Earth to simulate what would happen to ice and salty water on the Jupiter moon.
-They showed that the density of liquids goes up with the presence of salt under extreme conditions inside moons such as Ganymede.
-Computer models taking all of that into account suggest that Ganymede has as many as three ice layers with liquid ocean between them.
-Senior author Christophe Sotin, also of NASA's JPL, said in a statement that the "sandwich" model reflects a stable state, but there are various reasons why the moon might not achieve this structure; it may even alternate between a "club sandwich" phase and a structure with fewer layers: light ice, ocean, high-pressure ice.
-We may learn more about Ganymede and other moons with the potential of life through a space mission called Jupiter Icy Moons Explorer, or JUICE.

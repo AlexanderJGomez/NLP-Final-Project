@@ -1,0 +1,10 @@
+(CNN) -- The sub-zero climes of northern Sweden are an unlikely outpost for the world's hippest tech firms.
+"As far as we understand it this is one of the best places to establish data centers," Frenning added.
+With so many wealthy companies with increased data related needs, storage clearly has the potential to become a highly lucrative business in this part of the world.
+An abundance of renewable energy sources, meanwhile, ensures the large amounts of electricity required to power data centers is clean and environmentally friendly.
+"The environmental impact (of data centers in the north of Sweden) is pretty much zero," said Anne Graf of the Node Pole, a regional trade body designed to attract investment into Lulea, Boden and nearby town Pitea.
+"When I do a Google search, somewhere there is a computer processing that.
+It needs ventilation.
+"For companies like Facebook or even Google that kind of latency difference (the time between a button being pressed and that action occurring) is negligible," Sverdlik said.
+"In the post-Snowden world there is mistrust (from people) in having their data held outside of their country," Sverdlik added.
+"They've lost industries like paper and aluminum and have an excess of power (and) data centers appear to be a very high revenue load.

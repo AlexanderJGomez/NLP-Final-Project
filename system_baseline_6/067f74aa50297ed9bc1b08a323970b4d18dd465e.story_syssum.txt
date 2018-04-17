@@ -1,0 +1,7 @@
+This next version of Android, called 3.0 or Honeycomb, is its first designed for tablets but will also run on smartphones.
+Previously, you'd have to open the Android app on a smartphone in order to search for and download programs.
+But the synchronization features will mean little if Google can't persuade smartphone customers to purchase upcoming Android tablets.
+Honeycomb also has a live video chat function that will let tablet users talk with other people who are using Gmail on a computer.
+The new Android software includes improved multitasking functionality, so you can see a window of what apps you were previously using looked like when you closed out of them.
+CNN  announced onstage it will offer an Android app with iReport functions and live video capabilities.
+T-Mobile and AT&T also announced more information on new Android phones this week, none of which will run the Honeycomb software at first.

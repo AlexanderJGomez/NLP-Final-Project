@@ -1,7 +1,0 @@
-Historically, the planning and design of mass transit systems involved a team of experienced professionals working exclusively with those from other key stakeholder groups.
-But just as today's open source product designs on the Web have benefited and improved from the collective effort of programmers, so has Musk decided to confront the design bottleneck by opening up the design process to the general public -- anyone and everyone who cares.
-The difficult part is to make the system safe and efficient while accounting for all the possible contingency events that may arise.
-We've just embarked on a path that can bring together the visionary transportation engineers, architects, urban planners and information technology experts who are willing to collaborate on the design process and flesh out its flaws to make the dream of building the world's fastest and safest transit system a reality.
-Already, the Hyperloop has provoked comparisons with the predominant modes of transport between the two megacities, San Francisco and Los Angeles.
-For a fair comparison, Musk's travel time estimate of 30 minutes between San Francisco and Los Angeles must also be scaled up to include passenger loading/unloading times at the Hyperloop stations and the time to reach and navigate these stations.
-Wouldn't it be cool if in the next three years, the SFO airport has the capability to transfer passengers from BART to security check points located close to aircraft boarding zones using a super fast capsule-tube-propulsion system?

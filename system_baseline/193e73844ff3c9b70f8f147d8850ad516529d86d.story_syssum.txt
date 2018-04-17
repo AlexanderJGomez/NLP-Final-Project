@@ -1,4 +1,0 @@
-By matching email addresses or other identifying information associated with those cards against emails or information used to establish Facebook accounts, Datalogix can track whether people bought a product in a store after seeing an ad on Facebook.
-Marketers are eager for more data to see how their Facebook ad campaigns perform, but some said they still are figuring out how to evaluate the new data.
-Jeff Chester, executive director of the Center for Digital Democracy, a privacy group, said this practice does not provide Facebook users with sufficient control over their data or with transparency over how it is being used.
-Facebook and Datalogix said individual-level purchasing data were not shared with Facebook or its advertisers.

@@ -1,8 +1,0 @@
-Also, recent statistics from Nielsen indicate that U.S. mobile users spend more time on their phones doing e-mail than using Facebook.
-Mobile users typically arrive first after the phishing e-mails are sent out.
-This is crucial, since internet providers and web hosts watch for phishing-style activity on their networks and often act quickly to block phishing sites.
-Mobile users are three times more likely than desktop users to enter login information.
-According to ComScore's latest figures, there are still more BlackBerry phones than iPhones in use in the U.S. market.
-In contrast, the iPhone is overwhelmingly a consumer device.
-Logos, e-mail addresses, and other visual clues to authenticity can be faked.
-Just make sure you don't just call whatever phone number is listed in the e-mail message.

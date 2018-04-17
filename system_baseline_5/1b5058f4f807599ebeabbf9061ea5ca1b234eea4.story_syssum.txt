@@ -1,0 +1,5 @@
+1,660,290: The number of new cases of cancer expected to be diagnosed in 2013.
+68: The percentage of people who survive cancer.
+This includes treatment and lost wages and productivity.
+Around 232,340: New cases of invasive breast cancer in women for 2013.
+2: Vaccines approved by the FDA to prevent certain types of cancer: one against the hepatitis B virus, which causes liver cancer, and against the HPV viruses 16 and 18, which cause most cases of cervical cancer.

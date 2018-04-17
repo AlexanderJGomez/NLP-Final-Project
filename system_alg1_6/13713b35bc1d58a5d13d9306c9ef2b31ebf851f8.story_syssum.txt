@@ -1,0 +1,5 @@
+Apps for foodies, like Foodspotting and Foodily, can publish to a user's Facebook profile when she updates her digital diary of meals.
+Facebook programmers have created a mathematical algorithm that will examine the types of posts a person has chosen to give prominent placement to on his or her profile, Facebook CTO Bret Taylor said in an interview.
+Each user will be able to manually override these profile placements, he said.
+Facebook will review each new action, as it's called, that's proposed by developers in order to screen for profanity or other unwanted words, Mike Vernal, the company's platform engineering director, said in an interview.
+"We've got a whole new set, a whole new class, of applications that we think we're enabling with this platform," Carl Sjogreen, a Facebook product director, said onstage during the announcement.

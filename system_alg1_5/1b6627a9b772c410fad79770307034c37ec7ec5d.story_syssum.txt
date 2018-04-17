@@ -1,0 +1,12 @@
+When iCloud drops this fall, Apple will join Amazon.com and Google, two major players that have already begun rolling out storage services.
+For music, Apple has the incumbent's advantage.
+"It takes minutes, not weeks," Jobs said.
+Apple, instead, uses a "scan-and-match" procedure, finding which of your songs are also sold in the iTunes Store and giving you the keys to access those.
+Google does not have a music store.
+So we're making it free," Jobs said.
+Amazon's Cloud Drive can also store photos and video, but those files do count against a user's total.
+Apple has integrated iCloud tightly into the mobile and computer systems it makes, starting with Mac OS X Lion and iOS 5, which debut next month and in the fall, respectively.
+Apple will also have websites for accessing e-mail, calendar and other features, as well as allowing Windows-PC users to sync photos to a folder.
+Shortly after the launch of the now three-year-old Web service, Jobs assembled the team who developed it and told them: "You've tarnished Apple's reputation," according to a story in Fortune magazine.
+"If you don't think we're serious about this, you're wrong," he said, before transitioning to pictures of a massive facility Apple built in Maiden, North Carolina: "This is our third data center that we just completed.
+It's rather large."

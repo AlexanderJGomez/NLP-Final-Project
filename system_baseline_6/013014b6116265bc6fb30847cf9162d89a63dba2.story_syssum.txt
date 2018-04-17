@@ -1,0 +1,10 @@
+1.
+Mistake: Treating the wrong patient            • Cause: Hospital staff fails to verify a patient's identity.
+• Consequences: Tools get left inside the body.
+• Consequences: Medical treatments backfire.
+• Consequences: Patients get sicker while waiting for care.
+• Example case: Malyia Jeffers
+Mistake: Infection infestation     • Cause: Doctors and nurses don't wash their hands.
+• Consequences: Patients can die from infections spread by hospital workers.
+• Example case: Alicia Coleman
+• Example case: Erin Cook

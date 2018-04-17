@@ -1,4 +1,0 @@
-With Facebook hogging the spotlight last week and Google working to stay in the game with Google+, Microsoft has quietly launched So.cl, which it describes as a social-search tool to share information and meet people with common interests.
-You can share, comment on or tag other people's posts.
-It also lets them find other users with similar interests and build communities around specific goals, educational or otherwise.
-On So.cl's FAQ page, Microsoft makes it clear that their new tool is designed as a layer on top of existing networks.

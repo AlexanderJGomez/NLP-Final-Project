@@ -1,0 +1,4 @@
+"As soon as we discovered the presence of the malware, we remediated all infected machines, informed law enforcement and began a significant investigation that continues to this day," Facebook Security said in the post.
+Unlike Twitter, Facebook said it has found no evidence that any user information was compromised.
+Facebook said the site responsible for its attack took advantage of a previously unknown Java vulnerability, which Oracle patched on February 1.
+If you must use Java, make sure that you have downloaded the latest updates, which include key security patches.

@@ -1,0 +1,10 @@
+(CNN) -- Over the past week, two popular Internet messaging companies, SnapChat and Skype, were hacked.
+Yes, absolutely.
+SnapChat then blogged that it knew about the flaws, but was satisfied with the changes it implemented and didn't expect the service to be exploited.
+Skype, a division of Microsoft, can't even say that.
+Unfortunately, the answer is no.
+The social media accounts of Skype that were accessed by the Syrian Electronic Army had optional two-factor authentication available, but it was apparently not enabled by Skype.
+No user info was compromised.
+But this is 2014.
+Demand accountability.
+Join the conversation on Facebook.

@@ -1,0 +1,5 @@
+(CNN) -- Investigators now say that, according to automated electronic connections attempts by the ACARS data reporting system of Malaysia Flight 370, the airplane flew far to the west, in an entirely different direction than it should have been heading as per its original flight-planned route, which was to the north.
+After passing one waypoint, it could have been directed to fly to the next waypoint by a pilot turning the heading knob toward that exact place, a process that would require some piloting expertise.
+The almost certain explanation would be that these waypoints were programmed into the flight management system of the 777-200, a task that would have been beyond the abilities of anyone but a professional pilot.
+Either the flight was commandeered by a group with at least one professionally trained pilot among them or one of the pilots in control programmed the new off-route flight plan into the flight management system.
+In the case of Flight 370, it would almost certainly have remained on autopilot, which would have dutifully followed the flight plan in the flight management system.

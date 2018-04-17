@@ -1,0 +1,5 @@
+But that's how many Mac users are feeling after the Wall Street Journal reported Tuesday that Orbitz was steering Mac users toward higher-priced hotels than PC users, based on spending habits discovered by one of the site's algorithms.
+In the Wall Street Journal story, Orbitz engineers said they were experimenting with predictive analytics based on users' computers, which resulted in Mac users being served up a different set of results -- often with a bigger price tag.
+They argued that what Orbitz is doing is unfair and that it is forcing Mac users to take longer or dig deeper for a deal.
+Orbitz data show that Mac users are likely to spend $20 more a night on a hotel than PC users, on average, Harford said.
+We are really excited about the potential to use this wisdom ... to make travel better for consumers," he said.

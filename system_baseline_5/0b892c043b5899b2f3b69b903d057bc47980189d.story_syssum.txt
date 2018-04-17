@@ -1,0 +1,7 @@
+And one, the Stuxnet virus, was able to penetrate Iran's Natanz nuclear facility, researchers say.
+So, Stuxnet infected a third party first, likely a trusted contractor to the Natanz facility.
+Stuxnet spread through the network undetected.
+Stuxnet is the suspected culprit.
+Who created Stuxnet is still a mystery.
+The problem, he says, is that Stuxnet, in its bid to stop nuclear proliferation, may have sparked its own arms race.
+"To build the first nuclear bomb, it took a genius like Oppenheimer and the resources of the Manhattan project.

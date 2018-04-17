@@ -1,0 +1,5 @@
+Now the Air Force figures it's time for drones to get a lot smarter, especially as they take off or land.
+Planes in the air have to coordinate with Air Traffic Control for the order in which they can safely land, taking precautions not to get in anyone's way until it's their turn.
+On Tuesday, the Air Force Research Laboratory at Ohio's Wright-Patterson Air Force Base said it'll soon solicit engineers to design an algorithm to allow drones to "integrate seamlessly" with piloted planes for takeoff and landing.
+There's a clear commercial application here.
+As Wired mentioned on Wednesday, FedEx is starting to think about an airfleet of linked-up drones that can fly in formation at the direction of a piloted aircraft.

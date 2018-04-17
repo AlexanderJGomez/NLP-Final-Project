@@ -1,0 +1,13 @@
+In the letter, the FTC also criticized a major ICANN initiative that would let Internet users run their own domain-name extensions, to accompany .com, .org and others.
+There are several other governmental gatekeepers for the Web, but ICANN gets the most attention, and ire.
+As for the domain expansion, ICANN officials say they are working to improve the data they can provide to governments and police, and that they have stringent rules in place for who can register which extensions.
+Proposals for new Internet initiatives are often handed to ICANN by various Internet registry organizations, and the ICANN board votes on each.
+With the Stop Online Piracy Act in the United States or systems in China and other Asian countries proposing major changes to who is responsible for what information is posted online, ICANN has to pick its battles and juggle hundreds of competing interests.
+"ICANN stays neutral, and it has to keep running," Beckstrom said in a recent interview from his office here in Silicon Valley.
+However, ICANN has a fairly small role in this transition from Internet Protocol version 4 to 6, ICANN chairman Steve Crocker said in a phone interview.
+"We don't have the authority of being a government," he said.
+The Internet has an effective system of checks and balances, said John Curran, the president and CEO of the American Registry for Internet Numbers.
+Vint Cerf, a sage-like founding father of the Internet, has discovered ways to continue contributing to Internet governance since stepping down as ICANN chairman in 2007.
+"The Internet doesn't just happen," Cerf said by phone.
+Cerf said he believes governmental organizations, like ICANN, will need to continue to adapt.
+As new demands and stakeholders emerge, the Internet and its stewards will find obstacles, whether it's an overzealous government or the speed of light.

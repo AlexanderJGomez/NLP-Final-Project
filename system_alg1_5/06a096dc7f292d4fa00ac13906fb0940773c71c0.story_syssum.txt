@@ -1,0 +1,6 @@
+More than 400 years later, however, and fire is still one of the gravest threats to shipboard life.
+"There are numerous barriers, like sills, that would block a wheeled robot.
+"Shipboard fires must be suppressed, whereas in many civilian fires, a building can be considered a loss and the focus might shift to containing the fire to prevent spread," he told CNN.
+The robot, say developers, can handle a fire hose on its own.
+"The robot has the ability to do autonomous tasks, but we have a human in the loop to allow an operator to intervene in any type of task that the robot's doing," he said.
+"For instance, a bipedal robot could be configured to take shipboard measurements, scan for corrosion and leaks, and identify changes to the shape of the room from its original configuration," he said.

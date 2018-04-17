@@ -1,0 +1,6 @@
+(CNN) -- When news broke that six e-mail accounts belonging to members of the Bush family were hacked and some of the contents posted online, reactions ranged from being offended to amusement.
+The recent spate of security breaches and the attention focused on them will mean that government and businesses will up their game even more to secure our information infrastructure.
+Some Web-based e-mail services like Google's Gmail offer tools to add an extra layer of protection.
+Two-step verification drastically reduces the chances of someone stealing the personal information from your e-mail account because hackers would have to not only get a password and your user name, they would also have to have access to the mobile phone to which the code is sent.
+For an extra level of security, check to see if other websites you use offer HTTPS for transmission.
+So instead of throwing up your hands that Web-based e-mail and online data transfers can never be secure, seek out and use the security tools that already exist.

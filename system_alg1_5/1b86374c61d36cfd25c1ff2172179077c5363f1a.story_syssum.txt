@@ -1,0 +1,9 @@
+(CNN) -- Let's face it: Most of us don't e-mail, tweet, text or post anything worthy of clandestine scrutiny.
+"Encryption works," he wrote.
+Encryption is a method of securing your files, including e-mail, by encoding it so that the intended recipient can read it, but anyone who may intercept the message along the way cannot.
+With all of the renewed interest in online privacy, we talked with Williamson about ways to help keep your data secure -- before, during and after sending it.
+"By and large, you can just throw an 'S' into the URL and go to town," Williamson said.
+Check your e-mail's security settings for options.
+There's some free disk encryption software floating around in the open-source community, but for most folks this, too, will cost some cash.
+To summarize, there are lots of encryption and other security options out there.
+To find a level of security you're comfortable with, start by poking around with security settings on your browser, e-mail client and favorite websites.

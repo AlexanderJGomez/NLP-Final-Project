@@ -1,4 +1,0 @@
-But a new report claims that Microsoft willingly collaborated with the NSA and even allowed federal agents to circumvent the company's own encryption system to spy on users' messages.
-"Third, we only ever comply with orders about specific accounts or identifiers, and we would not respond to the kind of blanket orders discussed in the press over the past few weeks, as the volumes documented in our most recent disclosure clearly illustrate," the company said.
-The revelations about Prism have alarmed everyone from members of Congress and foreign leaders to privacy activists and citizens who organized anti-NSA protests across the United States on the Fourth of July.
-"When we upgrade or update products legal obligations may in some circumstances require that we maintain the ability to provide information in response to a law enforcement or national security request," Microsoft said in its statement Thursday.

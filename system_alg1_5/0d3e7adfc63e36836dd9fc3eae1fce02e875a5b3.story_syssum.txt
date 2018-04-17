@@ -1,0 +1,5 @@
+But that could be changing.
+The data-roaming proposal would do the same for data traffic, i.e.
+... Enacting a data-roaming rule would be politically expedient for FCC Chairman Julius Genachowski, who has faced legal setbacks in his quest to make wireless networks more open."
+Taking the carriers' side against the FCC in this fight are some powerful politicians -- most notably Florida congressman Cliff Stearns, the ranking Republican on the House Communications, Technology and the Internet Subcommittee.
+If a vote on the data-roaming proposal appears on that agenda, the FCC might be able to get this rule approved under the wire, increasing its ability to pursue its net neutrality plans, before a more hostile Congress moves in.

@@ -1,5 +1,0 @@
-C Spire's infrastructure is based on a cell standard used by Verizon Wireless and Sprint Nextel, which now both have the iPhone, but it is not common in other countries.
-An Apple spokeswoman confirmed that C Spire would begin selling the phone next week, but she did not respond to a question about whether the company needed to modify the hardware.
-While AT&T and T-Mobile use the same basic network infrastructure, their cell signals operate on different antenna bands.
-Since the original iPhone came out in 2007, owners have been able to take the devices to T-Mobile, swap out a SIM card and use them on the network.
-Another T-Mobile executive, Cole Brodman, recently addressed the issue publicly at a conference and in a letter to customers, though not in great deal.

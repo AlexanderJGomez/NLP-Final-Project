@@ -1,0 +1,8 @@
+It's easy to forget that we're volunteering basic information about ourselves in return for free e-mail, social networking and other digital services.
+Unfortunately, endpoint security is so terrifically weak that NSA can frequently find ways around it."
+With all of the renewed interest in online privacy, we talked with Williamson about ways to help keep your data secure -- before, during and after sending it.
+Many major websites offer the option of using a secure connection all the time.
+(Note: His company focuses on network security and does not sell encryption software to individuals).
+There's some free disk encryption software floating around in the open-source community, but for most folks this, too, will cost some cash.
+To summarize, there are lots of encryption and other security options out there.
+Do you have other favorite security tricks?

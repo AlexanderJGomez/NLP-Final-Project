@@ -1,0 +1,5 @@
+Called the Shipboard Autonomous Firefighting Robot (SAFFiR), the team at the Office of Naval Research (ONR) chose a humanoid-type robot as the best way of negotiating the narrow passageways, ladders and hatches (all designed for human mobility) of a modern ship.
+In addition, a humanoid robot can use firefighting gear designed for humans, such as protective coats, backpack fire suppressants, hand-held sensors and hose nozzles," he said
+The robot, say developers, can handle a fire hose on its own.
+While the next generation of the robot will be designed with enhanced intelligence, communications capabilities and extended battery life, Lattimer said the robot would likely always take its orders from a human in a console.
+McKenna said that ultimately, SAFFiR could be used for a number of shipboard duties that are difficult or onerous for humans to perform.

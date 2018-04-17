@@ -1,0 +1,8 @@
+And the airlines are likely to find a way to generate revenue, too.
+While some airline apps allow travelers to make flight reservations (a feature that Delta has not introduced but promises is coming), the world's largest carrier is one of the few airlines that gives customers the ability to adjust travel itineraries from their mobile device.
+GuestLogix, a company that creates onboard merchandising technology, is already trying to integrate these services into an airline app with the launch of its OnTouch Mobile Concierge platform, which it pitched to major airlines this week, a company official said.
+The fully integrated mobile platform that we have built allows travelers to check in to flights and hotels, view travel information and updates, and receive offers from multiple airline carriers, hotels and other services -- all at one time, and in one place."
+American, United and Continental airlines currently offer airport maps in their mobile apps, with Delta soon to join them.
+Even when it comes to selling fares through mobile clients, a service that 85% of airlines in the Airline IT Trends Survey either offer or plan to offer by 2014, there is room for improvement.
+Currently, airline apps only offer tickets with their specific carrier, and mobile customers can't take advantage of the flexibility offered by airline alliances.
+However, they're beginning to offer a level of customer service and convenience that has never before been possible in the industry, and perhaps could even transform the experience of traveling enough to create a new barometer on which airline brands will be judged in the future.

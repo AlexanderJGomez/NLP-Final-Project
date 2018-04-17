@@ -1,0 +1,10 @@
+The most unexpected news of the day was a new name for the $499 fifth-generation iPad, which is now the iPad Air.
+Physically, the iPad Air is indeed lighter and thinner than its predecessor.
+Unfortunately, I didn't have an older iPad on hand to do a weight comparison, and I'd picked up an iPad Mini first.
+The iPad Air has a 64-bit A7 processor, the same chip recently introduced in the iPhone 5S.
+A number of Apple products already have the Retina Display: the iPhone 4S and up, the fourth generation iPod Touch, the 10-inch iPad and some MacBook Pros.
+Like the iPad Air, the iPad Mini with Retina has the A7 chip inside.
+Though other products can usually be had for much less, any hands-on time with Apple products remind you that one of their greatest selling points is solid, high-quality construction.
+Both new iPads have the same M7 motion co-processor that handles sensors, such as the accelerometer and gyroscope, saving battery power by not using the main processor.
+For now, Apple is comfortable enough with the competition to just iterate on its well-designed, popular products, making the usual round of improvements and throwing in the occasional flashy feature to grab attention, such as fingerprints on the iPhone 5S.
+The competition will stay close until the first company breaks out of the usual faster, thinner, faster upgrade cycle and solves the battery problem.

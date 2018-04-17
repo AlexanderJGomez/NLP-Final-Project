@@ -1,8 +1,0 @@
-How does a trend go from new and exciting to old and passe so quickly?
-The amount of information in any individual tweet is highly variable, but in aggregate the more than 65 million tweets composed per day represent a detailed, real-time trace of the collective thoughts and feelings of a significant fraction of the population -- potentially offering valuable information to everyone from politicians to advertisers to social researchers.
-From a research perspective, Twitter is more than just a new tool; it's an entirely new kind of tool.
-In fact, other research groups have also begun to examine Twitter data and have demonstrated that it can be used to predict the box-office success of an upcoming movie.
-This is why researchers owe a debt of gratitude to Twitter for its policy of open access to public tweets (exemplified by the recent donation of its entire public tweet history to the Library of Congress).
-For example, monitoring the mood of the public chatter on Twitter could allow businesses to quickly identify and respond to incidents, mitigating the effect of negative publicity on their brand.
-This new kind of data presents new challenges, such as privacy, anonymity and legality, but developing a science around it has the potential to do enormous good.
-The opinions expressed in this commentary are solely those of Alan Mislove.

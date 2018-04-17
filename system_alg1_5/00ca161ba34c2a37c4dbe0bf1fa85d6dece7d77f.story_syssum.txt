@@ -1,0 +1,10 @@
+Today, the services built on top of that network have done a great job in enabling communications, perhaps none more dramatically than Twitter.
+Not at all.
+There's no reason that organizations or individuals who want to use the Web to relay critical information have to rely on Twitter or Facebook or Google or any other giant of the technology industry in the first place.
+Twitter has done an impressive job of growing to handle its enormous number of users, while keeping its service simple.
+Companies such as Facebook and Google have stepped up, too.
+Fortunately there's good news.
+In fact, many of us have allowed companies to become intermediaries to all our communications, whether it was AOL 10 years ago or Facebook today.
+We can run our own Web sites, at our own Web addresses and keep control over how we communicate.
+This is, after all, how the Web was designed to work.
+Because we'll have a web of independent but connected communications systems, just as the Internet was always designed to be.

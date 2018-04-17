@@ -1,0 +1,5 @@
+The new printers that HP is unveiling today along with ePrint can connect directly to Google Cloud using their touchscreen interface.
+Similarly, Box.net and Docstoc users can also retrieve and push documents to and from the cloud through new print apps.
+With more and more types of documents getting digitized and smartphones replacing former functions of printers (think coupons and tickets), HP needs new ways to drive printer usage.
+Second, the email-to-print concept clearly has the potential to drive new kinds of usage, both from business users and consumers who do things like print photos and news.
+© 2013 MASHABLE.com.

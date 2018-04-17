@@ -1,0 +1,4 @@
+And it's capable of exploring underwater terrain submersibles can't, said Pablo Valdivia Alvarado, a mechanical engineer at the school.
+MIT researchers built their first robotic fish, "Robotuna," in 1994.
+"Most of the brains, the electronics, are embedded inside," said Alvarado, who designed the robofish with fellow MIT engineer Kamal Youcef-Toumi.
+The new generation has withstood harsh conditions in the lab, including two years of testing inside tanks filled with tap water, which is corrosive to standard robots, according to Alvarado, who says the Robotuna inspired him to take the technology to the next level.

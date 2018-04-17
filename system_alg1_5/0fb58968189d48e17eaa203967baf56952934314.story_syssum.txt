@@ -1,0 +1,5 @@
+And with that e-mail flash, Adobe has signaled that it knows, as Steve Jobs predicted, the end of the Flash era on the web is coming soon.
+Despite Flash's near ubiquity across desktop PCs, many in the greater computing industry, including, famously, Apple Computer, have denounced the platform as fundamentally unstable on mobile browsers, and an intense battery drain.
+However, with the development of Javascript, CSS, and HTML5, which has native support for video, many web developers are turning away from Flash, which can be a resource hog even on the most advanced browsers.
+Click here!
+Copyright 2011 Wired.com.

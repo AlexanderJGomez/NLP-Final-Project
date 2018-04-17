@@ -1,0 +1,6 @@
+These requests might be for personal information found in iTunes, Game Center and iCloud accounts.
+Apple received 3,542 of these "device information" requests in the U.S. for 8,605 devices, and Apple turned over some or all of the desired information 88 of the time.
+Though the information in the reports is somewhat standard, Apple did included something different.
+"Six months from now, we will look to make sure that line is included, and if they don't say they have not received a 215 request, we can assume they have," said Cardozo.
+"We have reported all the information we are legally allowed to share, and Apple will continue to advocate for greater transparency about the requests we receive," Apple said in the report.
+We have no interest in amassing personal information about our customers," Apple said in the beginning of the report.

@@ -1,7 +1,0 @@
-(CNN) -- When a website that claims more than a half-billion monthly visitors gets hacked, users pay attention.
-Wonder if those same users still have 8-Track tapes too?"
-Then, less than a month later, Thompson himself was out after the discovery that he had padded his resume with a phony college degree.
-They also report break-ins when they occur with full details, so anyone else who's interested can take steps to prevent further exploits.
-In a written statement Thursday, Yahoo said they were fixing the exploit the hackers used and changing the passwords of users who were hit.
-Finally, on a more useful note, many readers wanted to know where they could find out if their account was one of the ones that was compromised.
-But security firm Sucuri Labs has created a page with a tool it says will tell users whether their e-mail address was leaked.

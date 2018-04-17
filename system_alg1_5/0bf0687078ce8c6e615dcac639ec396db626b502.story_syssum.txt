@@ -1,0 +1,5 @@
+It's called 'big data analytics', and those who ignore it are being warned they risk being left behind.
+"Big data is the new oil," says Andy Cutler, director of strategy at SAS, a consulting firm specializing in big data analytics.
+Major banks including HSBC use big data to monitor and predict fraud -- both by cardholders and staff -- by setting up data-mining systems that collect patterns and look for anomalies.
+But there are challenges.
+Stephen Mills, an associate partner in big data analytics at IBM, agrees there needs to be a culture change.

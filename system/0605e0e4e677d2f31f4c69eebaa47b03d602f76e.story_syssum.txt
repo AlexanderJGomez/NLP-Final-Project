@@ -1,5 +1,0 @@
-More than 20 million books and magazines have been scanned using optical character-recognition technology, making each word or phrase searchable, so snippets of text are part of Google search results.
-Google did not seek approval to scan many books that were still under copyright, nor did it offer to compensate authors or publishers in any way, claiming the scans were fair use.
-Books that are out of copyright can be viewed in full and even downloaded, and people can buy books whose authors or publishers are part of Google's Partner Program.
-The Google database is used by researchers, librarians and educators and greatly expands access to books around the world by putting them online.
-By converting print to digital text, the program has also made it easier to convert titles into more accessible formats, like text-to-speech and Braille.

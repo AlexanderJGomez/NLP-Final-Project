@@ -1,0 +1,11 @@
+1.
+In the first weeks of the Obamacare sign-up, the two low-tech options for Americans -- the call center and paper applications -- struggled and sometimes froze.
+By October 15, contractors were recommending the paper applications, documents show.
+2.
+But from the start, that data was not transferring correctly.
+3.
+And from the back of the room, you notice something.
+4.
+5.
+• In mid-October, the tool to estimate potential premiums was misreading ages, recording each person as having an age range, rather than a definite age.
+That was affecting the tool and its results, potentially for almost everyone.

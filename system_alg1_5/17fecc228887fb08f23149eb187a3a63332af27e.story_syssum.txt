@@ -1,0 +1,4 @@
+The Guardian, citing "top-secret" documents, said the NSA already had access to pre-encrypted e-mail on Microsoft's Outlook, including Hotmail.
+In a statement, Microsoft immediately denied many of the Guardian's claims, saying the company turns over data on customers only in response to legal requests.
+Like Apple, Facebook, Google, Yahoo and other tech titans linked by news reports to the Prism program, Microsoft has been working in recent weeks to convince customers that it values their privacy and safeguards their personal data against wanton snooping by a government trying to root out terrorists.
+"When we upgrade or update products legal obligations may in some circumstances require that we maintain the ability to provide information in response to a law enforcement or national security request," Microsoft said in its statement Thursday.

@@ -1,0 +1,8 @@
+"It's a website that's republished the feeds from many thousands of unsecured web cams and CCTV cameras.
+At the time of writing, the U.S. tops the list -- with 4,591 feeds, followed by France, the Netherlands, Japan, Italy and the United Kingdom.
+"In theory, if you have a web camera and it is interface accessible over the internet, it could be at risk," Paterson says.
+We continually learn about some essential device that is web accessible," he says.
+"It looks like if you change the default password and set a strong one it will no longer show up on website -- but the owner [on the Russian site] could do anything he or she wants," he says.
+"Actually, it's worse," he says.
+"If you have strong evidence that somebody has compromised your camera you may be able to take it to law enforcement," he says.
+"If the feed from your camera can identify individuals that would be personal data and if someone's processing that in an unfair or unlawful manner then it could breach the act," he says.

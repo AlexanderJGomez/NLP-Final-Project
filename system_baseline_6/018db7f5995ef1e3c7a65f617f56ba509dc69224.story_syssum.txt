@@ -1,0 +1,9 @@
+(Mashable) -- For all their buzz and value, location-based social networks haven't really gone mainstream yet.
+Sites like PleaseRobMe.com, which humorously bring awareness to location-based privacy issues, may have scared some social media users from opting in.
+Most current iterations of the popular location-based networks allow users to opt-out of location tagging and notifying users when their location is being shared.
+Because of privacy concerns, it is imperative for location-based services to clearly communicate the value proposition to users.
+During its Chirp developer conference in April, Twitter announced the launch of its annotations feature, which gives users the ability to attach metadata to tweets, including location.
+Facebook, meanwhile, will also reportedly soon enable members to add location details to their status updates and release an API so other apps can offer location ability to Facebook users.
+So how they roll out location to users and how well they do at making users feel that their information is safe may be make or break for location on Facebook.
+"Facebook could really be the looming giant that could wipe all [other location services] away," Boland said.
+"Facebook has proven to have so many users who are mobile.

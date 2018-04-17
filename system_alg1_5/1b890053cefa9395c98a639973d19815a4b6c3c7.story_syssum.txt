@@ -1,0 +1,9 @@
+It's no surprise, then, that scientists around the world are investigating whether living cells can be used to print replacement organs and tissues.
+Instead, printers are a vehicle for scaling up and automating a process that must begin at the laboratory bench.
+Engineered airways, bladders, blood vessels and urine tubes have been successfully implanted.
+With a pipette, cells were then added by hand to these structures.
+An ultimate goal of bioprinting, of course, is to be able to print complex structures such as kidneys that can help solve the shortage of organs available for transplant.
+Instead, even when printed structures are made with living cells, they must "incubate" in the body to become fully functional.
+For example, for the military-funded Armed Forces Institute of Regenerative Medicine, our team is working to print smaller tissues, such as bone and muscle, that would be used in facial reconstruction.
+In addition, in collaboration with five other institutions, we are working to print miniature hearts, lungs, blood vessels and livers onto "chips" that will be connected with a blood substitute.
+It is important to remember, though, that the process involves more than putting cells in a cartridge and pressing "print."

@@ -1,0 +1,11 @@
+Facebook and Google have added new translation tools, but they take different approaches.
+And of course, we don't all speak the same language.
+But for now, here's a look at the latest language features from both companies, and some background on how their translation services work.
+How it works: Real people are at the heart of Facebook translation plan.
+Size: More than 65 languages function on Facebook now, according to Facebook's statistics.
+Also, Facebook's site is available in many languages, but its human translators don't touch wall posts, photo comments and other user-submitted items, which is a big con if you want to have friends who don't share a common language with you.
+Craig Ulliott, founder of whereivebeen.com, said he's excited about Facebook's translation application, but it would be too much to ask his site's users to translate user-submitted material.
+The site's interface has been translated, with the help of Google users, into 130 languages.
+Google also recently unveiled a translation service for Google Docs, which lets anyone upload a document to the Web and have it translated into a number of languages for free.
+Och said real-time translation of Internet chats is on the horizon, as are more languages and increased quality as Google's computers get smarter.
+Also, Google lets people spot translation errors, suggest new wordings and translate its interface into languages Google's computers don't speak just yet.

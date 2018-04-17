@@ -1,0 +1,7 @@
+Recent research from Trusteer, an internet security firm, indicates that mobile users may be three times more likely to fall victim to e-mail phishing attempts.
+Mobile users typically arrive first after the phishing e-mails are sent out.
+In a Marketplace Tech Report interview, internet security expert Anup Ghosh warned that one of the most insidious parts of e-mail phishing is that the fake alert e-mail might actually say the company is notifying you in response to a recent publicized security breach -- that is, the one they perpetrated.
+3. iPhone users are eight times more likely than BlackBerry users to access phishing sites.
+Boodaei speculates that many BlackBerry users are business users who were issued their BlackBerry by their employer, ostensibly with at least some security training.
+But if you do click a link in an e-mail, make sure you never enter personal information on the resulting website.
+Just make sure you don't just call whatever phone number is listed in the e-mail message.

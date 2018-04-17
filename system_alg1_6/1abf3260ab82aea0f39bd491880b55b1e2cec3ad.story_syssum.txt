@@ -1,0 +1,8 @@
+Mundane physical objects all around us are connecting to networks, communicating with mobile devices and each other to create what's being called an "Internet of Things," or IoT.
+Smart homes are just one segment -- cars, clothing, factories and anything else you can imagine will eventually be "smart" as well.
+Many standards already help smart devices communicate, though none has emerged as a dominant option yet.
+"Because (the Internet of Things) is so vast and varied, it will be hard to come up with a 'one size fits all' standard," said Bartleson.
+It also sells the chips that will go inside smart thermostats, security systems, cars and everything else.
+Ben-Zur predicts the Internet of Things will be the third revolution.
+But it's still to early to say for sure how all these devices will chat with each other and whether Qualcomm's AllJoyn or some other option will take off.
+"Exposing that, how your toothbrush and your water heater and your thermostat ... are going to interact with you, with your school, that's what's next," said Ben-Zur.

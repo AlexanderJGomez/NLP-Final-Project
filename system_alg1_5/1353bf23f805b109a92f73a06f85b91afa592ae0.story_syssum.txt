@@ -1,0 +1,10 @@
+Panda Security, a Spain-based antivirus maker, has been monitoring an onslaught of links with malicious software, or "malware," on Twitter that tag hot topics such as the Air France crash, the NBA finals, "American Idol" runner-up Adam Lambert and the new iPhone.
+"It's very seldom reported ... if discovered by companies, they generally don't want the public to know they've been had," said Eugene Spafford, a computer security specialist at Purdue University who has advised two U.S. presidents and numerous companies and government agencies.
+"The fundamental fact is cyber criminals are highly organized with sophisticated corporate structures and business chains," said Michael Fraser, director of the Communications Law Centre at the University of Technology Sydney in Australia.
+"When police shut these Web sites down, they just mushroom up some other place," he said.
+"When the company was set up, we were seeing two or three new viruses a week," said Mahendra Negi, chief financial officer of Tokyo-based antivirus maker Trend Micro.
+"With the arrival of spam in 2001 and 2002, the big difference was it was commercial malware," Negi said.
+"They ring up the IT manager of a company and say, 'Pay us a million or we'll take you down'," said Fraser, who has worked with companies victimized by botnet attacks.
+"Once it became a business, then (cyber criminals) began to look at what companies like us were doing, and figure out weaknesses," he said.
+"There are multiple jurisdictions and unless it's an ongoing crime that uses the same path all the time, the trail goes cold quickly," Spafford said.
+"I'm not saying (cyber criminals) are involved in physical violence, but it's not out of the realm of possibility," he said.

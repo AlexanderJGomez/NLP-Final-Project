@@ -1,0 +1,11 @@
+It's too early to tell how much danger, of course, but a start-up called OnLive announced a brand-new game distribution system Monday night that, if it works as planned, could change the games game forever.
+Based here in San Francisco, OnLive timed its formal unveiling to this week's Game Developers Conference, where it will be showcasing the technology and 16 initial games it will launch with.
+And instead of requiring users to download the games, OnLive will host them all and stream them from a series of the highest-end servers.
+An intended benefit of this infrastructure, Perlman and McGarvey explained, is that users will be able to play streamed games via OnLive with no lag, so long as their Internet connections meet minimum thresholds.
+So far, OnLive has yet to make its business model public, but what seems likely is some form of subscription service, where players will pay a monthly access fee and then pay additional costs, depending on whether they want to play games once, or buy them for permanent play.
+OnLive recognizes that some players may use those trials as a way of deciding whether to buy such games from traditional retail stores, but Perlman and McGarvey suggested that as long as people are interacting with the OnLive system, they'll be happy.
+Perlman said that the concept of spectating in online game systems is, in and of itself, not new, but that OnLive presents the first time players will be able to look in on what others are playing without owning the games themselves.
+That means, Perlman and McGarvey acknowledged, that many players who sign up for OnLive's service will still maintain their consoles, and continue to buy games for them.
+But come the next generation, all bets are off, they said.
+In addition, McGarvey said publishers are eager for the kind of raw data that OnLive can provide about players' usage of the games, including whether they like or dislike games, how much they play, how they play and so on.
+CNET, CNET.com and the CNET logo are registered trademarks of CBS Interactive Inc. Used by permission.

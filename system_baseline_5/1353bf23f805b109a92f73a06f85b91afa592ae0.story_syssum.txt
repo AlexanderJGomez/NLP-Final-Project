@@ -1,0 +1,10 @@
+Savvy cyber criminals are taking advantage of our increasing reliance on computers and the Internet.
+Last year, antivirus maker McAfee saw a 500 percent increase in malware types -- more than the company had seen in the previous five years combined.
+In the United States, the FBI reported a 33 percent increase in Internet crime last year.
+"They have R&D departments, strong distribution networks and Web sites for the discerning cyber criminal," Fraser said.
+Although the techniques of cyber crime have evolved, online criminals prey on human vulnerabilities like criminals throughout the ages.
+"With the arrival of spam in 2001 and 2002, the big difference was it was commercial malware," Negi said.
+"They ring up the IT manager of a company and say, 'Pay us a million or we'll take you down'," said Fraser, who has worked with companies victimized by botnet attacks.
+"Once it became a business, then (cyber criminals) began to look at what companies like us were doing, and figure out weaknesses," he said.
+"Child pornography is easier to prosecute because it is possible to find the evidence on the perpetrator's computer systems," said Spafford of Purdue University.
+"I'm not saying (cyber criminals) are involved in physical violence, but it's not out of the realm of possibility," he said.

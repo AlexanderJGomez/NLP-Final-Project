@@ -1,0 +1,4 @@
+"We've found an issue with two specific capacitors in the power system that affects the ability to hold a charge in some of our bands.
+We're also fixing an issue with syncing related to the band hardware.
+In his statement, Rahman says that Jawbone has "temporarily paused production" of the bands, and will once again begin taking orders after the hardware's technical issues have been resolved.
+Consumers experiencing hardware problems can also continue to receive replacement bands through Jawbone's existing warranty program.

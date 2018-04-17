@@ -1,8 +1,0 @@
-For background, the Copyright Alert System aims to inform consumers of inadvertent or purposeful unauthorized distribution of content over peer-to-peer networks and to help consumers find legal ways to obtain, share and enjoy movies and music protected by copyright.
-As Rushkoff says: "The longer term solution would be to develop an appropriate social contract: conducting ourselves online under the same civilized behavioral norms that keep us from, say, stealing stuff from one another's homes even though we could probably get away with it."
-As they have done for years, content owners will use technical methodologies to identify alleged infringements over peer-to-peer networks and will request that notices of such alleged infringement be passed on to subscribers by the participating ISPs.
-The alerts are designed with particular attention to key groups -- parents of teens, for example -- to provide the most helpful and actionable information possible.
-The system is based on consumers' "right to know" when their Internet account is being used for illegal file sharing through peer-to-peer networks, or if their own online activity infringes on copyrights -- inadvertently or otherwise -- so that they can correct that activity.
-As Rushkoff points out, "in many cases the Internet subscriber might have no knowledge of the infraction" and he goes on to describe how a houseguest might share illegal content without the Internet subscriber's knowledge.
-From homeowners who want to make sure their wireless networks are secure to parents concerned about their children's activity on the internet, information and tools can help users better consume content.
-In the coming months, we are eager to share our effort to close this information gap.

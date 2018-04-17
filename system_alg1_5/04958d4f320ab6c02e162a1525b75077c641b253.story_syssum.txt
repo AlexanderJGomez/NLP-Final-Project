@@ -1,0 +1,5 @@
+In a statement published Friday, security firm IntelCrawler said the breach was the result of malware that infected Target's payment system and possibly compromised the systems of other retailers.
+"Well, we should be worried.
+And they manipulate or mutate this malware, and then reuse it," SecureState CEO Ken Stasiak said.
+"The numbers could be staggering, really, because what the retailers are looking at are potential class action lawsuits," CNN legal analyst Paul Callan said.
+All 40 million may have been damaged in some way, and under law they can all be joined together in a class action lawsuit."

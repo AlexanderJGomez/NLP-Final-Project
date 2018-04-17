@@ -1,0 +1,6 @@
+Mikko Hypponen, chief research officer at anti-virus firm F-Secure, says while the purpose of the worm is unclear, its unique "phone home" design, linking back to its point of origin, means it can receive further orders to wreak havoc.
+"It's getting worse, not better."
+We have large infections in Europe, the United States and in Asia.
+If it gets in, even if you are not at your machine, it will infect and begin spreading to other servers.
+Machines can be disinfected.
+The problem is for companies with thousands of infected machines, which can become re-infected from just one computer even as they are being cleared.

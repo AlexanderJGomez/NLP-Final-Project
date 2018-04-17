@@ -1,0 +1,13 @@
+Maybe not.
+Why aren't air traffic controllers using it to constantly track all commercial airliners?
+• Two transponders that could send identification and altitude data to air traffic control radar screens.
+Throughout most of the world, air traffic controllers still track airplanes with radar -- which uses technology dating back to the 1940s.
+In these cases, air traffic controllers see only a blip on radar screens.
+• Later, the plane sends a final radio call as it transitions between Malaysia air traffic controllers to controllers in Vietnam.
+• Later, an orbiting satellite checks in with the plane's satellite transceiver, kind of like a cell tower pinging a mobile phone.
+In the wake of the tragedy, some called for airlines to modify their transponders to prevent anyone from being able to shut them off in flight.
+We might know more about what happened to MH370 if air traffic controllers used orbiting satellites to track airliners, instead of radar.
+Another emerging technology that might have helped us know more about what happened is called AFIRS, the Automated Flight Information Reporting System, developed by a Canadian company called FLYHT.
+If all airliners were equipped this way, we could know a flight was in trouble even if the crew could not communicate by other means.
+Possibly.
+Although technology continues to shrink the planet in terms of communication, the tragedy offers a bitter reminder of how easy it still is to lose an entire airliner full of people.

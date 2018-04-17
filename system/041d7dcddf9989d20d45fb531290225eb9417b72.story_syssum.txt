@@ -1,5 +1,0 @@
-As the company scrambles to get the PlayStation Network and Qriocity music service back online, it's suffering from yet another security breach.
-This certainly isn't as dangerous as the information that was exposed during the PSN hack, but it could still be used to gather access to more important accounts elsewhere.
-According to the groups own press release, access to the main Sony Pictures website was gained using a very basic tactic called a SQL injection.
-LulzSec has been on a tear, infiltrating the websites and databases for the UK television program, "The X Factor," parts of Fox.com, Sonymusic.co.jp and many parts of PBS.org in the past three weeks alone.
-All rights reserved.

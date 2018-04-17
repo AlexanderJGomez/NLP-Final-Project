@@ -1,0 +1,11 @@
+For smartphone users, like those of the iPhone (a popular device among early adopters), that number jumps all the way up to 63 percent.
+Sites like PleaseRobMe.com, which humorously bring awareness to location-based privacy issues, may have scared some social media users from opting in.
+"There's still a perceived risk in accessing location data," van Dillen said.
+Because of privacy concerns, it is imperative for location-based services to clearly communicate the value proposition to users.
+However, even though Gowalla, Foursquare, BrightKite and Yelp allow for check-ins at "places," rather than just map coordinates, which makes the data more valuable for targeted advertising, actual advertiser value hasn't yet totally materialized.
+During its Chirp developer conference in April, Twitter announced the launch of its annotations feature, which gives users the ability to attach metadata to tweets, including location.
+Facebook, meanwhile, will also reportedly soon enable members to add location details to their status updates and release an API so other apps can offer location ability to Facebook users.
+Further, because location is off by default for all users, without a more clearly communicated message, the feature may remain off for many people.
+So how they roll out location to users and how well they do at making users feel that their information is safe may be make or break for location on Facebook.
+"Facebook could really be the looming giant that could wipe all [other location services] away," Boland said.
+What remains to be seen is if the users will go for it.

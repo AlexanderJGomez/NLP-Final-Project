@@ -1,0 +1,5 @@
+It then tries to find you a pet available for adoption that is the closest possible match to the one you posted.
+It then performs a similar search on PetFinder, a database with photos of hundreds of thousands of animals up for adoption throughout the United States, and gives you the closest overall matches, as well as the closest ones in your area.
+And, of course, we love our animals for reasons other than their appearance.
+We tested the app with a photo of Cash, a gray-and-white Scottish Fold cat in Atlanta, and it returned matches of cats with similar coloring in Jefferson, Georgia; Knoxville, Tennessee; Huntsville, Alabama; Charlotte, North Carolina, and other neighboring states.
+Now, it's planning to expand its item-specific offerings, with jewelry and furniture apps in the works.

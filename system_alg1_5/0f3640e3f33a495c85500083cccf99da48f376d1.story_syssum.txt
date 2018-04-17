@@ -1,0 +1,8 @@
+But with expectations beyond high for Google to swoop in and save the day from Apple's unreliable, problematic maps app -- which replaced the existing Google Maps app in September with the rollout of the new iOS 6 software -- many just hoped Google's version would live up to promises of being a superior mapping platform for the iPhone.
+The good news, however, is that the Google Maps app is excellent.
+However, some users have expressed frustration with direction accuracy so far, but the reports are nowhere near the inaccuracy outcry caused after the launch of the Apple Maps app.
+Now, people love to talk about how much they hate the Apple Maps app.
+But say what you want about Apple Maps and its accuracy issues, it's hard to deny its interface is gorgeous and touts some impressive features.
+Although Google Maps incorporates 2D and 3D views via Street View, as well as the rotating and tilting of maps with gestures inside the app, we still prefer Apple's design.
+As a bonus for developers -- and app users alike -- Google announced Google Maps SDK for iOS, which gives app developers the opportunity to use maps within apps for the iPod Touch, iPhone and iPad.
+Public transit, street view and easy searching propel Google to a clear victory -- for now.

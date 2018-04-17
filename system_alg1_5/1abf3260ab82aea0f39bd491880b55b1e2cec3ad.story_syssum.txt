@@ -1,0 +1,9 @@
+Exciting or frightening, these connected devices of the futuristic "smart" home may be familiar to fans of science fiction.
+Mundane physical objects all around us are connecting to networks, communicating with mobile devices and each other to create what's being called an "Internet of Things," or IoT.
+Qualcomm is hoping its platform, called AllJoyn, could act as a sort of universal translator for the industry.
+Some companies, such as SmartThings, Lowes and Revolv, depend on a physical hub to link devices.
+"Because (the Internet of Things) is so vast and varied, it will be hard to come up with a 'one size fits all' standard," said Bartleson.
+It also sells the chips that will go inside smart thermostats, security systems, cars and everything else.
+The first revolution was the connected Internet," she said.
+Sensors will show up in more and more devices and turn them into sponges that soak up data about our habits, environment, movements and health.
+"Exposing that, how your toothbrush and your water heater and your thermostat ... are going to interact with you, with your school, that's what's next," said Ben-Zur.

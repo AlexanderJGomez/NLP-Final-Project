@@ -1,0 +1,7 @@
+Earlier this month, a test conducted by the Leviathan Security Group showed that even "no-permissions" Android apps can access potentially sensitive data on your phone -- and transmit that data elsewhere via your phone's Web browser.
+He also could see which apps were installed on the phone, and list some files belonging to those apps.
+And for phones that operate on GSM cell networks (in the U.S., that's AT&T and T-Mobile), Leviathan's test app was able to read identifying information about the phone from the SIM card, plus some other information.
+"What this research found is really little cracks in Android -- not great big security holes you could drive a truck through," said Kevin Mahaffey, co-founder and chief technical officer of Lookout Mobile Security, a leading provider of security apps and services for Android devices.
+They found in a completely unencrypted file "a list of locations which matched those of our home, work, family, significant other, friends, and even holiday destinations."
+"This was information that we'd never given Google, either on a phone or within Picasa.
+"That channel is mainly used by developers, but it's worth letting them know if you have concerns about an app and you aren't getting useful responses from the developer," he said.

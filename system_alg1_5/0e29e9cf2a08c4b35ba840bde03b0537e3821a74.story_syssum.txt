@@ -1,0 +1,5 @@
+"Since our first preview release last September, millions of people now use the pre-release product on a daily basis and millions more have been taking it through its paces, totaling hundreds of millions of hours of testing," Microsoft's Steven Sinofsky wrote Friday on the Windows 8 blog.
+Unlike previous releases that have, essentially, revamped (or, in at least one case, mercifully killed) existing features, Microsoft is touting Windows 8 as a radical reimagining of its core product.
+The recently released Nokia Lumia 900 has been heralded as the best Windows phone ever, although, as of March, only about 4% of U.S. smartphones ran the company's operating system.
+With its prowess in the computing world, it's impossible to count Microsoft out.
+"There's a long, narrow road ahead for Windows 8," reviewer Seth Rosenblatt wrote for CNET.

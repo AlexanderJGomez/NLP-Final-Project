@@ -1,0 +1,5 @@
+(CNN) -- The SpaceX Dragon capsule remains on course for the International Space Station despite losing one of nine booster engines, but a satellite launched on the same rocket didn't reach its intended orbit, its operator said Monday.
+The satellite separated properly from the second stage of the Falcon 9 -- but the engine trouble meant the satellite would not pass clear of a safety zone if it fired its own engine, leaving it in a lower orbit than planned, Orbcomm said in a statement issued Monday night.
+"We know the engine did not explode, because we continued to receive data from it," the company said.
+Sunday's launch was the first of a dozen freight runs that SpaceX is scheduled to make to the station under a contract with NASA, which plans to turn much of its focus toward exploring deep into the solar system.
+Orbital has a nearly $2 billion contract with NASA for station resupply missions.

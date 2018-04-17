@@ -1,0 +1,4 @@
+The feature, first reported by 9to5 Mac, was discovered in the developer version of Apple's latest mobile operating system, iOS 7, and is not yet publicly available.
+The left or right head movements can be assigned to different tasks, including returning to the main home screen, displaying notifications or activating voice assistant Siri.
+The head-movement feature is meant as an accessibility option, but it's easy to imagine similar motion control features becoming more commonplace on devices in the future.
+If you look away from a video while it is playing, it can automatically pause.

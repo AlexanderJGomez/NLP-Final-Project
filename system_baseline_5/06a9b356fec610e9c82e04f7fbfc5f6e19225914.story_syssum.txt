@@ -1,0 +1,6 @@
+(CNN) -- The electronic component visible in a law enforcement image of an intercepted suspicious shipment from Yemen appears to be a printed circuit board from a disassembled cell phone, an engineer told CNN Friday.
+"There is as well a coin type cell (which) is a backup battery, and 2 Board to board connectors.
+So this board is very likely to be the main electronic board of a cell phone device."
+The D736 is a similar shape to the circuit board.
+In the law enforcement photo, the cell phone circuit board is crudely mounted with screws, metal and plastic fragments to what appears to be a stout metal case.
+CNN's Pam Benson, John Cunha and Paul Cruickshank contributed to this report.

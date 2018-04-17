@@ -1,5 +1,0 @@
-The website appears to choose which language to display based on the geographic location of the visitor's internet address, and that detection method can be pretty good at guessing a person's language preference.
-The announcement on the Android Developers blog did, however, say it would start out as English-only.
-Deasy was traveling to South America and lamented the "missing feature" for setting a language.
-On Google's support forum, users suggested adding this text -- "?hl=en" -- to the end of the site's Web address in order to tell the browser to load the site in English.
-In another message, an Android user wrote: "I am traveling, and I want things in English, but I get Dutch instead.

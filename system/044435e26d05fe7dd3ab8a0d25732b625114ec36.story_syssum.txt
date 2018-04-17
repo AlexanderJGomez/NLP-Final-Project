@@ -1,4 +1,0 @@
-(CNN) -- Scientists have captured antimatter atoms for the first time, a breakthrough that could eventually help us to understand the nature and origins of the universe.
-In a precursor to today's experiment, in 2002 scientists at CERN produced antihydrogen atoms in large quantities, but they had an incredibly short lifespan -- just several milliseconds -- because the antihydrogen came into contact with the walls of their containers and the two annihilated each other.
-Hangst and his colleagues produced a magnet field which was strongest near the walls of the trap, falling to a minimum at the center, causing the atoms to collect there in a vacuum.
-CERN's next ambition is to create a beam of antimatter which they hope will allow them to unpeel more of the mysteries surrounding it.

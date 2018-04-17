@@ -1,0 +1,9 @@
+Exciting or frightening, these connected devices of the futuristic "smart" home may be familiar to fans of science fiction.
+Smart homes are just one segment -- cars, clothing, factories and anything else you can imagine will eventually be "smart" as well.
+Now chipmaker Qualcomm is trying to give the industry a major push with an open-source project that can link all these disparate pieces.
+Many standards already help smart devices communicate, though none has emerged as a dominant option yet.
+"Because (the Internet of Things) is so vast and varied, it will be hard to come up with a 'one size fits all' standard," said Bartleson.
+It also sells the chips that will go inside smart thermostats, security systems, cars and everything else.
+The first revolution was the connected Internet," she said.
+Ben-Zur predicts the Internet of Things will be the third revolution.
+The exact killer apps for the Internet of Things are also a mystery.

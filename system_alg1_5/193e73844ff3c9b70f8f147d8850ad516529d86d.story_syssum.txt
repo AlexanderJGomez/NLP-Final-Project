@@ -1,0 +1,4 @@
+By matching email addresses or other identifying information associated with those cards against emails or information used to establish Facebook accounts, Datalogix can track whether people bought a product in a store after seeing an ad on Facebook.
+Facebook said it is paying Datalogix for the data-matching.
+Jeff Chester, executive director of the Center for Digital Democracy, a privacy group, said this practice does not provide Facebook users with sufficient control over their data or with transparency over how it is being used.
+Facebook and Datalogix said individual-level purchasing data were not shared with Facebook or its advertisers.

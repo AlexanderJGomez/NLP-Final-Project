@@ -1,7 +1,0 @@
-"Complex diseases, such as schizophrenia, may be influenced by hundreds or thousands of genetic variants that interact with one another in complex ways," the study authors wrote in their introduction.
-Past studies done on twins and families have shown that about 80% of the risk for schizophrenia is inherited, the study authors say.
-In other words, if study participant Bob had Gene Cluster X, he was 70% more likely to have schizophrenia than study participant Fred who didn't have that cluster of genes.
-"In the past, scientists had been looking for associations between individual genes and schizophrenia," co-author Dr. Dragan Svrakic said in the statement.
-There are only so many ways that certain malfunctions in your genetic code can manifest, Raison says.
-Two reasons, Raison says: to help predict who might get schizophrenia, and to help treat it more efficiently.
-If you have a drug that treats pneumonia, it's going to help only a certain percentage of patients with pleurisy.

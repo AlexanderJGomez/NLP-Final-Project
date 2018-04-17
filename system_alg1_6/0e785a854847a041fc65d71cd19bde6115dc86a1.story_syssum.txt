@@ -1,0 +1,6 @@
+(WIRED)  -- Microsoft showed off a host of visual and search enhancements to its search engine Bing Wednesday, in hopes that better packaging will help it eat away at Google's online dominance.
+Traditional search also got a slight makeover, with visual changes being made to how results are returned for musical artists, destinations and movies, among other types of search.
+Bing now has 11.8% of the U.S. search market, a 48% hump growth since Bing replaced Live search in the summer of 2009, according to Nadell.
+When you search for say "Tron", Bing actually looks into what your friends are interested in, finds stories they have liked via little "Like" buttons all over the net, and then inserts that into the top results -- even if that story wouldn't have shown up in Bing's natural search results.
+Microsoft didn't announce anything today on par with Google's recent announcement of "Instant Search," a huge engineering feat that lets users see search results before even finishing typing their query.
+Click here!

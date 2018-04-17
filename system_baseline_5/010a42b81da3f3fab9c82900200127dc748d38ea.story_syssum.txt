@@ -1,0 +1,15 @@
+The Lunar Orbiter Image Recovery Project (LOIRP) has since 2007 brought some 2,000 pictures back from 1,500 analog data tapes.
+"We're reaching back to a capability that existed but couldn't be touched back when it was created," says Keith Cowing, co-lead and founding member at LOIRP.
+Between 1966 and '67, five Lunar Orbiters snapped pictures onto 70mm film from about 30 miles above the moon.
+"These guys were operating right at the edge," Cowing says with a reverence for these NASA engineers that's shared by his team.
+These didn't.
+Several abortive attempts were made to recover data from the tapes, which were well kept, but it wasn't until 2005 that NASA engineer Keith Cowing and space entrepreneur Dennis Wingo were able to bring the materials and the technical know how together.
+"We're both Apollo babies, so the moon to us was something that's unfinished business," says Cowing.
+After kluging through countless engineering problems (try finding a chemical substitute for whale oil to lubricate tape heads), the LOIRP team was able to single out and reproduce the famous earthrise image.
+"We're the first people out of a generation or more to see this," says Cowing.
+Despite the advances in computing power and optics, Cowing says the terabytes of images recovered at LOIRP are often even more detailed than those taken by LRO, capable of being blown up to billboard size without losing resolution.
+McMoon's has grown into a highly specialized operation, stuffed with a melange of old and new technology now put to use in decoding various NASA and Library of Congress tapes that no one knows what to do with.
+"The surplus folks at NASA Ames where all the old computers and stuff go, they love us because we come over and make all the old stuff work.
+Started by the same Nancy Evans that provided the tape drives, the Planetary Data System didn't exist when the Lunar Orbiter pictures were initially taken.
+Back then they just had to engineer stuff elegantly so that it worked," he says.
+Copyright 2011 Wired.com.

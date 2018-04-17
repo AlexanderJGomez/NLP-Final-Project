@@ -1,0 +1,7 @@
+How important is your reputation?
+Search Yelp reviews and see what people who have already dined at a place have to say about it.
+Even though these reputation systems have been created for the specific company -- imagine how powerful it would be to have your reputation in one place.
+Reputation will become an increasingly visible part of our everyday transactions.
+We may even see reputation system APIs developed to enable the transfer of your reputation to new platforms.
+This is an excerpt of a report on reputation currencies, written by Heather Schlegel and commissioned by the Institute of Customer Experience.
+You can download the full report here.

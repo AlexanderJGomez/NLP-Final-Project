@@ -1,7 +1,0 @@
-Western diplomats have told CNN that the report says Iran has mastered the critical steps necessary to design and build a nuclear weapon.
-The Natanz computer network is a closed system, separated from any other network or internet access.
-First, it effectively hijacked the Natanz control system, speeding up or slowing down the centrifuges, wearing them out prematurely.
-According to the Institute for Science and International Security, IAEA records show that between the end of 2009 and early 2010 about 1,000 centrifuges at Natanz  had to be replaced.
-Many computer security researchers believe the virus is so complex and sophisticated that it would have needed the resources of a nation state -- or a combination of states -- to produce  it.
-Ralph Langner, the German computer security specialist credited with discovering Stuxnet, says it doesn't matter who created Duqu.
-"To build the first nuclear bomb, it took a genius like Oppenheimer and the resources of the Manhattan project.

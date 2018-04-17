@@ -1,4 +1,0 @@
-The anonymous hackers said they used an exploit created by recent changes to the app, which lets users share photos or short videos that disappear after a few seconds.
-"Our motivation behind the release was to raise the public awareness around the issue, and also put public pressure on Snapchat to get this exploit fixed.
-The SnapchatDB group said Snapchat implemented "very minor obstacles" after that.
-In a blog post Friday, Snapchat appeared to minimize the potential damage from such a hack, claiming that it would require a "huge set of phone numbers, like every number in an area code," to match usernames to numbers.

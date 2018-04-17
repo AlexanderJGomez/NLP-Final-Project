@@ -1,0 +1,7 @@
+Earlier this month, a test conducted by the Leviathan Security Group showed that even "no-permissions" Android apps can access potentially sensitive data on your phone -- and transmit that data elsewhere via your phone's Web browser.
+Last year the Skype Android app presented this kind of problem.
+Finally, since no-permissions apps can launch the phone's Web browser, that provides a potential route to transmit some data from the phone.
+What Leviathan discovered probably should concern Android app developers and Google, rather than consumers who use Android phones and tablets.
+Or the app might open the phone's Web browser to allow functionality that could be handled other ways.
+"This was information that we'd never given Google, either on a phone or within Picasa.
+The best practice is still to notice which permissions apps require before installing them, don't install apps that seem to require too many permissions, and report to the developer any suspicious activity by an app.

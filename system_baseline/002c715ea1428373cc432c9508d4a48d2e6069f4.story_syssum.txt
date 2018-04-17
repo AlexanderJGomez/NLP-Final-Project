@@ -1,6 +1,0 @@
-Google announced a Gmail app for the iPhone, iPad and iPod Touch that was designed to make it easier for the service's more than 190 million users to navigate their mail.
-Users of Apple's operating system could already access Gmail through a mobile site or set it up as their default e-mail account.
-The Gmail app is really a piece of crud," he wrote.
-"The iOS app we launched today contained a bug with notifications," Google posted on its Gmail Twitter account.
-Everyone who's already installed the app can continue to use it."
-The app ... at least the fully working version of it ... will send push notifications and sound cues when new messages are received, search your inbox for an e-mail, autocomplete e-mail addresses and upload photos to messages.

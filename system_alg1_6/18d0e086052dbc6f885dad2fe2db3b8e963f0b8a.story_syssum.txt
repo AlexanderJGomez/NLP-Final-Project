@@ -1,0 +1,4 @@
+Sophos Security analyst Graham Cluley said in a blog post that it remains unclear how long the hackers had access to Evernote and how they managed to get in.
+"What's not good news," he wrote, "is that the hackers now have access to the usernames and email addresses of Evernote customers.
+Complicating matters is that the legitimate Evernote e-mail pushes users first to a website with the domain name "mkt5371" before taking them to Evernote itself.
+A version for businesses is available in more than 30 countries.

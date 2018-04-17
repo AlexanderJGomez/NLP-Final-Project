@@ -1,0 +1,4 @@
+On average, the reported AT&T iPhone transfer rates were roughly two times faster than the Verizon iPhone's.
+From my benchmarking of the Verizon iPhone versus the AT&T iPhone, I also found that the AT&T iPhone's 3G transfer rates were much faster than Verizon's.
+In short, I found the Verizon iPhone to be slower with network transfers but more reliable with coverage.
+Speedtest.net's nationwide results back my verdict: You should get a Verizon iPhone if you really care about voice quality and calls, but the AT&T iPhone is better as a media-consumption device (Netflix movies, photo downloads and uploads, etc.)

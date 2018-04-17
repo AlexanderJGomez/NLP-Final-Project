@@ -1,0 +1,6 @@
+That was a question facing pilots in airspace over the United Kingdom on Friday, when Shanwick Oceanic, a part of the UK's NAT system of air traffic control, developed a computer glitch.
+So when Shanwick develops a computer glitch, air traffic arriving and departing into the United Kingdom is most affected.
+Radar signals don't have the capability of traveling out to the middle of the ocean, so before airplanes enter the North Atlantic track system, from either east or west, a specific speed is assigned along with a specific altitude.
+When the current technology system breaks down, the solution is either to increase separation limits or just wait until it is fixed.
+This of course raises the question of whether the global air traffic control system has become computer dependent.
+With all that in mind, we are just going to have to suffer through the compromise of inconvenience when the technology breaks down.

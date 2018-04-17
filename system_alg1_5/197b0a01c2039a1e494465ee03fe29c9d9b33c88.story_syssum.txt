@@ -1,0 +1,8 @@
+For background, the Copyright Alert System aims to inform consumers of inadvertent or purposeful unauthorized distribution of content over peer-to-peer networks and to help consumers find legal ways to obtain, share and enjoy movies and music protected by copyright.
+This system reflects a new reality: The Internet has forever changed how content is consumed, making content easy to find, use and experience.
+To be clear: No personal information at all, including the identity of the subscriber, will be shared with the content owners by the ISPs.
+What the ISPs will do, in recognition of the importance of copyright protection generally, is to then provide their subscribers with education and information about what not to do and how to get content in the right way.
+The system is based on consumers' "right to know" when their Internet account is being used for illegal file sharing through peer-to-peer networks, or if their own online activity infringes on copyrights -- inadvertently or otherwise -- so that they can correct that activity.
+The program is designed to provide non-punitive tools that will help inform consumers about how to legally enjoy digital copyrighted content and avoid illegal peer-to-peer networks, through a system based on information and deterrence.
+Many subscribers, particularly parents or caregivers, are not aware that their accounts are being used to distribute illegal -- and sometimes harmful -- content through peer-to-peer networks.
+In the coming months, we are eager to share our effort to close this information gap.

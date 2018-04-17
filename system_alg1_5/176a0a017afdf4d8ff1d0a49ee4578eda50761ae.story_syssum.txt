@@ -1,0 +1,9 @@
+The photo, which apparently was submitted by one of the photo-sharing app's users, prompted Apple to remove the entire mobile application from its online store.
+Funnymals, maker of the BeautyMeter app, which lets users upload and posts photos of people and then rank them based on "hotness," says in a statement on its Web site that it agrees with Apple's decision to yank the phone application from its online store.
+But Apple, like any company or Web site that hosts user-submitted content, may be engaged an impossible task by trying to keep all offensive material from the app store.
+It would be impossible for Apple or developers to keep all potentially objectionable material out of the app store, since much of the content is submitted by users, he said.
+"It's completely out of Apple's control that someone uploaded a nude photo, and to some extent, it's out of the [app] developer's hands as well," he said.
+In some cases, applications have been banned from the iPhone app store for showcasing material that also would be easily accessible through iTunes or by using Apple's mobile Web browser.
+Unlike Apple, which acts as a gatekeeper, Google lets developers post games and other programs to its Android app store without going through a screening process.
+iPhone apps now come with age-appropriateness labels, submitted by developers.
+"I think they've really cultivated that."

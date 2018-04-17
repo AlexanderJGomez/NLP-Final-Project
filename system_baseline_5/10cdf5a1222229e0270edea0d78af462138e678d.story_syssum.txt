@@ -1,0 +1,10 @@
+So content with the operation is the social media giant that it announced the creation a second data center in Lulea earlier this year.
+The Facebook move has inevitably attracted the attention of other firms with large data storage needs.
+With so many wealthy companies with increased data related needs, storage clearly has the potential to become a highly lucrative business in this part of the world.
+An abundance of renewable energy sources, meanwhile, ensures the large amounts of electricity required to power data centers is clean and environmentally friendly.
+"The environmental impact (of data centers in the north of Sweden) is pretty much zero," said Anne Graf of the Node Pole, a regional trade body designed to attract investment into Lulea, Boden and nearby town Pitea.
+And that computer needs electricity.
+Yevgeniy Sverdlik of specialist IT publication Data Center Knowledge recognizes the potential environmental and cost benefits but highlights numerous circumstances where storing company data far away from headquarters or operations wouldn't be practical or cost effective.
+Then there are things like data protection laws that mean certain types of information like medical records or government data must be stored within particular jurisdictions.
+"In the post-Snowden world there is mistrust (from people) in having their data held outside of their country," Sverdlik added.
+"They've lost industries like paper and aluminum and have an excess of power (and) data centers appear to be a very high revenue load.

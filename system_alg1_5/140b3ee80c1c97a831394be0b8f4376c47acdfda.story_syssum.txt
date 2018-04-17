@@ -1,0 +1,7 @@
+Radar data from air traffic control can provide tracking data that will indicate the flight path, altitude and direction the A320-200 followed.
+No matter how obvious it might appear, airplane incidents and accidents generally involve more than one factor.
+Unfortunately, route restrictions, other aircraft traffic and altitude constraints sometimes prevent our flights from deviating as far as we'd like.
+Although airliners are structurally designed to withstand turbulence, intentional flight into a thunderstorm is never an option.
+Oftentimes, a request for a higher altitude is to provide a smoother ride.
+Because of the confusing information, pilots would have difficulty reacting.
+Regardless of any speculation, it is much too early for theories.

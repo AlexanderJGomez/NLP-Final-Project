@@ -1,0 +1,5 @@
+"But anyway, we are still checking.
+"If you look at the data in this case, the altitude at which the planes were traveling is too high," Vincent Lau, wireless communications specialist and professor at the Hong Kong University of Science and Technology's Department of Electronic and Computer Engineering, told CNN.
+Anything higher ... would be problematic," according to Bill Rojas, director of telecom research at IDC Asia Pacific.
+"If the airplane were flying over northern Malaysia or southern Thailand -- basically the rural area -- then it's very possible that a cell tower could register the signal from the phones, assuming they were on," said Rojas.
+Passengers on high-speed trains in Japan and other countries can make calls via 3G networks at speeds of up to 240 kilometers per hour, but cell towers aren't able to register a signal beyond those speeds, Rojas said.

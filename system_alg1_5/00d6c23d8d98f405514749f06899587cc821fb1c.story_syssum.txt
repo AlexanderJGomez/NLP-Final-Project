@@ -1,0 +1,5 @@
+(CNN) -- Investigators now say that, according to automated electronic connections attempts by the ACARS data reporting system of Malaysia Flight 370, the airplane flew far to the west, in an entirely different direction than it should have been heading as per its original flight-planned route, which was to the north.
+If the reports of the flight path are true, it is not a route that could happen by accident.
+That is, when the autopilot is not being manually controlled instead.
+The flight management system part is very complicated.
+In the case of Flight 370, it would almost certainly have remained on autopilot, which would have dutifully followed the flight plan in the flight management system.

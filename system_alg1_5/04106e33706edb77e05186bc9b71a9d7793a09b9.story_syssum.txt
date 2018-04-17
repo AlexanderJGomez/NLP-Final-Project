@@ -1,0 +1,9 @@
+Now, depending on how quickly you read, around 80, perhaps even 100 milligrams of C02 have been released.
+This may not seem like a lot: "But in aggregate, if you consider all the people visiting a web site and then all the seconds that each of them spends on it, it turns out to be a large number," says Dr. Alexander Wissner-Gross, an Environmental Fellow at Harvard University who studies the environmental impact of computing.
+A 2007 report from research firm Gartner, for example, estimates the manufacturing, use and disposal of information and communications technology generates about two percent of the world's greenhouse gases -- similar to the level produced by the entire aviation industry.
+That is clearly unsustainable," added St. Arnaud.
+The manufacturing, transport and use of personal computers and laptops also has what some say is the most significant impact, producing roughly 200 million tons of emissions in 2002.
+"And what that includes is the energy that we at Google use to be able to receive your search, process it and then send it back to you," Erik Teetzel, one of Google's "green" engineers, told CNN.
+Citing competitive reasons, Teetzel declined to divulge Google's annual power bill, yet he said the internet company has been taking steps to make its main six, five megawatt server farms green as well as the other, smaller data centers it has around the world.
+And, like Google, Yahoo also incorporates renewable power and other efficiency measures in its data centers.
+"It is a little bit unfair to say that you have this huge carbon cost of the IT industry without articulating the fact that in many, many cases it offsets what I would call heavier, more carbon intense activities that we do in our daily lives," he added.

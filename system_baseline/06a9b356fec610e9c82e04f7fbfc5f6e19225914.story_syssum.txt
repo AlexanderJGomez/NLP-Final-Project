@@ -1,6 +1,0 @@
-"This size and the shape of the PCB (printed circuit board) are typical to a handset cell phone type device," wrote Olivier Clerc, hardware application engineering manager for a large U.S.-based cell phone parts manufacturer.
-"The component on the top right part of the device seems to be a digital camera sensor," Clerc wrote in his analysis.
-PETN was allegedly one of the components of the bomb concealed by Umar Farouk AbdulMutallab, the Nigerian man accused of trying to set off an explosion aboard Northwest Airlines Flight 253 as it approached Detroit, Michigan, on December 25.
-A Google search for the numbered markings on the printed circuit board produced several links to the Bird D736 mobile phone.
-The metal case on which the circuit board is mounted would be consistent with the frame of a laser printer.
-A U.S. official says while the explosive was likely the highly volatile PETN, testing is ongoing.

@@ -1,0 +1,8 @@
+How green is your website?
+As millions more go online each year some researchers say the need to create a green Internet ecosystem is not only imperative but also urgent.
+"Most people don't appreciate that the computer on your desk is contributing to global warming and that if its electricity comes from a coal power plant it produces as much C02 as a sports utility vehicle," said Bill St. Arnaud of Canarie, a Canada-based internet development organization.
+Calculating the carbon footprint of the entire web however is not as easy as measuring the greenhouse gas emissions of a car.
+"And what that includes is the energy that we at Google use to be able to receive your search, process it and then send it back to you," Erik Teetzel, one of Google's "green" engineers, told CNN.
+Citing competitive reasons, Teetzel declined to divulge Google's annual power bill, yet he said the internet company has been taking steps to make its main six, five megawatt server farms green as well as the other, smaller data centers it has around the world.
+And, like Google, Yahoo also incorporates renewable power and other efficiency measures in its data centers.
+It is actually a paradigm change."

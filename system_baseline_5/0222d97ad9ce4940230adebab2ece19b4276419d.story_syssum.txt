@@ -1,0 +1,6 @@
+The new printers that HP is unveiling today along with ePrint can connect directly to Google Cloud using their touchscreen interface.
+Similarly, Box.net and Docstoc users can also retrieve and push documents to and from the cloud through new print apps.
+As for the market size for developers here, HP says it expects to ship, "tens of millions of web-connected printers" by the end of next year.
+With more and more types of documents getting digitized and smartphones replacing former functions of printers (think coupons and tickets), HP needs new ways to drive printer usage.
+Finally, there's also opportunities for developers to create sticky apps -- perhaps not on the scale we've seen in mobile, but with HP betting the future of its printers on web connectivity, you can bet we'll see some big winners emerge from the developer community.
+All rights reserved.

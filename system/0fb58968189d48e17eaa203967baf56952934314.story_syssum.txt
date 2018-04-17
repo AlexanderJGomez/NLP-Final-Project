@@ -1,5 +1,0 @@
-"Our future work with Flash on mobile devices will be focused on enabling Flash developers to package native apps with Adobe AIR for all the major app stores," the quoted e-mail says.
-Flash became a dominant desktop platform by allowing developers to code interactive games, create animated advertisements and deliver video to any browser that had the plugin installed, without having to take into account the particulars of any given browser.
-Apple made its biggest waves in the case against Flash in April of last year, when Steve Jobs penned a 1,500-word screed against the controversial platform, describing it as a technology of the past.
-"Adobe has lost so much credibility with the community that I'm hoping they are bought by someone else that can bring some stability and eventually some credibility back to the Flash Platform," wrote software developer Dan Florio in a blog post on Wednesday morning.
-Copyright 2011 Wired.com.

@@ -1,0 +1,5 @@
+A team of individuals going by the name LulzSec, who recently managed to deface PBS.org's homepage, announced that they have broken into SonyPictures.com and compromised more than 1 million user accounts.
+The attack, part of a campaign known as Sownage, was announced on Twitter and on the LulzSec website.
+The scariest part of this attack isn't what was taken, but how easy it was for the LulzSec members to take it.
+Still, that doesn't make up for what by all appearances is an abysmal security record.
+All rights reserved.

@@ -1,0 +1,9 @@
+But we read it so you don't have to, poring through the jargony, technical documents ("Pre Prod is now IMP1A"), to give you another option -- the five things you need to know:
+In the first weeks of the Obamacare sign-up, the two low-tech options for Americans -- the call center and paper applications -- struggled and sometimes froze.
+By October 15, contractors were recommending the paper applications, documents show.
+That's the code for the final step in the HealthCare.gov process, when all the data entered is sent to the insurance company a user has chosen.
+"834 issue - Raised here as well - issuers not receiving 834s that they should be getting," a contractor wrote on October 3.
+4.
+As the documents move on and issues are tackled one by one, sweeping problems continue to appear.
+• At one point, a software problem hit every application from a married couple.
+• Contractors spent almost two weeks sorting out how to handle weight loss surgery and whether insurance companies need to include that in all policies.

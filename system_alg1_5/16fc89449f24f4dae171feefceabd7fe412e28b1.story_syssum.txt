@@ -1,0 +1,12 @@
+This year, 30% of Android users are likely to encounter a Web-based threat such as phishing scams, "drive by downloads" and browser exploits.
+However, individual and collective mobile security risks are real.
+Furthermore, mobile malware and spyware can pull sensitive data from your phone -- such as your credit card numbers, online banking or e-mail account login credentials or your contacts list.
+It's an open platform, which presents significant pros and cons.
+On the downside, Android's openness also makes it especially susceptible to malware.
+"We've observed that most mobile users are far more trusting about how they download and install software on their phone, compared to their computer," he said.
+Kevin Mahaffey, Lookout's CTO and co-founder, explained that spotting malware on mobile devices is a bigger technical challenge than on computers.
+Mahaffey notes that if your phone is running an older version of the Android operating system, you face greater mobile security risks.
+Unless you've rooted your Android phone to gain complete control over it, it's up to the carrier and manufacturer, not you, when your phone will get a system update.
+This is why some brand new but cheaper models come with vastly outdated flavors of Android -- like the Huawei Ascend, currently sold by MetroPCS for $99 on a $50/month no-contract plan, which comes with Android 2.1 ("Eclair," released back in January 2010).
+"If your battery suddenly starts draining really fast, consider that it might be malware," Mahaffey said.
+Probably not," he said.

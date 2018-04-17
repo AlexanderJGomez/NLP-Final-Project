@@ -1,6 +1,0 @@
-Much of the research is based on the observed behavior of 'eusocial' insects -- such as ants, bees and termites -- who work collectively on complex tasks without central management or higher order intelligence.
-Recently, researchers at Massachusetts Institute of Technology (MIT) unveiled 'M-blocks' - robots that can assemble themselves into different shapes to perform a range of basic tasks, without input from a human controller.
-Dr Roderich Gross, head of the Natural Robotics Lab at the University of Sheffield, says: "We are developing artificial intelligence to control robots in a variety of ways.
-Aaron Becker, a postdoctoral researcher at Rice University has been working on an experiment (that you can join in here) to test different ways swarm robots can be deployed, with a view to seeing 'nano-robots' eventually used in medical operations.
-Becker believes that in future, swarms of nano-robots might even come to be used in surgery: "If we can shrink the surgeon and their tools while maintaining their effectiveness, non-invasive surgery could revolutionize health care.
-(For example) the U.S. Defense Force has investigated how the hunting strategies of wolf packs, coyotes and killer whales can be used in military contexts.

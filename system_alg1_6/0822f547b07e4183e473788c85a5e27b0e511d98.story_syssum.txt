@@ -1,0 +1,5 @@
+In particular, one area where life seems to be imitating art is the fledgling field of 'swarm robotics', in which scientists are creating teams of robots that can work together toward a single goal -- from mending a leak to clearing mines -- with minimal or no input from humans.
+At the moment researchers are still working to make teams of robots complete more basic tasks.
+That's important because it means the robot may not need any memory, and possibly not even a processing unit, so this technology could work for nanoscale robots -- for example in medical applications."
+Other researchers are investigating ways to use swarming robots in diagnosis, so that problems are detected before they become life threatening.
+The Israeli Defense Force is also investigating how one can use miniature robotic mosquitoes in the same context."

@@ -1,0 +1,8 @@
+Maybe Twitter can tell us.
+The "tweets" range from the mundane to the profound, and convey, for example, what people are doing, thinking and reading at any moment.
+We also observe geographic variations, with users from Hawaii, California, and Florida, for example, using happier words in their tweets.
+However, because we take words out of context, our approach will not correctly interpret tweets like "I am not happy".
+Because most users leave their tweets public, Twitter represents an unprecedented opportunity.
+Unlike many existing tools, such as surveys and polls, researchers cannot ask a question of the Twitter users directly; instead, researchers must determine whether the question is one that the Twitter data can answer.
+This new kind of data presents new challenges, such as privacy, anonymity and legality, but developing a science around it has the potential to do enormous good.
+The opinions expressed in this commentary are solely those of Alan Mislove.

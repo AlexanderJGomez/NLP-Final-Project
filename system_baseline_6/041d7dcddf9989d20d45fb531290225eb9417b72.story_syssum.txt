@@ -1,0 +1,4 @@
+The attack, part of a campaign known as Sownage, was announced on Twitter and on the LulzSec website.
+The accounts, presumably associated with any sort of registered activity on SonyPictures.com (or its subsidiaries or partners), contain information like passwords, email addresses, dates of birth and other Sony opt-in data.
+LulzSec says that all of the information it took was unencrypted.
+We can only hope the most recent cyber attacks convince executives to think seriously about investing in online security.

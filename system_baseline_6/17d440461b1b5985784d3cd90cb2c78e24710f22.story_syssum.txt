@@ -1,0 +1,8 @@
+Google launched a tool called Helpouts on Tuesday in which people can pay to get help from experts over a live video chat similar to Google Hangouts.
+Yoga instructors can give personal lessons and suggest corrections based on what they see over the video.
+Sometimes you need somebody to look over your shoulder, somebody to show you the way," said Udi Manber, Google's vice president of engineering.
+Manber said Helpouts remove space and time barriers to make getting professional services more efficient and convenient.
+For now, Google is screening people and companies that want to offer their services through Helpouts.
+Google Helpouts are HIPPA compliant to address privacy concerns, and Google is checking credentials for any providers in the medical field.
+Payment is handled by Google Wallet, and all the prices are set by the experts offing the Helpouts.
+People who want to share their expertise for free could also flock to Helpouts, according to Manber, who said it could open up a whole new new way to volunteer.

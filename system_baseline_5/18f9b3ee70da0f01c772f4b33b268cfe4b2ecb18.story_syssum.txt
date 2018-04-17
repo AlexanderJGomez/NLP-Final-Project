@@ -1,0 +1,6 @@
+The latest: The blog TechCrunch on Wednesday published a story claiming the next-generation iPhone will have a new connection port that's about a third the size of the one on the current model.
+"Are standards just too easy for Apple to use?"
+TechCrunch said its report is based on interviews with three independent manufacturers of Apple accessories that said the new iPhone will include a 19-pin dock instead of the current 30-pin model.
+The connection type is proprietary, meaning cords and accessories that use the 30-pin dock only work with Apple devices.
+If that's the case, he said, the switch could have all kinds of advantages, including saving consumers money (a 30-pin cord from Apple costs $19; Micro USB cords start at less than $1) and making it easier for Apple to comply with a European law that requires Micro USB ports on new mobile phones.
+Let us know in the comments.

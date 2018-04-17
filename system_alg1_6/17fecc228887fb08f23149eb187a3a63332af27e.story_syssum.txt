@@ -1,0 +1,3 @@
+The latest bombshell from the UK's Guardian newspaper, which along with the Washington Post broke the NSA snooping story last month, says that Microsoft helped the NSA circumvent its encryption to intercept Web chats on its new Outlook.com portal.
+In a statement, Microsoft immediately denied many of the Guardian's claims, saying the company turns over data on customers only in response to legal requests.
+"When we upgrade or update products legal obligations may in some circumstances require that we maintain the ability to provide information in response to a law enforcement or national security request," Microsoft said in its statement Thursday.

@@ -1,0 +1,3 @@
+(WIRED)  -- Reddit, the community news sharing site, has now joined the billion-page-per-month club, having served up some 1,000,404,480 pages to almost 14 million unique visitors in January, as measured by Google Analytics.
+In your face, meteorologists!
+It's safe to say the site now has plenty more than that, even as Ohanian and Huffman, along with the site's first employee Chris Slowe are now huddled together working on Hipmunk, a airline ticket search site.

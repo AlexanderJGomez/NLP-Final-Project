@@ -1,0 +1,4 @@
+C Spire's infrastructure is based on a cell standard used by Verizon Wireless and Sprint Nextel, which now both have the iPhone, but it is not common in other countries.
+Since C Spire's network uses the same underpinnings and antenna bands as Verizon, Apple did not have to make modifications to its phones beyond what it already did for Verizon when it launched there in February.
+When asked why C Spire got the iPhone before T-Mobile, Brad Duea, a T-Mobile senior vice-president, smiled, having likely fielded the question before.
+Since the original iPhone came out in 2007, owners have been able to take the devices to T-Mobile, swap out a SIM card and use them on the network.

@@ -1,0 +1,6 @@
+George Kalogeropoulos, who created the site along with Ning Liang and Michael Wasser, said all three of them had tried using the government website to get insurance.
+We only use carefully vetted, publicly available data," the site reads.
+Of course, it's not fair to compare the creation of Health Sherpa to the rollout of the more complicated government ACA site, which everyone from President Obama on down has acknowledged as a horribly botched affair.
+Creating the original Sherpa site took three days and cost "several hundred dollars," according to Kalogeropoulos.
+The three programmers have continued fine-tuning the site as its popularity has grown.
+As it scrambles to fix the heath care site, the government  has sought to inject a little more Silicon Valley into the process by enlisting a "Tech Surge" of staffers from Oracle and Red Hat, as well as Michael Dickerson, a site reliability engineer on leave from Google.

@@ -1,0 +1,6 @@
+Spurred by the problems that have surrounded the rollout of the official HeathCare.gov site, the trio created an alternative, Health Sherpa, quickly and cheaply.
+We only use carefully vetted, publicly available data," the site reads.
+Of course, it's not fair to compare the creation of Health Sherpa to the rollout of the more complicated government ACA site, which everyone from President Obama on down has acknowledged as a horribly botched affair.
+"Unlike Healthcare.gov, our site doesn't connect to the IRS, DHS, and various state exchanges and authorities.
+"We've heard from people of all ages and walks of life, and thousands of people have reached out to us directly via email, phone, and Twitter to thank us to and to suggest features and request improvements," he said.
+As it scrambles to fix the heath care site, the government  has sought to inject a little more Silicon Valley into the process by enlisting a "Tech Surge" of staffers from Oracle and Red Hat, as well as Michael Dickerson, a site reliability engineer on leave from Google.

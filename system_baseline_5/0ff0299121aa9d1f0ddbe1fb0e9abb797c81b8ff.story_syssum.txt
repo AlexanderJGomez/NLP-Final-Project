@@ -1,0 +1,8 @@
+Maybe Twitter can tell us.
+To demonstrate the unique power of Twitter data, our research group at Northeastern University and Harvard Medical School recently began a study to infer the mood of Twitter users in the United States from their public tweets.
+Never before have academic researchers had access to this much real-time public information about what people are thinking and saying.
+In fact, other research groups have also begun to examine Twitter data and have demonstrated that it can be used to predict the box-office success of an upcoming movie.
+Because most users leave their tweets public, Twitter represents an unprecedented opportunity.
+Unlike many existing tools, such as surveys and polls, researchers cannot ask a question of the Twitter users directly; instead, researchers must determine whether the question is one that the Twitter data can answer.
+From a scientific standpoint, Twitter data can shed light on how information spreads through society.
+The opinions expressed in this commentary are solely those of Alan Mislove.

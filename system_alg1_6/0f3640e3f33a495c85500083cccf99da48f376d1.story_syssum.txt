@@ -1,0 +1,7 @@
+The good news, however, is that the Google Maps app is excellent.
+Google Maps has years of experience perfecting data accuracy and the latest app shows it.
+Now, people love to talk about how much they hate the Apple Maps app.
+One of the biggest gripes about Apple Maps was that it didn't come with public transportation directions.
+Although Google Maps incorporates 2D and 3D views via Street View, as well as the rotating and tilting of maps with gestures inside the app, we still prefer Apple's design.
+As a bonus for developers -- and app users alike -- Google announced Google Maps SDK for iOS, which gives app developers the opportunity to use maps within apps for the iPod Touch, iPhone and iPad.
+© 2013 MASHABLE.com.

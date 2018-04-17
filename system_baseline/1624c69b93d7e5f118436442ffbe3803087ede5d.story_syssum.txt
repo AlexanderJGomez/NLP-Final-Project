@@ -1,8 +1,0 @@
-Speaking before a capacity crowd of hackers and security experts Wednesday at the Black Hat computer-security conference, Alexander defended the NSA's embattled programs, which collect phone metadata and online communications in an effort to root out potential terrorists.
-Alexander said the NSA's PRISM surveillance program, which probes digital activity such as e-mail, instant messaging and Web searches, focuses on foreign actors and does not apply to people in the United States.
-Congress and courts make sure the programs operate within the bounds of the Foreign Intelligence Surveillance Act, and internal auditing systems are in place to prevent any abuse by employees, Alexander said.
-Alexander denied accusations that the NSA programs allow the government to collect all online data on everyone.
-Aside from a couple jokes, Alexander's words were serious and measured, and he seemed unfazed by a smattering of heckling from the audience during his hourlong talk.
-Alexander replied that people were basing opinions on what was "written in the press" without looking at facts and urged the heckler read his congressional testimony.
-He also hinted at possible damage resulting from the Snowden leaks, and wondered aloud whether the government will have the same success preventing terrorist attacks in the next 10 years as it has in the past decade.
-"If we tell everyone exactly what we're doing, then the adversaries will know exactly how to get through our defenses," he said.

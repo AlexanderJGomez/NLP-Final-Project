@@ -1,0 +1,9 @@
+But as neural devices become more complicated, and go wireless, some scientists say the risks of "brain hacking" should be taken seriously.
+According to Kohno and his colleagues, who published their concerns July 1 in Neurosurgical Focus, most devices carry few security risks.
+"It's very hard to design complex systems that don't have bugs," Kohno said.
+"It happened on two separate occasions," said computer science graduate student Tamara Denning, a co-author on the paper.
+Despite the risks, Kohno said, most new devices aren't created with security in mind.
+It's never too early to start thinking about security issues, said neural engineer Justin Williams of the University of Wisconsin, who was not involved in the research.
+"These kinds of security issues have to proceed in lockstep with the technology," Williams said.
+gets you 90 percent there, and that's the most important thing."
+Click here!

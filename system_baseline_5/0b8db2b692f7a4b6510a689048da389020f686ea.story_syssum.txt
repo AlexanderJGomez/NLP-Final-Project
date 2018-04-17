@@ -1,0 +1,4 @@
+Hackers appear to have posted account info for 4.6 million users of quickie social-sharing app Snapchat, making usernames and at least partial phone numbers available for download.
+By Wednesday afternoon, developers had used the data to set up a website letting Snapchat users find out whether their accounts had been compromised.
+Last week, Gibson Security -- a group of "white hat" hackers, meaning they don't exploit the security gaps they find -- published what they said was code that would enable such a hack.
+In a blog post Friday, Snapchat appeared to minimize the potential damage from such a hack, claiming that it would require a "huge set of phone numbers, like every number in an area code," to match usernames to numbers.

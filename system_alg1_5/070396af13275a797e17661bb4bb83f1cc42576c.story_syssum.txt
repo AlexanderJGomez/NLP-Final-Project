@@ -1,0 +1,11 @@
+(CNN) -- Microsoft's Bing search engine will not follow Google out of China.
+But Microsoft's chief research and strategy officer, Craig Mundie, confirmed in an interview with the state-controlled China Daily last week that Bing, which now has less than 1 percent of Chinese market share, "is committed to stay."
+In January, the Chinese media gave prominent play to comments by Microsoft's founder Bill Gates and CEO Steve Ballmer.
+In a blog post, Ballmer attempted to clarify Microsoft's position.
+When Microsoft started in China, its approach to compliance could best be described as "when in Rome, do as the Romans do."
+In February 2006, executives from Cisco, Yahoo, Microsoft and Google were summoned to a congressional hearing in Washington.
+Then why, human rights activists and legal experts asked, were they responding to requests made by Chinese authorities using no pretense of legal process?
+When carrying out requests to censor entries on MSN Spaces (later renamed MSN Live Spaces), Microsoft's blogging and social networking platform, it would block pages from users on the Chinese network, but leave them visible to people viewing the page from all other countries.
+In 2008, Microsoft, along with Google and Yahoo, joined the Global Network Initiative (GNI, at globalnetworkinitiative.org), a group that has established a code of conduct for free expression and privacy.
+Will Bing comply only with those censorship requests that have a clear basis in Chinese law and which are made through a legally binding, documented and accountable process?
+When we know the answers to those questions, we'll know which road Bing has taken in China.

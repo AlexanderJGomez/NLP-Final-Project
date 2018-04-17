@@ -1,0 +1,4 @@
+(CNN) -- Apple appears to be testing out motion control features that will let people control their iPhones by moving their heads.
+The left or right head movements can be assigned to different tasks, including returning to the main home screen, displaying notifications or activating voice assistant Siri.
+The head-movement feature is meant as an accessibility option, but it's easy to imagine similar motion control features becoming more commonplace on devices in the future.
+In a pinch, regular smartphone cameras can perform some minor motion detection features, but they are still in the early stages and need work before they are good enough to be practical tools.

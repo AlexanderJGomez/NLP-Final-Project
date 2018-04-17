@@ -1,6 +1,0 @@
-NASA and SpaceX said the problem was with the Falcon 9 rocket's second stage, rather than the section it plans to try to land.
-The second stage of the rocket delivers the payload -- in this case, supplies for the International Space Station -- to the desired orbit.
-Those tests showed that the rocket is capable of reducing its speed from hypersonic to nearly zero, and deploy landing legs.
-When the launch happens, the company will try the same soft landing for the Falcon 9's first stage, but this time on a custom-built floating platform it calls the autonomous spaceport drone ship.
-Keith Smith, of Britain's Royal Astronomical Society, told CNN the reason for using the platform -- despite the complications of landing on a moving target -- was that it should prevent any properties on Earth being damaged if the landing goes wrong.
-The timing of the next launch attempt will depend on how serious the problem is, he said.

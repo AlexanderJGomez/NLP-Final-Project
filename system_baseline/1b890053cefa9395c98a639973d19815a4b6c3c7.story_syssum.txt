@@ -1,9 +1,0 @@
-What many people don't realize, however, is that the printer itself is not the "magic" ingredient for making lab-built organs a reality.
-Instead, printers are a vehicle for scaling up and automating a process that must begin at the laboratory bench.
-What these structures have in common is that they are a combination of cells and biomaterials made in the shape of an organ or tissue.
-3-D printers, on the other hand, offer the opportunity to very precisely combine cells and materials into the desired shape.
-The printers we've designed give us the option of using two or more different cell types and placing them exactly where they need to be -- something not possible by hand.
-Instead, even when printed structures are made with living cells, they must "incubate" in the body to become fully functional.
-For example, for the military-funded Armed Forces Institute of Regenerative Medicine, our team is working to print smaller tissues, such as bone and muscle, that would be used in facial reconstruction.
-Called a "body on a chip," the system has the potential to speed up the development of new drugs because it could potentially replace testing in animals, which can be slow, expensive and not always accurate.
-Developments that occur at the laboratory bench are an integral part of the equation and what can be accomplished with printing depends, in large part, on advancements in cell biology and materials science.

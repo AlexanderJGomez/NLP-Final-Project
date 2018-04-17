@@ -1,6 +1,0 @@
-He said his company had reverse-engineered its program, which they suspected of originating in Ukraine, and is using the call-back mechanism to monitor an exponential infection rate, despite Microsoft's issuing of a patch to fix the bug.
-It is the most serious large scale worm outbreak we have seen in recent years because of how widespread it is, but it is not very serious in terms of what it does.
-The real reason why they have created it is hard to say right now, but we do know how it replicates.
-If it gets in, even if you are not at your machine, it will infect and begin spreading to other servers.
-Use long, difficult passwords -- particularly for administrators who cannot afford to be locked out of the machines they will have to fix.
-The problem is for companies with thousands of infected machines, which can become re-infected from just one computer even as they are being cleared.

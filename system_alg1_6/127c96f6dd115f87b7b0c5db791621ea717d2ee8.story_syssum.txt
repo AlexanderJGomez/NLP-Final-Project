@@ -1,0 +1,5 @@
+It took only two days for hackers to crack into the Apple and Blackberry operating systems during the three-day Pwn2Own tournament last week, while Android and Windows Phone 7 models were abandoned and left unhacked by the end of the contest.
+In the mobile phone category, the Dell Venue Pro (Windows Phone 7), Apple iPhone 4 (iOS), BlackBerry Torch 9800 (Blackberry 6) and Nexus S (Android) were targeted.
+Firefox and Chrome web browsers were also left undefeated because contestants withdrew from Pwn2Own.
+Safari, Chrome, iPhone, Android and Blackberry all use WebKit in their browsers, which means that they are all susceptible to exploitation through the browser -- and that's exactly how the iPhone and Blackberry were attacked.
+Click here!

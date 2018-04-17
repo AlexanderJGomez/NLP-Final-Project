@@ -1,0 +1,4 @@
+Difficulty getting Flash to work properly on the PlayBook is probably another one of RIM's woes.
+First, other tablet makers have had trouble with Flash.
+Without great Flash support, a PlayBook tablet would practically have nothing to do.
+It's been six weeks since Motorola released the Xoom, and April 19 is probably as long as Adobe can wait before Flash can no longer be considered "a few weeks" late.

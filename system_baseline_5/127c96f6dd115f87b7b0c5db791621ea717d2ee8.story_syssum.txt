@@ -1,0 +1,6 @@
+"The survival of a target at Pwn2Own does not automatically declare it safer than a target that went down," last year's Internet Explorer Pwn2Own winner Peter Vreugdenhil cautions.
+In the mobile phone category, the Dell Venue Pro (Windows Phone 7), Apple iPhone 4 (iOS), BlackBerry Torch 9800 (Blackberry 6) and Nexus S (Android) were targeted.
+Vreugdenhil says many different factors determine how hard a target is to hack.
+Firefox and Chrome web browsers were also left undefeated because contestants withdrew from Pwn2Own.
+Android's survival was a bit of a surprise, since it is also a big target and had four contestants lined up.
+Click here!

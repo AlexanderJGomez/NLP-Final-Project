@@ -1,0 +1,11 @@
+(CNN) -- Microsoft's Bing search engine will not follow Google out of China.
+With the loyalty of millions of Chinese Internet searchers up for grabs, Baidu, the home-grown search engine with dominant market share in China, is expected to be the biggest winner.
+Will Microsoft manage its legal obligations to the Chinese government in a way that helps legitimize and prolong current censorship practices, or in a way that helps reduce censorship over time -- or at the very least increases transparency and accountability to Chinese citizens?
+"In every country in which we operate, including China, Microsoft requires proper legal authority before we remove any Internet content; and if we remove content, we give users notice."
+As it happens, the way Microsoft handles censorship in China has changed since it launched a Chinese version of its search engine and rolled out a Chinese-language blog-hosting service in 2005.
+Cisco was under fire for selling technology to China that helped authorities censor the Internet.
+Then why, human rights activists and legal experts asked, were they responding to requests made by Chinese authorities using no pretense of legal process?
+Bing seems to censor a bit less than the Chinese Baidu but a bit more than Google.cn did.
+In 2008, Microsoft, along with Google and Yahoo, joined the Global Network Initiative (GNI, at globalnetworkinitiative.org), a group that has established a code of conduct for free expression and privacy.
+Will Bing comply only with those censorship requests that have a clear basis in Chinese law and which are made through a legally binding, documented and accountable process?
+When we know the answers to those questions, we'll know which road Bing has taken in China.

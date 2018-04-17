@@ -1,0 +1,4 @@
+The release will mark the first major update of Microsoft's operating system since Windows 7 was released three years ago.
+Unlike previous releases that have, essentially, revamped (or, in at least one case, mercifully killed) existing features, Microsoft is touting Windows 8 as a radical reimagining of its core product.
+The recently released Nokia Lumia 900 has been heralded as the best Windows phone ever, although, as of March, only about 4% of U.S. smartphones ran the company's operating system.
+But with Apple and Google's Android system grabbing the attention and market share in the mobile world, Microsoft appears to have an uphill battle.

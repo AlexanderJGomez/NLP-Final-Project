@@ -1,0 +1,4 @@
+"Big data is the new oil," says Andy Cutler, director of strategy at SAS, a consulting firm specializing in big data analytics.
+Netflix has effectively built its entire business model on analyzing customer data, he says.
+Meanwhile major supermarkets in the UK are turning to big data analytics to help them provide same-day grocery delivery services -- a huge logistical challenge involving predicting what customers are likely to want before they order it, and ensuring coordinated delivery times that protect supermarkets' already-thin profit margins.
+Professor Thierry Chaussalet, who runs a business intelligence and analytics masters course at the University of Westminster in London, says many businesses simply don't understand the big data technology now available and what it has to offer.

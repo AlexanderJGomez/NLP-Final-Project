@@ -1,0 +1,4 @@
+(CNN)  -- A New Zealand teenager has been questioned in connection with a scheme by hackers to remotely take over more than 1 million computers worldwide and use them for criminal activity, New Zealand police and the FBI said Thursday.
+The FBI advises users to protect themselves by updating their anti-virus software, installing a firewall, using non-common passwords and avoiding suspicious e-mail attachments and advertisers' links.
+Between January and June, Symantec Corp., a leading computer security company, detected more than 5 million bot-infested personal computers carrying out at least one attack a day, according to the company's September report.
+E-mail to a friend

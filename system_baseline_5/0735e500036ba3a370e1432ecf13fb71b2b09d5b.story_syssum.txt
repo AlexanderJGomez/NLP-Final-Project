@@ -1,0 +1,11 @@
+Yet in 2005, a freestyle chess tournament featured teams of humans partnering with computers in various combinations.
+In Licklider's view, human intelligence should be complemented by machines, not replaced: "Men will set the goals, formulate the hypotheses, determine the criteria and perform the evaluations.
+..."
+It's easy to argue that life and death decisions should never be left to machines, but Licklider's vision was much broader, recognizing technology as an enabler for many human capacities.
+The tension between the Minsky and Licklider visions has certainly been amplified in the age of so-called big data.
+Why is this?
+Yet even the nimblest fugitives leave clues, even patterns -- they're just buried in an expanding universe of data, a challenge that intensifies as we seek still more data, hoping it will yield more insight.
+Yet how weak is something that can learn in ways even the most robust automated systems can't?
+Sometimes, the right combination of humans and technology can reshape the data landscape itself.
+Through rapid iteration, a group of determined people using low-friction technology had created a vast, self-regulating system.
+Almost 50 years since the identification of Moore's Law, and 10 years since the human genome was first sequenced, humans and machines are beginning a new arc of re-imagining and discovery -- together.

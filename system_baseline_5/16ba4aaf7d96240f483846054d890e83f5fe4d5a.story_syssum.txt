@@ -1,0 +1,6 @@
+(CNN) -- Apple is opening up about how many government requests it gets for customer information.
+Apple received 3,542 of these "device information" requests in the U.S. for 8,605 devices, and Apple turned over some or all of the desired information 88 of the time.
+Though the information in the reports is somewhat standard, Apple did included something different.
+If Apple did receive such an order, it would likely be accompanied by a gag order so Apple would not even be able to say that it did or did not receive a 215 request.
+"We have reported all the information we are legally allowed to share, and Apple will continue to advocate for greater transparency about the requests we receive," Apple said in the report.
+We have no interest in amassing personal information about our customers," Apple said in the beginning of the report.

@@ -1,0 +1,5 @@
+WASHINGTON (CNN)  -- The servers hosting the Web sites of the House of Representatives and its members have been overwhelmed with millions of e-mails in the past few days, forcing administrators to implement the "digital version of a traffic cop" to handle the overload.
+"This was a massive digital busy signal," he said.
+"We know it's in the millions," he said of the number of e-mails that lawmakers in the House have been receiving.
+Now, when House.gov or individual members' sites begin to get overloaded, a message will come up on the computer screen saying, in effect, "try back later," Ventura said.
+"We monitored the situation all night long, and technicians and engineers saw that we were facing the same demand as yesterday," Ventura said.

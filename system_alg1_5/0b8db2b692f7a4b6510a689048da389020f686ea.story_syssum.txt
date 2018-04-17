@@ -1,0 +1,4 @@
+By late Wednesday morning, that site had been suspended.
+Security matters as much as user experience does," the hackers said in a statement to technology blog TechCrunch.
+The SnapchatDB group said Snapchat implemented "very minor obstacles" after that.
+In a blog post Friday, Snapchat appeared to minimize the potential damage from such a hack, claiming that it would require a "huge set of phone numbers, like every number in an area code," to match usernames to numbers.

@@ -1,7 +1,0 @@
-The company expects to roll out an update to its free Google Search app later this week with the new feature, which uses speech-recognition technology to understand spoken, natural language search requests.
-The app also can give answers specific to your location, such as movie times or weather.
-For example, a search for "Luxor" will suggest the Las Vegas casino, the city and the original Egyptian temple in search field.
-Another new feature is the knowledge carousel -- a collection of frequently mentioned results for certain search terms that will appear as a row of thumbnail images at the top of the screen.
-The feature has been tested by several thousand Google employees, and now the company is opening up the trial to a test group of a million.
-Google says it has found more than 30 trillion unique URLs on the Web, crawls 20 billion sites a day and processes 100 billion searches every month.
-"The destiny of search is to become that 'Star Trek' computer," he said.

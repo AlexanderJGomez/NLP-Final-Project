@@ -1,0 +1,5 @@
+(CNN) -- Twitter announced Wednesday that it's adding new photo tagging and collage features.
+Twitter also is now making it possible to pack more images into messages with a new collage option that lets you share up to four photos in a single tweet.
+The new Twitter image tags won't count against a tweet's 140-character limit.
+The default setting for the photo tagging is "Allow anyone to tag me in photos."
+People who have their Twitter accounts set to private can only tag people who follow them, and the default privacy setting for protected accounts is to not allow people to tag them in images at all.

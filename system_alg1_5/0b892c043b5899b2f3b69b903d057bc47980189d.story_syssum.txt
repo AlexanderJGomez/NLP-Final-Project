@@ -1,0 +1,7 @@
+And one, the Stuxnet virus, was able to penetrate Iran's Natanz nuclear facility, researchers say.
+More importantly, Stuxnet was smart.
+But once it found its target, Stuxnet set to work.
+Still, that's only about one out of every nine centrifuges and, despite a minor dip in production, uranium enrichment continued apace.
+"This is not a copycat," insists Orla Cox of Symantec.
+The problem, he says, is that Stuxnet, in its bid to stop nuclear proliferation, may have sparked its own arms race.
+"To build the first nuclear bomb, it took a genius like Oppenheimer and the resources of the Manhattan project.

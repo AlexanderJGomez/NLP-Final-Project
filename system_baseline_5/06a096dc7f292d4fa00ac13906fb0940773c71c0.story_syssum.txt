@@ -1,0 +1,6 @@
+Shipboard procedures such as fire drills, on-board alarms and locking fire doors may have gone a long way to mitigating the danger of fire at sea, but the US Navy is looking at new technology to help it battle the threat.
+Called the Shipboard Autonomous Firefighting Robot (SAFFiR), the team at the Office of Naval Research (ONR) chose a humanoid-type robot as the best way of negotiating the narrow passageways, ladders and hatches (all designed for human mobility) of a modern ship.
+"Shipboard fires must be suppressed, whereas in many civilian fires, a building can be considered a loss and the focus might shift to containing the fire to prevent spread," he told CNN.
+While the next generation of the robot will be designed with enhanced intelligence, communications capabilities and extended battery life, Lattimer said the robot would likely always take its orders from a human in a console.
+McKenna said that ultimately, SAFFiR could be used for a number of shipboard duties that are difficult or onerous for humans to perform.
+"For instance, a bipedal robot could be configured to take shipboard measurements, scan for corrosion and leaks, and identify changes to the shape of the room from its original configuration," he said.

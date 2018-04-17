@@ -1,6 +1,0 @@
-Scientists at the UK's University of Manchester say they have demonstrated how graphene -- a two-dimensional material made from a single layer of carbon atoms -- could look inside electronic circuits of the future.
-"Creating the multilayer structure has allowed us to isolate graphene from negative influence of the environment and control graphene's electronic properties in a way it was impossible before," Leonid Ponomarenko, lead author of the study.
-"It could be only a matter of several months before we have encapsulated graphene transistors with characteristics better than previously demonstrated," he added.
-The discovery that it is extremely sensitive to single molecules of gas could, according to Geim and Novoselov, lead to the development of new sensors, with possible applications in counter-terrorism.
-The U.S.'s Massachusetts Institute of Technology in Boston, have recently discovered that graphene "exhibits a novel reaction to light," which they say could improve night-vision systems and possibly provide a new approach to solar power.
-It turned out to be untrue, but bendable phones, computers and televisions may not be far off, says Ferrari.

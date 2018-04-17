@@ -1,7 +1,0 @@
-To do so, they often rely on "data brokers" -- companies that collect and share our personal information and label us based on what they learn.
-And they do this mostly without our knowledge.
-The data broker industry has been booming in recent years, due to new technologies that enable the collection of massive quantities of our personal information.
-Most Americans don't even know that data brokers exist, let alone that they collect and trade a staggering amount of our personal data.
-The Federal Trade Commission, a bipartisan agency that works to protect consumers, is seeking to shed light on this largely unknown industry.
-And consumers have little if any window into this process, let alone meaningful control or choice about how their data is shared among businesses.
-We need better transparency into how data brokers collect and use our personal information to help ensure that we not go down a path that leads to unfair exclusion, but rather one that widens opportunities for all consumers.

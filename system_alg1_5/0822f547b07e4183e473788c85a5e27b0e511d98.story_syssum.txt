@@ -1,0 +1,6 @@
+(CNN) -- In the dystopian future imagined within the popular Terminator franchise, robots learn to think, self-replicate and eventually kill their human masters.
+Recently, researchers at Massachusetts Institute of Technology (MIT) unveiled 'M-blocks' - robots that can assemble themselves into different shapes to perform a range of basic tasks, without input from a human controller.
+Sheffield University researchers, for example, are using swarms of robots to fetch, carry and push objects in unison.
+Some of the most interesting applications for swarm robotics exist where robots go beyond the realm of easy human reach, say into space or under the sea, or -- as Gross says -- inside the human body to perform medical tasks at a microscopic or 'nano' scale.
+"Some potential application areas for swarms of robots are: cooperative search in disaster sites to support rescue efforts, pollution detection and monitoring, mine clearing, exploration, mapping and dynamic motion capture for the film industry," he says.
+(For example) the U.S. Defense Force has investigated how the hunting strategies of wolf packs, coyotes and killer whales can be used in military contexts.

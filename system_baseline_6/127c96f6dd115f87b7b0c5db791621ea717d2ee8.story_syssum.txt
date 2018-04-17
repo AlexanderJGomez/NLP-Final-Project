@@ -1,0 +1,5 @@
+"The survival of a target at Pwn2Own does not automatically declare it safer than a target that went down," last year's Internet Explorer Pwn2Own winner Peter Vreugdenhil cautions.
+In the mobile phone category, the Dell Venue Pro (Windows Phone 7), Apple iPhone 4 (iOS), BlackBerry Torch 9800 (Blackberry 6) and Nexus S (Android) were targeted.
+Firefox and Chrome web browsers were also left undefeated because contestants withdrew from Pwn2Own.
+Safari, Chrome, iPhone, Android and Blackberry all use WebKit in their browsers, which means that they are all susceptible to exploitation through the browser -- and that's exactly how the iPhone and Blackberry were attacked.
+Click here!

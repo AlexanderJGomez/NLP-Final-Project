@@ -1,7 +1,0 @@
-(CNN) -- As the globe has become increasingly outfitted with wi-fi hotspots and cell phone towers, the skies have long been the last refuge from constant connectivity.
-Though airlines pay to install the equipment, they also reap the rewards; Gogo charges the customers for internet usage -- between $5 and $20, depending on flight duration -- and shares its revenue with the carriers.
-The drawback with Gogo's system is that it uses an air-to-ground network of cell phone towers it built across the United States -- each with a 250-mile radius of coverage -- meaning its wi-fi isn't available when flying over water.
-"Air-to-ground has certain inherent limitations in terms of the amount of data that can be processed through the network of cell towers on the ground -- for example, live TV really is an impossibility," says LaValle, whose company also offers that service as part of its package.
-"We had a trial period where we offered it free to passengers, and we saw increases on those routes; it went up volumes," notes Boris Bubresko, head of business development for Norwegian Air Shuttle.
-At the moment, connectivity is a perk; airlines that provide wi-fi or mobile services on board stand out.
-He slammed it down and said, 'I can't believe this, I really needed to get a lot of work done on this flight!'

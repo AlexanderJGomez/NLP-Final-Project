@@ -1,4 +1,0 @@
-When on, the system automatically runs through every option on the device screen until the user selects the one he or she wants by turning his or her head to one side.
-The approach appears time-consuming, but being able to navigate the phone interface this way with head movements could potentially be useful for people with limited mobility or other disabilities that make touch or voice interfaces difficult to use.
-The head-movement feature is meant as an accessibility option, but it's easy to imagine similar motion control features becoming more commonplace on devices in the future.
-In a pinch, regular smartphone cameras can perform some minor motion detection features, but they are still in the early stages and need work before they are good enough to be practical tools.

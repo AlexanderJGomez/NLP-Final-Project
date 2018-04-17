@@ -1,9 +1,0 @@
-While stadiums have boosted cellular and Wi-Fi infrastructure to keep fans connected during games, there's always the possibility that there won't be enough bandwidth for everyone.
-The decision stems from last year's Super Bowl, when streaming was initially allowed but eventually blocked when it took up too much bandwidth.
-The NFL is providing a Super Bowl app to attendees with an event guide and "exclusive content," but it won't include streaming video or replays.
-While attending the final game of last year's World Series at Fenway Park in Boston, I was able to upload, e-mail, and text photos on the cellular network during the game.
-McKenna-Doyle is optimistic that multicast technology, as opposed to the unicast tech used today, will limit the amount of data needed for streaming video at future Super Bowls.
-For example, the New England Patriots' app provides access to NFL Red Zone video when users are connected to Gillette Stadium's Wi-Fi network.
-The Wi-Fi network, open to all fans, has about 900 access points, using Cisco equipment powered by the new 802.11ac standard, according to the NFL.
-While Verizon is the lead vendor, all four major carriers invested in upgrading their Distributed Antenna Systems at the Super Bowl site, McKenna-Doyle said.
-Network monitoring tools divide the stadium into sectors, and this year "we cut the stadium into more sectors than we had in the past so we can pinpoint more quickly where issues are in a section of the stadium," McKenna-Doyle said.

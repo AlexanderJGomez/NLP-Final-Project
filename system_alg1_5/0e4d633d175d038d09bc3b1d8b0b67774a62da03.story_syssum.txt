@@ -1,0 +1,5 @@
+Apple, too, has outlined its app review guidelines in extensive detail, but has not publicly commented on the CTIA app rating issue.
+In its App Store, Apple provides an age rating ranging from 4+ to 17+, and lists the reasons for assigning its maturity rating.
+CTIA announced it would be developing its app rating system in March.
+Apps would receive their rating almost instantaneously, and if a developer disagreed with the assigned rating, it could appeal it.
+Click here!

@@ -1,0 +1,8 @@
+"Neural devices are innovating at an extremely rapid rate and hold tremendous promise for the future," said computer security expert Tadayoshi Kohno of the University of Washington.
+According to Kohno and his colleagues, who published their concerns July 1 in Neurosurgical Focus, most devices carry few security risks.
+"It's evidence that people will be malicious and try to compromise peoples' health using computers, especially if neural devices become more widespread."
+Despite the risks, Kohno said, most new devices aren't created with security in mind.
+But the paper gives a very compelling argument that this is important, and that this is the time to have neural engineers collaborate with security developers."
+History provides plenty of examples of why it's important to think about security before it becomes a problem, Kohno said.
+"The first thing is to ask ourselves is, 'Could there be a security and privacy problem?'"
+Copyright 2009 Wired.com.
