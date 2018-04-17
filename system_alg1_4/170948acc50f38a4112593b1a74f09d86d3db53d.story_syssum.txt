@@ -1,0 +1,6 @@
+An international group of researchers have successfully created the most comprehensive map of the human metabolism, called Recon 2, which details how the body's converts food into energy, and assembles all of the hormones and proteins that contribute to a normal day's work for cells and tissues.
+"It's like having the coordinates of all the cars in town, but no street map," Bernhard Palsson, a professor of bioengineering at the University of California San Diego Jacobs School of Engineering said in a statement.
+Recon 2 resembles a "Google map" since it consolidates all the details of human metabolism functions into one interactive tool and allows users to zoom in to view as much detail, at a cellular level, as they want, or to zoom out to get a broader perspective of all the different metabolic reactions that might be involved in a particular function.
+Recon 2 more than doubles that number of metabolic activities by covering more than 7,400 different reactions.
+"Recon 2 allows biomedical researchers to study the human metabolic network with more precision than was ever previously possible.
+According to the researchers, Recon 2 includes only about 1,800 genes of the estimated 20,000 protein-coding genes in the human genome, so there is plenty more to map in coming years.

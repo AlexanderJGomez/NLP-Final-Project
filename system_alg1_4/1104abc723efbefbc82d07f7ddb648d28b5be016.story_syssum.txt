@@ -1,0 +1,19 @@
+Nice to know.
+It's not the first email you want to open in the morning.
+Anthem, which is the second largest health insurer in the United States, said on Thursday that as many as 80 million customer records were stolen.
+But when it's your inbox, your data, something about it feels different.
+But it was enough of a motivator for me to call up a couple data security experts to dig into this a little bit.
+The hackers "don't need to be bigger-better-faster because we're not doing the basics" to protect customer data, he said.
+The vast majority of these incidents could have been completely prevented if (the companies who store data) had been doing the basics."
+I called someone with that point of view and Avivah Litan, a cyber security analyst at Gartner, said she doesn't think it's fair to blame Anthem for the stolen data.
+Anthem also did the right thing by alerting me and other customers, she said.
+I'm the one who got the email ...) If your credit card data is stolen, she said, there are easy ways to rectify the situation.
+And they'll give you the money back," she said.
+If she were an Anthem customer, the hackers have "my name, social, date of birth, address," she explained.
+There's more.
+Both security experts did share one answer: the Social Security number itself.
+"You need to make this data useless when it's stolen," she said.
+And Litan explained to me that there may be a way for health care companies, and other industries, to use a hard-to-crack proxy for a Social Security number in place of the real thing.
+And unlike email and social media accounts, where stronger passwords and two-step verification systems help, there's no way consumers can rework the IT infrastructure of a major company like Anthem.
+Or making this data worthless to criminals.
+Otherwise, we're left to end conversations with security experts like this.

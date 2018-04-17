@@ -1,0 +1,16 @@
+(CNET) -- Coming from a company known more for its plasma HDTVs, the Panasonic TC-32LX85 is a pleasant surprise in the 32-inch LCD category.
+Side panel AV inputs are neatly tucked away behind the right side of the screen.
+The Panasonic TC-32LCX85's offers a fairly comprehensive feature package for an entry-level 32-inch LCD TV.
+At this screen size, however, the benefits of 1080p resolution are nearly impossible to discern with moving video, whether standard- or high-definition.
+The Backlight feature may be the most important in terms of optimizing the panel's picture, as it helps it achieve reasonably deep black levels when lowered from its factory setting.
+Some dubious picture-adjusting features include Color Management and AI Picture, both of which should be shut off for optimum performance.
+Black Level should be set to Light for full shadow detail, although intuitively I would think Dark would be correct.
+Side panel inputs include one HDMI, and one set of AV inputs with composite video only, and an SD Card slot on the right side of the panel for viewing your digital photos.
+Color accuracy and black level performance are its main strengths, while color decoding and standard-definition processing are not.
+Black level: Blacks are reasonably good for an inexpensive LCD flat-panel TV, and deeper than either the Sony or the Vizio, although not quite as deep as the Westinghouse.
+The black areas of the picture were deep, rich, and inky, and the scene was relatively free of low-level noise.
+Color accuracy: As you can see from the Geek Box, grayscale tracking in the Warm color temperature preset was impressive, and the primary colors of red, green, and blue also measured reasonably close to the HDTV standard, which is unusual even in some expensive flat-panel displays.
+The set lacks an aspect ratio that provides for zero overscan, which would be a bigger issue if it were a 1080p resolution panel, but really isn't a big deal the panel has only a 720p resolution.
+This Panasonic, while not perfect, was better than most in this performance test.
+The set's noise reduction, on the other hand, was very good at cleaning up moving motes in low-quality images of skies and sunsets, and the set engaged 2:3 pull-down detection quickly and effectively.
+The best resolution the video card allowed was 1,280x768, which is short of the set's native resolution, and there was enough overscan that important areas of the screen, including the Windows taskbar, were obscured.

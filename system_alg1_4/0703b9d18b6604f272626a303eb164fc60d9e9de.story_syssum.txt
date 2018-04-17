@@ -1,0 +1,14 @@
+That's the gist of Google's message following Apple's $1 billion victory over Samsung in a California patent suit.
+But experts say that while the Apple v. Samsung suit didn't describe a legal route that leads directly to Mountain View, Google had better watch its back.
+Apple also filed claims that Samsung developed operating system features that violated Apple patents.
+Google, which has stayed silent about the case until now, said Monday that these utility patent features aren't part of the core Android operating system, which runs underneath Samsung's and other device manufacturer's modifications.
+Most of these don't relate to the core Android operating system, and several are being re-examined by the US Patent Office.
+"It's essentially Google saying that the patent issues apply to Samsung's software changes and Samsung's hardware, but not to 'core' Android or other Android products," says Philbin.
+The California jury was looking at what Samsung did or didn't do, not what Google did or didn't do.
+But if Google has its way, no jury will ever test its claims.
+One of the chief reasons Apple hasn't yet gone after Google, McKenna says, is because Google doesn't make any money from selling the Android operating system (it makes money from mobile ads).
+And it's not inconceivable that Apple eventually decides to go directly after Google, McKenna says.
+"Apple is on the record saying they want to destroy the Android ecosystem, and to do that it's either going have to go after the all the software makers, or every single hardware manufacturer that sells these things."
+Pick up the latest Samsung smartphone and you won't see the hardware or software features that the jury found violated Apple's patents.
+The good news for consumers is that rather than waiting for jury verdicts in the future, there's a good chance we'll be waiting for the next crop of smartphones and tablets with forms and features that are distinct -- not just a bunch of Apple copycats.
+Click here!

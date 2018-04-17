@@ -1,0 +1,9 @@
+Meet hitchBOT, a talking, tweeting, bucket-bodied Canadian robot that's hitchhiking west from Halifax, Nova Scotia, to Victoria, British Columbia -- a journey of nearly 4,000 miles.
+The robot employs artificial intelligence, speech recognition, social media and other tools to bum rides from motorists.
+So far, the answer appears to be yes.
+"People seem to be rather intrigued with hitchBOT, and take very good care (of it)," said Smith, a communications and multimedia professor at McMaster University in Hamilton, Ontario, and Zeller, a communications professor at Ryerson University in Toronto, in a statement e-mailed to CNN.
+"We wanted to see what we can build on a shoestring budget ... and with tools/components that one can get in any hardware store," Smith and Zeller said.
+"We knew that sometimes ... hitchBOT won't be able to properly understand what people are saying.
+hitchBOT records its journey via GPS.
+Humans who encounter hitchBOT are directed to its website, where instructions tell them how to handle the robot (tip: drop it off at rest stops or gas stations instead of alone on busy highways).
+"They (the robot's drivers) all say that wherever they go with hitchBOT, they meet lots of people through it.

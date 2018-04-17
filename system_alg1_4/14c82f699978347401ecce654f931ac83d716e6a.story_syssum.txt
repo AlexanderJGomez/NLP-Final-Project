@@ -1,0 +1,5 @@
+The Federal Trade Commission is urging mobile phone app developers and phone companies to make it easier for parents to control the personal information being collected by smartphone apps.
+"Even more troubling, the results showed that many of the apps shared certain information with third parties -- such as device ID, geolocation, or phone number -- without disclosing that fact to parents," the FTC said.
+"Parents should be given the information they need to make informed decisions about whether to allow their children to use apps with these capabilities," the FTC report said.
+As of September, there were more than 700,000 apps available in Apple's App Store, a 40 percent increase since December 2011, and more than 700,000 apps available in Google Play, an 80 percent increase since the beginning of 2012, the FTC said.
+The agency urged developers and marketers to work together and develop accurate privacy disclosures regarding what data is collected through apps used by kids.

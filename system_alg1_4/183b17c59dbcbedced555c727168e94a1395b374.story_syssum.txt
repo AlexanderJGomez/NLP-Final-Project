@@ -1,0 +1,6 @@
+No such navigation is available on the online Android Market.
+A Google spokesman said the Android Market site is designed only for United States-based English speakers.
+Will Deasy from Cork, Ireland, tipped off CNN to the language problems with the Android Market website.
+On Google's support forum, users suggested adding this text -- "?hl=en" -- to the end of the site's Web address in order to tell the browser to load the site in English.
+Still, dozens of Android Market users continued to flock to Google message boards to express frustrations.
+In another message, an Android user wrote: "I am traveling, and I want things in English, but I get Dutch instead.

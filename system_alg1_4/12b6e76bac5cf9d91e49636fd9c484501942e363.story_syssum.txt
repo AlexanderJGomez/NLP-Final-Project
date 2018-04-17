@@ -1,0 +1,12 @@
+"Live every week like it's Shark Week."
+"Jacques Cousteau changed the way ocean exploration was done," said Eric Stackpole, who along with partner David Lang is behind a submersible robotic watercraft -- sort of an underwater drone -- that could open a whole new world of undersea exploration.
+"R-O-V stands for remotely operated vehicle" Stackpole said.
+The OpenROV sells for $849.
+This affordability is how Stackpole and Lang hope to bring OpenROV to the masses, turning average people into Cousteau-like undersea adventurers.
+"When we first met almost three years ago ... within 10 minutes Eric told me a story about this underwater cave," Lang said.
+"
+Even though the project is growing, Stackpole and Lang are sticking with their do-it-yourself ethos.
+"We have people from well over 50 countries in our community who can all contribute to how to make the design better and how to use it better," Stackpole said.
+"OpenROV is an open-source community," Stackpole said.
+We want to come up with new designs and revolutionize how underwater exploration is done rather than committing to one design," said Stackpole.
+And our answer certainly is, 'both,' " Stackpole said.

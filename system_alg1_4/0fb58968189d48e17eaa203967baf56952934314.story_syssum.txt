@@ -1,0 +1,6 @@
+"Our future work with Flash on mobile devices will be focused on enabling Flash developers to package native apps with Adobe AIR for all the major app stores," the quoted e-mail says.
+In the past, Adobe has released software tools for mobile developers that create a single platform programmers can use to make applications that work across three major mobile platforms: Android, iOS and the BlackBerry OS.
+Flash became a dominant desktop platform by allowing developers to code interactive games, create animated advertisements and deliver video to any browser that had the plugin installed, without having to take into account the particulars of any given browser.
+Despite attempts to breathe life into Flash on other mobile devices -- namely, Android and BlackBerry OS -- Adobe has failed to deliver a consistently stable version of the platform on a smartphone or tablet.
+Subscribe to WIRED magazine for less than $1 an issue and get a FREE GIFT!
+Copyright 2011 Wired.com.
