@@ -1,0 +1,10 @@
+These are just the latest in a long list of tech companies that fail to provide adequate protection of their users' personal data.
+In August 2013, a group of security researchers publicly reported weaknesses in SnapChat's programming interfaces that could allow data exfiltration and manipulation.
+After four months without response, the security researchers grew impatient and decided to publicly disclose the details on Christmas Day, including code they had written that would allow almost anyone to abuse SnapChat's service.
+It is the latest victim of a group called the Syrian Electronic Army, which has targeted numerous media companies over the years, including The Financial Times, BBC, NPR, Associated Press and Reuters.
+The primary defense against phishing, aside from never clicking suspicious links or attachments in e-mails, is to use two-factor authentication.
+By adding a second factor -- something you have such as a phone or special keychain token -- attackers not only must acquire your password, but also gain access to a piece of randomly generated information sent to a physical device.
+The company attempted to justify its mistake and promised it will change the app to allow opting-out of one feature without any acknowledgment of the damage done to its users or even a commitment to fixing the list of problems identified by the researchers.
+Companies that can't seem to get enough of our personal information need to be held accountable.
+The least they can do is be responsible and keep our data safe.
+The opinions expressed in this commentary are solely those of Chester Wisniewski.

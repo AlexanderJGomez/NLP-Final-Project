@@ -1,0 +1,5 @@
+(WIRED) -- Research In Motion is preparing to release its much-awaited response to the iPad, the BlackBerry PlayBook tablet, a month behind schedule.
+Even though Flash Player 10.2 for Android is now available in the Android Market, the version meant for Android 3.0 Honeycomb (which the Xoom runs) is a prerelease version with significant limitations and lots of instability.
+That was an early version of the tablet, but choppiness in one of its key features doesn't bode well.
+Last year RIM drummed up Flash support for the upcoming PlayBook, saying that it was going to deliver the full internet experience.
+Adobe and RIM didn't respond to a request for comment on this story.

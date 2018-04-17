@@ -1,0 +1,6 @@
+It took only two days for hackers to crack into the Apple and Blackberry operating systems during the three-day Pwn2Own tournament last week, while Android and Windows Phone 7 models were abandoned and left unhacked by the end of the contest.
+The contestants who were lined up to beat the Android and WP7 devices in the competition withdrew for a variety of reasons.
+There's the safety of the software itself, the exploit mitigations that are already in place for that software, and then the amount of research that has already been conducted (which can speed up the process of writing an actual exploit).
+Charlie Miller, a Pwn2Own veteran, worked with Dion Blazakis to hack the iPhone 4 in this year's competition using a flaw in its Mobile Safari Web browser and a "specially-crafted webpage."
+It has been a major target and a lot of research has already been done on that platform.
+For those that are out to find the safest phone on the market, Vreugdenhil says you'll want to compare features such as DEP (Data Execution Prevention), ASLR (address space layout randomization), Sandboxing, code signing and the ease with which software can be updated on the device.

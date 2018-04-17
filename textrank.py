@@ -77,16 +77,14 @@ def createSummary(fileName, separator='\n', summaryLength=5):
 
     return summary
 
-def baseline(fileName, separator='\n', segmentSeparator='\n###\n'):
-    segments = open(fileName, 'r', encoding='utf8').read().split(segmentSeparator)
-    segments = list(map(lambda segment: segment.split(separator), segments))
-    sentences = []
+def baseline(fileName, separator='\n', paragraphSize=5):
+    sentences = open(fileName, 'r', encoding='utf8').read().split(separator)
+    segments = [sentences[i:i + PARAGRAPH_SIZE] for i in range(0, len(sentences), paragraphSize)]
     sameSegments = {}
     for s in segments:
         for sentence1 in s:
             for sentence2 in s:
                 sameSegments[(sentence1, sentence2)] = true
-            sentences.append(sentence1)
 
     result = createSummaryMatrix(sentences, sameSegments)
 

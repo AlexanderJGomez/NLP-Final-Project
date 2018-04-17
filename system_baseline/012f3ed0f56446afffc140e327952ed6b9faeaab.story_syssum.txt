@@ -1,0 +1,4 @@
+(CNN)  -- A New Zealand teenager has been questioned in connection with a scheme by hackers to remotely take over more than 1 million computers worldwide and use them for criminal activity, New Zealand police and the FBI said Thursday.
+"Today, botnets are the weapon of choice for cyber criminals," said FBI Director Robert Mueller in a statement.
+Personal computers can be compromised when users open an attachment, click on an advertisement or give personal information to a "phishing" site, or a fake site that looks legitimate.
+That was a 17 percent decrease form the previous reporting period, according to Symantec, which said hackers appeared to be abandoning the technique because of strengthened security and law enforcement initiatives.

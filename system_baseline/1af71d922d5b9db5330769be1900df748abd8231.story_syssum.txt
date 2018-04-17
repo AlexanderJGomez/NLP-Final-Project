@@ -1,0 +1,5 @@
+A new app aims to help you find a lookalike for your departed or dream pet by using photo-matching software to find the closest match in your area.
+It then performs a similar search on PetFinder, a database with photos of hundreds of thousands of animals up for adoption throughout the United States, and gives you the closest overall matches, as well as the closest ones in your area.
+The app also doesn't necessarily consider the breed of the animal you photograph, if that's something that's important to you.
+We tested the app with a photo of Cash, a gray-and-white Scottish Fold cat in Atlanta, and it returned matches of cats with similar coloring in Jefferson, Georgia; Knoxville, Tennessee; Huntsville, Alabama; Charlotte, North Carolina, and other neighboring states.
+And while it will no doubt be helpful to pet seekers, PetMatch is not the only product the folks at Superfish have in mind.

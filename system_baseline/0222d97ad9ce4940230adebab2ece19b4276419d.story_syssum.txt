@@ -1,0 +1,6 @@
+That printer's owner (and their designated family, friends, and colleagues) can then print documents by sending it an email from a smartphone, from a tablet, or any other device that allows it.
+Similarly, Box.net and Docstoc users can also retrieve and push documents to and from the cloud through new print apps.
+As for the market size for developers here, HP says it expects to ship, "tens of millions of web-connected printers" by the end of next year.
+Second, the email-to-print concept clearly has the potential to drive new kinds of usage, both from business users and consumers who do things like print photos and news.
+Finally, there's also opportunities for developers to create sticky apps -- perhaps not on the scale we've seen in mobile, but with HP betting the future of its printers on web connectivity, you can bet we'll see some big winners emerge from the developer community.
+All rights reserved.

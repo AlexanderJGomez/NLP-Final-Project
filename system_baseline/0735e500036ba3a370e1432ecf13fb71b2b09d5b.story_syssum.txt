@@ -1,0 +1,11 @@
+This contrast is fittingly emblematic of two great visionaries of computer science, Marvin Minsky and J.C.R.
+In Licklider's view, human intelligence should be complemented by machines, not replaced: "Men will set the goals, formulate the hypotheses, determine the criteria and perform the evaluations.
+Computing machines will do the routinizable work that must be done to prepare the way for insights and decisions.
+It's easy to argue that life and death decisions should never be left to machines, but Licklider's vision was much broader, recognizing technology as an enabler for many human capacities.
+The tension between the Minsky and Licklider visions has certainly been amplified in the age of so-called big data.
+The high-value targets in big data are invariably human: highly adaptive adversaries such as terrorists and cybercriminals whose ingenuity frustrates even the most advanced algorithms.
+When U.S. intelligence tracked down Osama bin Laden, it was a function of brilliant, resourceful people asking questions and testing hypotheses using a variety of technologies.
+Cyber security might always be an uphill, defensive struggle as techniques and technologies raise the stakes on both sides.
+Aspiring good guys must be absolutely relentless in refining the intersection of brainpower and computing power, each of which is vulnerable in isolation.
+Through rapid iteration, a group of determined people using low-friction technology had created a vast, self-regulating system.
+The opinions expressed in this commentary are solely those of Shyam Sankar.

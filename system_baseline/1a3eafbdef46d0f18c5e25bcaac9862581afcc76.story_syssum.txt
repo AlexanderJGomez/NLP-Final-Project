@@ -1,0 +1,6 @@
+As a live interview with Sprung and CNN's Brooke Baldwin began Wednesday, both phones -- one in Jerusalem, the other in Atlanta -- sounded in real time as rockets were fired toward the Israeli cities of Ashkelon and Ashdod.
+Sprung works full time at a software development company, and tends to Red Alert in his free time.
+For security reasons, the developers won't say how they get their notifications of rockets being launched.
+Israeli officials and the Israel Defense Forces have publicly supported the app, and encourage people to download it.
+The Android app isn't available outside of Israel due to limited server space; instead users with an Android device wanting to receive updates can do so through the "Yo" app.
+His parents have approximately one minute to seek shelter once the alerts go off, he says.

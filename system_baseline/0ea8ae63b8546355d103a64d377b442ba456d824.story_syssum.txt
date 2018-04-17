@@ -1,0 +1,9 @@
+(CNN) -- If Black Friday lines and stories of violence, vehicular assault and child abandonment taught us anything, it's that the holiday shopping season is a dark, competitive time.
+It goes on to say "when you limit choices and rank them by payment, consumers get Scroogled."
+Weitz says the majority of its listings are from vendors that signed up for free, but it also includes products from third-party aggregators like the eBay-owned Shopping.com.
+Bing has actually shut down its free sign-up for the holiday season, and any new vendors interested in being listed are directed to Shopping.com, where they will have to pay to be included in search results.
+On the main Google Shopping page, a disclaimer that Google is "compensated by some" vendors is buried at the bottom of the page.
+By working closely with vendors instead of scraping public product feeds, Google is attempting to tap into more current data, with up-to-date inventory and price information.
+The Scroogled page claims the exclusion of free listings could result in "not getting the best price when you thought you were," but cursory test searches of major tech products found prices were comparable on both sites.
+The Scroogled.com page is just one part of a spirited national campaign that will include digital, print and TV ads that attempt to vilify the first-place search engine.
+Seasonal hijinks aside, Weitz said he has real concerns that this could be the start of a trend at Google, spreading to other Google services such as news.

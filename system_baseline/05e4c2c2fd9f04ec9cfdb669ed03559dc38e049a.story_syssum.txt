@@ -1,0 +1,5 @@
+Now the Air Force figures it's time for drones to get a lot smarter, especially as they take off or land.
+Planes in the air have to coordinate with Air Traffic Control for the order in which they can safely land, taking precautions not to get in anyone's way until it's their turn.
+It's one of the big reasons why the Federal Aviation Administration has been so reluctant to allow unmanned aircraft to fly over the U.S.
+But a capable algorithm would let the drone process Air Traffic Control information like basic airfield maps to know that there's no actual danger from the oncoming piloted plane.
+Building algorithms that can let drones process complex information in congested airspace sounds like a useful step toward that futuristic cargo fleet.

@@ -1,0 +1,4 @@
+12 -- The number of consecutive presidential elections in which the number of female voters has been greater than the number of male voters, back to 1964.
+5 -- The number of consecutive presidential elections in which the majority of women have voted for the Democratic candidate, from 1992 to 2008.
+39% - In a Gallup survey, the percentage of female registered voters in 12 key states who rated abortion as the most important issue for women in the 2012 election.
+60% - In a Gallup survey, the percentage of female registered voters in 12 key states, who rated government policies on birth control as an extremely/very important issue influencing their vote, versus 39% of registered male voters.

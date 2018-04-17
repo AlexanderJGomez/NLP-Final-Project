@@ -1,0 +1,16 @@
+It landed in my inbox at 1:58 a.m. on Thursday.
+Anthem, which is the second largest health insurer in the United States, said on Thursday that as many as 80 million customer records were stolen.
+Unless you're connected to them personally, though, they tend to zip by, too numerous and massive to process.
+I found that view echoed by Paul Henry, a senior instructor at the SANS Institute, an information security training company.
+Henry told me he gets really annoyed when companies like Anthem claim that they were the victims of a "very sophisticated" hack.
+Henry told me the U.S. Federal Trade Commission could find that Anthem failed to institute industry "best practices" -- as defined by the industry, he said -- and force them to pay a fine.
+I called someone with that point of view and Avivah Litan, a cyber security analyst at Gartner, said she doesn't think it's fair to blame Anthem for the stolen data.
+I'm the one who got the email ...) If your credit card data is stolen, she said, there are easy ways to rectify the situation.
+"The government should really have some sort of agency where you just call up and you say, 'I had this bad thing happen' -- and they'll just fix it for you.
+"To me, and I'm a security expert, that's worth more than a credit card.
+They could take all that information and fake a birth certificate and go to the DMV ..."
+Both security experts did share one answer: the Social Security number itself.
+And Litan explained to me that there may be a way for health care companies, and other industries, to use a hard-to-crack proxy for a Social Security number in place of the real thing.
+We're helpless in this situation -- unable to understand exactly how and where our data is being stored.
+Whether that's holding companies more accountable, as Henry suggests.
+And then we hung up.

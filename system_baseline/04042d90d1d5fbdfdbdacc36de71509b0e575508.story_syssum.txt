@@ -1,0 +1,7 @@
+Earlier this month, a test conducted by the Leviathan Security Group showed that even "no-permissions" Android apps can access potentially sensitive data on your phone -- and transmit that data elsewhere via your phone's Web browser.
+He observed that this might allow nefarious people to find and exploit permission-related vulnerabilities in certain apps.
+Finally, since no-permissions apps can launch the phone's Web browser, that provides a potential route to transmit some data from the phone.
+For instance, developers sometimes build apps that store user data (such as usernames and passwords) in ways that could be easily accessed through the security cracks Leviathan found.
+For instance, TheVerge.com reported that the photo gallery that comes pre-installed on Android phones by Samsung, LG, and some other manufacturers stores unencrypted copies of complete addresses associated with photos.
+There's not a lot that the average consumer can do in terms of spotting whether apps are storing unnecessary data in insecure ways.
+"That channel is mainly used by developers, but it's worth letting them know if you have concerns about an app and you aren't getting useful responses from the developer," he said.

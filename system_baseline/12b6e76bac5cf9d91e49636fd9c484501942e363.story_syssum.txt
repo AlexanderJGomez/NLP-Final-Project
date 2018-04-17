@@ -1,0 +1,10 @@
+It wasn't until famed oceanographer Jacques Cousteau's 1956 documentary, "The Silent World," that people began to see what the world under the sea was really like.
+Cousteau "invited people to explore along with him, and so for us it's the same thing," said Lang.
+So I can put this in the water, fly it around and see what it sees."
+This affordability is how Stackpole and Lang hope to bring OpenROV to the masses, turning average people into Cousteau-like undersea adventurers.
+"When we first met almost three years ago ... within 10 minutes Eric told me a story about this underwater cave," Lang said.
+The OpenROVs are an open-source project, meaning that anyone can hack them to create new features or uses for the devices.
+"We have people from well over 50 countries in our community who can all contribute to how to make the design better and how to use it better," Stackpole said.
+"If the ROV is having some sort of a problem and we can't figure out how to handle it, I can go onto the forums and post, 'Hey, this is a problem I'm having,' and as I sleep, the problem is going across Europe and people who are experts are answering it because they find it interesting.
+We want to come up with new designs and revolutionize how underwater exploration is done rather than committing to one design," said Stackpole.
+And our answer certainly is, 'both,' " Stackpole said.

@@ -1,0 +1,4 @@
+"It's beautiful, modern, fast and fluid -- it's a generational change in the Windows operating system," Microsoft Windows President Steven Sinofsky said as he launched the consumer preview of the new operating system at Mobile World Congress, in Barcelona, Spain.
+The new operating system uses the "Metro" style of software currently being used on phones running the Windows 7 operating system, using tiles on the start-up screen.
+He said the popularity of Windows 7 meant that, as was seen with Microsoft's earlier XP operating system, there wouldn't be intense clamoring for an immediate update.
+In terms of functionality, Governor said Windows 8 suffered from a "weird two-personality thing" as it switched between its user-friendly new Metro interface into functional areas of computing.

@@ -1,0 +1,6 @@
+"It is going to make sure you can communicate with anybody without language barriers," Nadella said at the gathering in suburban Los Angeles.
+There were a couple of instances when the voice and text translation mixed up minor parts of a sentence, but overall it appeared to be spot on.
+After a short delay, the system posts one user's translated comments as text onscreen to the other user while a synthetic voice speaks them aloud.
+But Nadella said the translation technology the program uses has been in development at Microsoft for 15 years.
+"It's brain-like in the sense of its capability to learn.
+It's magical."

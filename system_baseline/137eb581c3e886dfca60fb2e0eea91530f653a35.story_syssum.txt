@@ -1,0 +1,5 @@
+Ultimately, developers say, the aim is to use a number of sources, including weather data or information about events, to help bus and rail customers plan their journeys better and save their money and time -- and frayed nerves too.
+"It really puts passengers right at the center of the operation of existing services and the development of new ones -- not just in the sort of traditional customer service sense, but actually having customer-led services which are being responded to in real time."
+Covering the area between London and Milton Keynes, the visualization uses a mixture of glowing green and red blobs of different sizes to showcase the sentiments of the train, bus and tube passengers traveling through the region.
+"The way you get from A to B often involves loads of different methods of transport -- you might walk, take the bus, train, bicycle; how do you make all those different modes of transport more connected, how do we use emerging technologies like GPS, satellite technology, mobile phones, open data or sentiment mapping and how do we use these technologies to improve transport systems."
+"Smart cities need smart citizens in order to be effective."

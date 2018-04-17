@@ -1,0 +1,8 @@
+What is the currency of reputation and is it transferable or exchangeable?
+Search Yelp reviews and see what people who have already dined at a place have to say about it.
+Your FICO score in the United States measures your credit risk, which is really credit reputation, based on your behavior.
+Even though these reputation systems have been created for the specific company -- imagine how powerful it would be to have your reputation in one place.
+While we will create reputation on individual platforms, there will be an increasing demand for fluid exchange of reputation and ratings from one system to another.
+We may even see reputation system APIs developed to enable the transfer of your reputation to new platforms.
+Beyond these scenarios, expect to see more fluid exchange of reputation between their original systems -- akin to monetary exchanges.
+This is an excerpt of a report on reputation currencies, written by Heather Schlegel and commissioned by the Institute of Customer Experience.
