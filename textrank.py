@@ -27,11 +27,11 @@ def similarity(sentence1, sentence2, sameSegment, lambdaScaling=.001, idfs=None)
     vector2 = [0] * index
 
     for word in s1:
-        if word not in stopwords:
+        if word not in stopwords and (idfs is None or word in idfs):
             vector1[words[word]] += 1
 
     for word in s2:
-        if word not in stopwords:
+        if word not in stopwords  and (idfs is None or word in idfs):
             vector2[words[word]] += 1
 
     if idfs is not None:
