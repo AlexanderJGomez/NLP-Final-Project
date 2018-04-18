@@ -1,0 +1,8 @@
+"Jacques Cousteau changed the way ocean exploration was done," said Eric Stackpole, who along with partner David Lang is behind a submersible robotic watercraft -- sort of an underwater drone -- that could open a whole new world of undersea exploration.
+So I can put this in the water, fly it around and see what it sees."
+"If you think about ocean exploration right now,  it's something that a lot of people think, 'Oh, well, you know, what that's something that professional scientists do, that National Geographic explorers do.
+That's not something that I get to do,' " Lang said, "I think that's what we're trying to instill back in everyone."
+"
+"We have people from well over 50 countries in our community who can all contribute to how to make the design better and how to use it better," Stackpole said.
+"OpenROV is an open-source community," Stackpole said.
+And our answer certainly is, 'both,' " Stackpole said.

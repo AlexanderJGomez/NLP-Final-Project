@@ -1,0 +1,5 @@
+LONDON, England (CNN) -- A new sleeper virus that could allow hackers to steal financial and personal information has now spread to more than eight million computers in what industry analysts say is one of the most serious infections they have ever seen.
+It is the most serious large scale worm outbreak we have seen in recent years because of how widespread it is, but it is not very serious in terms of what it does.
+However if an infected laptop is connected to your corporate network, it will immediately scan the network looking for machines to infect.
+The worm will also scan company networks trying to guess your password, trying hundreds and hundreds of common words.
+Machines can be disinfected.

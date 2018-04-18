@@ -1,0 +1,9 @@
+And as a result, just 10 percent of those surveyed use mobile location services at least once a week, according to the Mobile Marketing Association's latest Mobile Consumer Briefing survey.
+Furthermore, the use of geo-location data for commercial purposes has also raised concerns, prompting the Congressional subcommittee on Commerce, Trade and Consumer Protection to hold hearings on the issue.
+Users need to know how their location data will be used, and feel comfortable that the companies that have access to it will behave responsibly, according to van Dillen.
+Because of privacy concerns, it is imperative for location-based services to clearly communicate the value proposition to users.
+"I think it does have a lot of staying power.
+Twitter has yet to clearly communicate to users what they get in return for adding location to their tweets.
+Further, because location is off by default for all users, without a more clearly communicated message, the feature may remain off for many people.
+"Facebook could really be the looming giant that could wipe all [other location services] away," Boland said.
+"Facebook has proven to have so many users who are mobile.

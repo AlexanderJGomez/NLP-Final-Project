@@ -1,0 +1,9 @@
+(CNN) -- Next Monday, Google is officially shutting down its popular RSS feed reader, Google Reader.
+(Many of the tools we mention will import data automatically from Google if you sign up before Reader closes.)
+Is sharing stories important, or is reading the news a solitary activity?
+You can follow your favorite news organizations or drill down by finding their Twitter accounts for specific sections or topics.
+The RSS fire hose of news can be overwhelming for many people.
+RSS readers are great because you can scan headlines and the first few sentences of articles and get the gist without having to read them, only going further if it's a topic about which you want to know more.
+There is also Google News, which looks at all the news sources and arranges the breaking stories by popularity, highlighting the in-depth, opinion and featured stories on the topic.
+A neat visual take on Google News is Newsmap.jp, which Marcos Weskamp created before moving to Flipboard to work as a designer.
+Google Reader was a great tool that will be missed, but its death is an opportunity to try new things and play with different apps, sites and tools for reading news online.

@@ -1,0 +1,8 @@
+The Internet was designed to have no central point of failure, allowing anyone to run his or her own communications channel.
+Not at all.
+And wasn't that the promise of the Web in the first place?
+But the Web is bigger than any one site or any one social network.
+Smart inventors have already made cutting-edge technologies that let any site deliver messages with the same immediacy as Twitter or Facebook.
+Now the challenge is reminding all of the social institutions, media organizations and government agencies that they need to use their own communications infrastructure just as much as they participate in services such as Twitter and Facebook.
+This is, after all, how the Web was designed to work.
+Because we'll have a web of independent but connected communications systems, just as the Internet was always designed to be.

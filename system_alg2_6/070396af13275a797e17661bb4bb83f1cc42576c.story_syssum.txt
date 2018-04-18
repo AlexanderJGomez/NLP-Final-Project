@@ -1,0 +1,9 @@
+(CNN) -- Microsoft's Bing search engine will not follow Google out of China.
+The answer to that question is not simply about whether Bing stays in China.
+Ballmer called Google's move to stop censoring in China an irrational business decision.
+As it happens, the way Microsoft handles censorship in China has changed since it launched a Chinese version of its search engine and rolled out a Chinese-language blog-hosting service in 2005.
+Cisco was under fire for selling technology to China that helped authorities censor the Internet.
+Then why, human rights activists and legal experts asked, were they responding to requests made by Chinese authorities using no pretense of legal process?
+We have to take it at its word that it's only responding to censorship requests made through a legally binding procedure.
+While the initiative does not expect companies to make their local employees conduct civil disobedience or pull out of markets at the first sign of difficulty, the GNI does expect that companies will not comply with arbitrary requests and will seek to protect users from the kinds of surveillance that could lead to human rights violations.
+Will Bing comply only with those censorship requests that have a clear basis in Chinese law and which are made through a legally binding, documented and accountable process?

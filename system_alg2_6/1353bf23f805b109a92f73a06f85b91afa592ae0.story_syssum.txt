@@ -1,0 +1,9 @@
+Savvy cyber criminals are taking advantage of our increasing reliance on computers and the Internet.
+Last year, antivirus maker McAfee saw a 500 percent increase in malware types -- more than the company had seen in the previous five years combined.
+"They have R&D departments, strong distribution networks and Web sites for the discerning cyber criminal," Fraser said.
+Skimmed credit card numbers and other personal-identity information stolen from computers also can be found for sale on Web sites, Fraser said.
+Now the biggest threats include "phishing" schemes and "botnet" attacks.
+"Once it became a business, then (cyber criminals) began to look at what companies like us were doing, and figure out weaknesses," he said.
+"It's like the arms industry ... it's not a crime to build and sell them," Negi said.
+Often criminal networks are run in countries such as Russia and China, where government officials turn a blind eye to these activities -- so long as their victims reside outside the host country, Spafford said.
+"I'm not saying (cyber criminals) are involved in physical violence, but it's not out of the realm of possibility," he said.

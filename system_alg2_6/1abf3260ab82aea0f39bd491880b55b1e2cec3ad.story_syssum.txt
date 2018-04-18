@@ -1,0 +1,8 @@
+Mundane physical objects all around us are connecting to networks, communicating with mobile devices and each other to create what's being called an "Internet of Things," or IoT.
+Many can communicate with their own apps and ecosystems but haven't found a way to play nice with each other.
+Over the past four years, Qualcomm has been working on its AllJoyn protocol to connect devices from different manufacturers, even if they have different communication standards.
+If there are too many different ecosystems, people will find a way to connect them -- much like how the problem of multiple phone chargers is being solved by micro-USB, she said.
+It also sells the chips that will go inside smart thermostats, security systems, cars and everything else.
+Ben-Zur predicts the Internet of Things will be the third revolution.
+But it's still to early to say for sure how all these devices will chat with each other and whether Qualcomm's AllJoyn or some other option will take off.
+The same may be true when developers start experimenting with apps for connected home appliances.

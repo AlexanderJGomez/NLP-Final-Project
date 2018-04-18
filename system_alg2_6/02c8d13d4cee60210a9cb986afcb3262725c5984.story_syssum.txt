@@ -1,0 +1,8 @@
+But as neural devices become more complicated, and go wireless, some scientists say the risks of "brain hacking" should be taken seriously.
+But as neural engineering becomes more complex and more widespread, the potential for security breaches will mushroom.
+"It's evidence that people will be malicious and try to compromise peoples' health using computers, especially if neural devices become more widespread."
+Despite the risks, Kohno said, most new devices aren't created with security in mind.
+It's never too early to start thinking about security issues, said neural engineer Justin Williams of the University of Wisconsin, who was not involved in the research.
+"These kinds of security issues have to proceed in lockstep with the technology," Williams said.
+Kohno said.
+Copyright 2009 Wired.com.

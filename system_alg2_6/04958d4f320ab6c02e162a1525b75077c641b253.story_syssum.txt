@@ -1,0 +1,4 @@
+In a statement published Friday, security firm IntelCrawler said the breach was the result of malware that infected Target's payment system and possibly compromised the systems of other retailers.
+One of the things the hackers do is take the malware as it's called.
+The first sample of the malware was created in March and since then, more than 40 versions have been sold around the world, IntelCrawler said.
+All 40 million may have been damaged in some way, and under law they can all be joined together in a class action lawsuit."

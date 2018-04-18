@@ -1,0 +1,5 @@
+WASHINGTON (CNN)  -- The servers hosting the Web sites of the House of Representatives and its members have been overwhelmed with millions of e-mails in the past few days, forcing administrators to implement the "digital version of a traffic cop" to handle the overload.
+As millions of people tried to look at the details of the bailout plan, the House.gov system became overwhelmed and many people saw notices on their computer screens saying "this page does not appear."
+After the House failed to pass the proposed deal Monday by a vote of 228-205, the e-mail volume surged again, Ventura said.
+He said after the failed vote Monday and the initial backlash, the House's Web site administrators thought there would be a drop in Web traffic -- especially with the Rosh Hashanah holiday.
+"We monitored the situation all night long, and technicians and engineers saw that we were facing the same demand as yesterday," Ventura said.

@@ -1,0 +1,4 @@
+(WIRED) -- In an effort to streamline and simplify the maturity ratings of software in mobile app stores, CTIA, the international wireless industry association, yesterday proposed a ratings system that store owners could voluntarily adopt.
+In its App Store, Apple provides an age rating ranging from 4+ to 17+, and lists the reasons for assigning its maturity rating.
+CTIA announced it would be developing its app rating system in March.
+The ESRB would regularly test popular applications and monitor complaints.

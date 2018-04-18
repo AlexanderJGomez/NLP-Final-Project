@@ -1,0 +1,3 @@
+The Federal Trade Commission is urging mobile phone app developers and phone companies to make it easier for parents to control the personal information being collected by smartphone apps.
+"Our study shows that kids' apps siphon an alarming amount of information from mobile devices without disclosing this fact to parents," said FTC Chairman Jon Leibowitz in a statement released with Monday's report.
+The agency urged developers and marketers to work together and develop accurate privacy disclosures regarding what data is collected through apps used by kids.

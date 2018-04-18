@@ -1,0 +1,8 @@
+It's no surprise, then, that scientists around the world are investigating whether living cells can be used to print replacement organs and tissues.
+Before any organ can be engineered -- whether it's printed or built by hand -- there is much groundwork that must be accomplished.
+What these structures have in common is that they are a combination of cells and biomaterials made in the shape of an organ or tissue.
+3-D printers also have the flexibility of using a variety of biomaterials so that cells can be printed in either gel-like or rigid scaffolds, or printed without scaffolds.
+Instead, even when printed structures are made with living cells, they must "incubate" in the body to become fully functional.
+While there are many challenges to solve, I believe the printing of complex organs will become reality, but not for decades.
+Our team and others are using 3-D printers to print miniature livers that have the potential to be used for drug testing.
+Developments that occur at the laboratory bench are an integral part of the equation and what can be accomplished with printing depends, in large part, on advancements in cell biology and materials science.

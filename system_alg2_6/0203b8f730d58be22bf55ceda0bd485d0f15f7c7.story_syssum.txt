@@ -1,0 +1,5 @@
+The Bush family email hack comes on the heels of reports of hacking at universities and major newspapers, and it follows urgent government warnings against our fragile cybersecurity defenses.
+So, do the average users of online e-mail and Web services simply have to assume that hacking will expose their personal messages and photos?
+Some Web-based e-mail services like Google's Gmail offer tools to add an extra layer of protection.
+If you want to get a little more technical, take a look at whether the website you are using to transmit information is using HTTPS -- hypertext transfer protocol secure.
+So instead of throwing up your hands that Web-based e-mail and online data transfers can never be secure, seek out and use the security tools that already exist.

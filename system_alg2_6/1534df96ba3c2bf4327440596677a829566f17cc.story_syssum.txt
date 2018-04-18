@@ -1,0 +1,5 @@
+Still in its early stages of development, Skype Translator, as it's being called for now, will provide voice and text language translation for calls between people speaking different languages.
+The conversation was no simple "Hello, how are you?"
+But Nadella said the translation technology the program uses has been in development at Microsoft for 15 years.
+It learns English," he said.
+"It's brain-like in the sense of its capability to learn.

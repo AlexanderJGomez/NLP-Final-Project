@@ -1,0 +1,5 @@
+The latest: The blog TechCrunch on Wednesday published a story claiming the next-generation iPhone will have a new connection port that's about a third the size of the one on the current model.
+"Are standards just too easy for Apple to use?"
+The connection type is proprietary, meaning cords and accessories that use the 30-pin dock only work with Apple devices.
+Writing for the site ZDNet, Jason D. O'Grady said the new port "presumably" adheres to the Micro USB standard, which is used on most other mobile phones.
+Let us know in the comments.

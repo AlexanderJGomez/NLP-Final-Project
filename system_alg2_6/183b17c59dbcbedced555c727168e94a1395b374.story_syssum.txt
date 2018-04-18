@@ -1,0 +1,4 @@
+A Google spokesman said the Android Market site is designed only for United States-based English speakers.
+Will Deasy from Cork, Ireland, tipped off CNN to the language problems with the Android Market website.
+Swap "en" for "es," and you get Spanish; or "fr" for French; and so on.
+"Many sites these days try to be smart and automatically change their language without giving you the option to change it back," said one person who speaks English but lives in Hong Kong.

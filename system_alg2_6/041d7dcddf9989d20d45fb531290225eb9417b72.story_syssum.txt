@@ -1,0 +1,4 @@
+This time it's a hacker attack on various websites associated with Sony Pictures.
+The accounts, presumably associated with any sort of registered activity on SonyPictures.com (or its subsidiaries or partners), contain information like passwords, email addresses, dates of birth and other Sony opt-in data.
+The attacks, while often juvenile in nature and execution (the Lulzsecurity.com website plays the theme from "The Love Boat"), underscore just how important it is for brands to keep their web servers updated, hardened and monitored.
+© 2010 MASHABLE.com.

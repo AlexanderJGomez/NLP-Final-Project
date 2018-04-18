@@ -1,0 +1,8 @@
+How green is your website?
+Wissner-Gross estimates every second someone spends browsing a simple web site generates roughly 20 milligrams of C02.
+"Most people don't appreciate that the computer on your desk is contributing to global warming and that if its electricity comes from a coal power plant it produces as much C02 as a sports utility vehicle," said Bill St. Arnaud of Canarie, a Canada-based internet development organization.
+The manufacturing, transport and use of personal computers and laptops also has what some say is the most significant impact, producing roughly 200 million tons of emissions in 2002.
+As millions of people buy new laptops and computers every year, this figure could triple by the end of the next decade, according to the Climate Group report.
+Netherlands-based Cleanbits lobbies web sites to go green by either by purchasing carbon offsets or switching to green hosting providers, like AISO.net, a solar-powered data center based in California.
+And, like Google, Yahoo also incorporates renewable power and other efficiency measures in its data centers.
+It is actually a paradigm change."

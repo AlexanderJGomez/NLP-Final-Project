@@ -1,0 +1,5 @@
+Users of Apple's operating system could already access Gmail through a mobile site or set it up as their default e-mail account.
+"Go get the iPhone app for Gmail!"
+"The iOS app we launched today contained a bug with notifications," Google posted on its Gmail Twitter account.
+"Earlier today we launched a new Gmail app for iOS," Google posted.
+The app ... at least the fully working version of it ... will send push notifications and sound cues when new messages are received, search your inbox for an e-mail, autocomplete e-mail addresses and upload photos to messages.

@@ -1,0 +1,8 @@
+(CNN) -- Over the past week, two popular Internet messaging companies, SnapChat and Skype, were hacked.
+If you're mad at your critics, you might ignore them and quietly fix the flaws.
+The next day someone posted the user names and phone numbers of the 4.6 million SnapChat users that they had extracted using the security weaknesses.
+With more than 3 million followers on Twitter and 27 million "likes" on its Facebook page, you would expect the security of a company like Skype to be carefully managed.
+The social media accounts of Skype that were accessed by the Syrian Electronic Army had optional two-factor authentication available, but it was apparently not enabled by Skype.
+We're sorry for the inconvenience."
+Back then most services didn't offer protections like two-factor authentication or those protections were not flexible enough to work for social media accounts.
+Demand accountability.

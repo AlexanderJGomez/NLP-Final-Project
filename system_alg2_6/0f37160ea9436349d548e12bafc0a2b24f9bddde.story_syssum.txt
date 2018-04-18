@@ -1,0 +1,5 @@
+Previously, you could work around Twitter's lack of image tags by just mentioning people from the photo in the tweet itself.
+Twitter also is now making it possible to pack more images into messages with a new collage option that lets you share up to four photos in a single tweet.
+Once you have the new powers, you can start identifying friends in images by selecting an image and then hitting the "who's in this photo?"
+People who have their Twitter accounts set to private can only tag people who follow them, and the default privacy setting for protected accounts is to not allow people to tag them in images at all.
+If you've blocked someone on Twitter, they cannot tag you.

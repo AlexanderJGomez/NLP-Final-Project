@@ -1,0 +1,7 @@
+In rainy weather it curves to increase downforce for a safer drive, and straightens out when the downpour clears.
+"Any place that uses robotics today, you could use materials and have the same capabilities," says Skylar Tibbits, a computational architect who leads the Lab and the movement.
+The materials are 3D-printed into specific shapes and then autonomously transform into another, with wide-ranging implications for industry from automotive to medical to military.
+In addition to BAC, the team are collaborating with Airbus to develop the wing design.
+Demand for 4D is reaching a fever pitch, says Dr. Junus Kahn, founder of Carbitex, which produces the materials used by the Self-Assembly Lab, as well as supplying them to major business clients.
+"Everyone is always scared that technology will take our jobs," says Tibbits, rolling his eyes.
+If the full scale of his vision is realized, we might need to do little else.

@@ -1,0 +1,6 @@
+Every second, millions of people across the world are sharing their thoughts in the form of 140-character messages using Twitter.
+To demonstrate the unique power of Twitter data, our research group at Northeastern University and Harvard Medical School recently began a study to infer the mood of Twitter users in the United States from their public tweets.
+Never before have academic researchers had access to this much real-time public information about what people are thinking and saying.
+Because most users leave their tweets public, Twitter represents an unprecedented opportunity.
+This is why researchers owe a debt of gratitude to Twitter for its policy of open access to public tweets (exemplified by the recent donation of its entire public tweet history to the Library of Congress).
+From a scientific standpoint, Twitter data can shed light on how information spreads through society.

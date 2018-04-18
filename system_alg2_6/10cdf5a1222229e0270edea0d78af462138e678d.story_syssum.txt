@@ -1,0 +1,8 @@
+So content with the operation is the social media giant that it announced the creation a second data center in Lulea earlier this year.
+Lulea will soon host another large data facility for UK-based data-storage specialist firm, Hydro66, while the nearby town of Boden welcomed Bitcoin mining group KnCMiner earlier this year.
+With so many wealthy companies with increased data related needs, storage clearly has the potential to become a highly lucrative business in this part of the world.
+An abundance of renewable energy sources, meanwhile, ensures the large amounts of electricity required to power data centers is clean and environmentally friendly.
+And that computer needs electricity.
+Yevgeniy Sverdlik of specialist IT publication Data Center Knowledge recognizes the potential environmental and cost benefits but highlights numerous circumstances where storing company data far away from headquarters or operations wouldn't be practical or cost effective.
+"In the post-Snowden world there is mistrust (from people) in having their data held outside of their country," Sverdlik added.
+"They (locations in the likes of Sweden, Finland and Iceland) say they are attractive because they have a lot of spare power that they want to sell.
