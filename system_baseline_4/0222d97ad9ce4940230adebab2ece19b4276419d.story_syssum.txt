@@ -1,0 +1,7 @@
+(Mashable) -- HP has announced a major new initiative and a slew of new devices that enable users to print from any device to a web-enabled printer by simply using e-mail.
+The new printers that HP is unveiling today along with ePrint can connect directly to Google Cloud using their touchscreen interface.
+MSNBC has signed on as a partner to pilot this concept, and HP has teamed with Yahoo to sell the ads, which, you can imagine could include a mix of contextual advertising and locally relevant promotions and coupons.
+Beyond selling printers, HP needs to sell ink.
+With more and more types of documents getting digitized and smartphones replacing former functions of printers (think coupons and tickets), HP needs new ways to drive printer usage.
+Finally, there's also opportunities for developers to create sticky apps -- perhaps not on the scale we've seen in mobile, but with HP betting the future of its printers on web connectivity, you can bet we'll see some big winners emerge from the developer community.
+© 2013 MASHABLE.com.

@@ -1,0 +1,5 @@
+MIT researcher Pablo Valdivia Alvarado works in his lab on a robotic fish he co-created.
+MIT researchers built their first robotic fish, "Robotuna," in 1994.
+Alvarado said the new generation -- modeled after bass and trout -- cost only a few hundred dollars and have only 10 parts instead of the thousands used in Robotuna.
+"Most of the brains, the electronics, are embedded inside," said Alvarado, who designed the robofish with fellow MIT engineer Kamal Youcef-Toumi.
+The new generation has withstood harsh conditions in the lab, including two years of testing inside tanks filled with tap water, which is corrosive to standard robots, according to Alvarado, who says the Robotuna inspired him to take the technology to the next level.

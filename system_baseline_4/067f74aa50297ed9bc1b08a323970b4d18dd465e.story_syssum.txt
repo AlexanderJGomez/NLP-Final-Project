@@ -1,0 +1,11 @@
+This next version of Android, called 3.0 or Honeycomb, is its first designed for tablets but will also run on smartphones.
+Using the Android Market website in a browser, you can browse, buy and download apps, Google announced at a news conference on the company's main campus here on Wednesday.
+Previously, you'd have to open the Android app on a smartphone in order to search for and download programs.
+"There are no wires, no syncing to computers, none of that kind of nonsense," Chris Yerga, Android's engineering director for cloud services, said onstage at the Android event.
+A new app called Music brings the Android system closer in line with Apple's iPod-iPhone-iPad model.
+Honeycomb also has a live video chat function that will let tablet users talk with other people who are using Gmail on a computer.
+The new Android software includes improved multitasking functionality, so you can see a window of what apps you were previously using looked like when you closed out of them.
+CNN  announced onstage it will offer an Android app with iReport functions and live video capabilities.
+The tablets also will be able to run all of Android's 130,000 apps designed for smartphone-sized screens.
+An exact release date and pricing have not been set.
+T-Mobile and AT&T also announced more information on new Android phones this week, none of which will run the Honeycomb software at first.

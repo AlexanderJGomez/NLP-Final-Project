@@ -1,0 +1,10 @@
+Paterson suggests the first step for concerned consumers should be to check the security settings on their web camera and ensure that their password is not set to default.
+"It's a website that's republished the feeds from many thousands of unsecured web cams and CCTV cameras.
+"In theory, if you have a web camera and it is interface accessible over the internet, it could be at risk," Paterson says.
+Polonetsky says it's valuable to teach the lesson that web cameras need to be secured but says there have to be better ways than publishing people's feeds online.
+"There have been some very public examples of smart home equipment that could be accessed remotely," he says -- including devices to raise blinds or turn on lights remotely.
+While the ICO doesn't know the Russian website owner's intentions, Paterson says that as far as it can tell the feeds have not been archived -- though they don't know for certain.
+"Actually, it's worse," he says.
+Polonetsky says it is possible that sellers of devices without basic data protection would be considered unfair to consumers under the U.S. Federal Trade Commission's standards.
+In the UK, Paterson says accessing a computer without authorization could well breach the Computer Misuse Act.
+"If the feed from your camera can identify individuals that would be personal data and if someone's processing that in an unfair or unlawful manner then it could breach the act," he says.

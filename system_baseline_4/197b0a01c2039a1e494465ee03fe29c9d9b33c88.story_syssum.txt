@@ -1,0 +1,10 @@
+For background, the Copyright Alert System aims to inform consumers of inadvertent or purposeful unauthorized distribution of content over peer-to-peer networks and to help consumers find legal ways to obtain, share and enjoy movies and music protected by copyright.
+This system reflects a new reality: The Internet has forever changed how content is consumed, making content easy to find, use and experience.
+indicates a fundamental misunderstanding of the program and how it works; it suggests that ISPs would engage in an activity anathema to their consumers to protect copyright.
+What the ISPs will do, in recognition of the importance of copyright protection generally, is to then provide their subscribers with education and information about what not to do and how to get content in the right way.
+Initial alerts will focus on making the consumer aware of the activity and highlighting legal ways to enjoy content.
+The CAS will only address activity over to peer-to-peer programs such as BitTorrent -- not streaming video or other general online content.
+The program is designed to provide non-punitive tools that will help inform consumers about how to legally enjoy digital copyrighted content and avoid illegal peer-to-peer networks, through a system based on information and deterrence.
+As Rushkoff points out, "in many cases the Internet subscriber might have no knowledge of the infraction" and he goes on to describe how a houseguest might share illegal content without the Internet subscriber's knowledge.
+With methods for sharing content constantly evolving, the Copyright Alert System is designed to address an information gap.
+The opinions expressed in this commentary are solely those of Jill Lesser.

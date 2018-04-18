@@ -1,0 +1,9 @@
+(CNN) -- An undersea cable carrying Internet traffic was cut off the Persian Gulf emirate of Dubai, officials said Friday, the third loss of a line carrying Internet and telephone traffic in three days.
+Stephan Beckert, an analyst with TeleGeography, a research company that consults on global Internet issues, said the cables off Egypt were likely damaged by ships' anchors.
+Without the use of the FLAG Europe-Asia cable and SeaMeWe-4, some carriers were forced to reroute their European traffic around the globe, which could cause delays, Beckert said.
+Because this cable is older, it has a smaller capacity than the two damaged cables, Beckert said.
+"We have all the content here," he said.
+Most of the major Internet service providers in India, like Reliance and VSNL, were starting to use backup lines Friday, allowing service to slowly come back, said Rajesh Chharia, president of the Internet Services Providers Association of India.
+The Internet slowdowns had no effect on trading at the country's two main stock exchanges, the SENSEX and the NSE, because they aren't dependent on the downed cables, Chharia said.
+"I felt like beating the ... modem, throwing it away, because we compete on the Internet and it feels really bad," said Aman Khurana, 13.
+CNN's Elham Nakhlawi, Mustafa Al Arab, Caroline Faraj, Tess Eastment, Aneesh Raman and Brad Lendon contributed to this report.

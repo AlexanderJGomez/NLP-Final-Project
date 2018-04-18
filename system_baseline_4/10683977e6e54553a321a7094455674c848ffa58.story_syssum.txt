@@ -1,0 +1,11 @@
+A new study suggests that people who get the common heart test can get a dramatic range of radiation exposures.
+In the study of 1,965 patients undergoing the CT scans (also known as cardiac CT angiography), the median exposure was roughly equivalent to 600 chest X-rays, or about 12 milliSievert (mSv) of radiation, according to the report in this week's issue of the Journal of the American Medical Association.
+About 80 percent of the centers studied used techniques to reduce radiation, such as adjusting the CT scan to the patient's size (meaning smaller patients get less radiation) or precisely timing the radiation dose to a particular point in the heart rhythm (which shortens the duration of exposure).
+However, the greater the exposure to radiation, the greater the risk.
+When cardiac CT angiography is being used appropriately -- meaning, for example, in people with chest pain suggesting blocked heart arteries, rather than as a screening test for people with no symptoms of heart disease -- the benefits far outweigh the risk of the radiation, according to Einstein and Hausleiter.
+In fact, on Monday the American Heart Association issued an advisory warning that imaging tests, including CT scans, be used cautiously to minimize exposure to radiation.
+It involves timing the radiation beam to the diastole, when the heart is resting between beats.
+Finally, sequential scans take a series of pictures of the heart at the same exact point in the cardiac cycle, which also reduces radiation dose.
+But the fact that centers were able to use at least one radiation-reduction technique in most patients "should serve as a wake-up call to cardiac CT laboratories that do not routinely use these methods," Einstein writes in his editorial.
+Patients who undergo cardiac CT angiography are within their rights to ask about what strategies, if any, are being used to reduce radiation dosage, he said.
+New technology can decrease the radiation dose from cardiac CT scans, but as this study shows, "It's very variable from institution to institution -- in part because there is no regulatory body making sure that there is some degree of quality control," says Brenner.

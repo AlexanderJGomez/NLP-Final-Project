@@ -1,0 +1,5 @@
+(WIRED)  -- The Verizon iPhone and AT&T iPhone have gone head-to-head in thousands of broadband tests, and the numbers tell the story you'd expect: AT&T's network is much faster.
+Most Speedtest.net app users ran the tests multiple times, totaling 106,000 results from AT&T iPhone users and 49,000 results from Verizon iPhone users.
+From my benchmarking of the Verizon iPhone versus the AT&T iPhone, I also found that the AT&T iPhone's 3G transfer rates were much faster than Verizon's.
+Speedtest.net's nationwide results back my verdict: You should get a Verizon iPhone if you really care about voice quality and calls, but the AT&T iPhone is better as a media-consumption device (Netflix movies, photo downloads and uploads, etc.)
+Click here!

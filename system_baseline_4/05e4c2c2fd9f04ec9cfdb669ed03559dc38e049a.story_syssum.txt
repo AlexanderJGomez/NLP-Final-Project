@@ -1,0 +1,7 @@
+Now the Air Force figures it's time for drones to get a lot smarter, especially as they take off or land.
+Planes in the air have to coordinate with Air Traffic Control for the order in which they can safely land, taking precautions not to get in anyone's way until it's their turn.
+Yet.
+In the algorithm-driven future that the labs want to build, drones will be equipped a database of terminal procedures; link up with Air Traffic Control; and "recognize the intent of other aircraft."
+But a capable algorithm would let the drone process Air Traffic Control information like basic airfield maps to know that there's no actual danger from the oncoming piloted plane.
+As Wired mentioned on Wednesday, FedEx is starting to think about an airfleet of linked-up drones that can fly in formation at the direction of a piloted aircraft.
+Copyright 2010 Wired.com.

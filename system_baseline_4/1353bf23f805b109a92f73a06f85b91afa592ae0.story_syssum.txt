@@ -1,0 +1,13 @@
+Savvy cyber criminals are taking advantage of our increasing reliance on computers and the Internet.
+"It's very seldom reported ... if discovered by companies, they generally don't want the public to know they've been had," said Eugene Spafford, a computer security specialist at Purdue University who has advised two U.S. presidents and numerous companies and government agencies.
+Last year, antivirus maker McAfee saw a 500 percent increase in malware types -- more than the company had seen in the previous five years combined.
+"They have R&D departments, strong distribution networks and Web sites for the discerning cyber criminal," Fraser said.
+On these Web sites, would-be criminals can purchase toolkits to learn how to side step security measures or create their own "botnet" -- referring to software that can, unbeknownst to victims, turn their computers into spamming foot-soldiers for criminal networks.
+Although the techniques of cyber crime have evolved, online criminals prey on human vulnerabilities like criminals throughout the ages.
+"With the arrival of spam in 2001 and 2002, the big difference was it was commercial malware," Negi said.
+Now the biggest threats include "phishing" schemes and "botnet" attacks.
+"Once it became a business, then (cyber criminals) began to look at what companies like us were doing, and figure out weaknesses," he said.
+"It's like the arms industry ... it's not a crime to build and sell them," Negi said.
+"Child pornography is easier to prosecute because it is possible to find the evidence on the perpetrator's computer systems," said Spafford of Purdue University.
+Often criminal networks are run in countries such as Russia and China, where government officials turn a blind eye to these activities -- so long as their victims reside outside the host country, Spafford said.
+"I'm not saying (cyber criminals) are involved in physical violence, but it's not out of the realm of possibility," he said.

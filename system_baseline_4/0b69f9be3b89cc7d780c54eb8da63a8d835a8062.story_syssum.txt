@@ -1,0 +1,10 @@
+Facial recognition is a computer-based system that automatically identifies a person based on a digital image or video source -- which is then matched to information stored in a database.
+Facial recognition is a key part of the agency's ambitious $1 billion Next Generation Identification System (NGI) -- a state-of-the-art biometric identification system that also includes iris scans, DNA analysis and voice identification.
+A professor at the University of Kent, Solomon has created an "electronic sketch artist" system that has changed how UK police identify criminals.
+But facial recognition technology isn't always so straightforward.
+"When you look at images collected from standard CCTV footage, the faces are way too small," he said in May.
+UK-based company NEC IT Solutions, which also specializes in identification of terrorists and criminals, has created a system that analyzes the faces of potential customers as they enter shops.
+A Finnish company, meanwhile, aims to streamline sales by using facial recognition technology for payments.
+Helsinki-based Uniqul has patented a system allowing payments to be made without wallets or smartphones.
+Facial recognition is secure by nature and is fundamentally a biometric technology since you need to be in the store to use the technology."
+In spite of this, Facebook recently announced plans to extend facial recognition to profile photos in other parts of the world.

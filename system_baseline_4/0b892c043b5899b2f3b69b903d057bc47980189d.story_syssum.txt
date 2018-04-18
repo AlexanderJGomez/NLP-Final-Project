@@ -1,0 +1,9 @@
+Missiles are not, of course,  the only way to launch an attack.
+And one, the Stuxnet virus, was able to penetrate Iran's Natanz nuclear facility, researchers say.
+Stuxnet spread through the network undetected.
+First, it effectively hijacked the Natanz control system, speeding up or slowing down the centrifuges, wearing them out prematurely.
+Stuxnet is the suspected culprit.
+Who created Stuxnet is still a mystery.
+"It could be that Stuxnet didn't entirely achieve what was wanted the first time around," Cox told CNN.
+The problem, he says, is that Stuxnet, in its bid to stop nuclear proliferation, may have sparked its own arms race.
+To copy the design, it requires just a bunch of engineers -- no genius needed.

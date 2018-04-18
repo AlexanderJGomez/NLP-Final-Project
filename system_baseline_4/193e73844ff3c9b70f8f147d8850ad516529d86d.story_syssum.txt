@@ -1,0 +1,5 @@
+(Financial Times) -- Facebook is working with a controversial data company called Datalogix that can track whether people who see ads on the social networking site end up buying those products in stores.
+Facebook said it is paying Datalogix for the data-matching.
+Marketers are eager for more data to see how their Facebook ad campaigns perform, but some said they still are figuring out how to evaluate the new data.
+Facebook users are automatically included in the advertising studies conducted with Datalogix, and cannot directly opt out through their Facebook account.
+Facebook and Datalogix said individual-level purchasing data were not shared with Facebook or its advertisers.
