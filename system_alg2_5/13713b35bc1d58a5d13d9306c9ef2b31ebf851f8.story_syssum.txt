@@ -1,0 +1,6 @@
+Apps for foodies, like Foodspotting and Foodily, can publish to a user's Facebook profile when she updates her digital diary of meals.
+Some 400,000 people coming from Facebook have signed up for MOG accounts since September, and each day, Facebook sends an average of 4,000 people who have never visited MOG before, David Hyman, the music company's CEO, said in a phone interview.
+Each user will be able to manually override these profile placements, he said.
+"Previously, the profile was all the things Mark Zuckerberg was interested in in college," Taylor said.
+Facebook will review each new action, as it's called, that's proposed by developers in order to screen for profanity or other unwanted words, Mike Vernal, the company's platform engineering director, said in an interview.
+"When we say anything, we really mean anything."

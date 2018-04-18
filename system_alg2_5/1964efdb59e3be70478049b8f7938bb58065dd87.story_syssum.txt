@@ -1,0 +1,4 @@
+WASHINGTON (CNN)  -- Officials investigating last week's crash of two Metro subway trains said a system used to detect trains in the area of the accident had failed intermittently in the days immediately before the fatal crash.
+The NTSB says the Washington Metropolitan Area Transit Authority reported the problem during a post-accident review of track circuit data, but it was not immediately clear if operators were aware of the problem before the accident.
+According to the NTSB, which is investigating the crash, maintenance records show that an "impedance bond" for the track circuit where the accident occurred was replaced June 17.
+The previously reported rail-streak marks consistent with heavy braking were approximately 125 feet long, and began approximately 425 feet before impact.

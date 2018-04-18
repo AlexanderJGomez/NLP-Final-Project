@@ -1,0 +1,9 @@
+How green is your website?
+Wissner-Gross estimates every second someone spends browsing a simple web site generates roughly 20 milligrams of C02.
+Anti-virus software firm McAfee reports that the electricity needed just to transmit the trillions of spam emails sent annually equals the amount required to power over two million homes in the United States while producing the same level of greenhouse gas emissions as more than three million cars.
+Calculating the carbon footprint of the entire web however is not as easy as measuring the greenhouse gas emissions of a car.
+The manufacturing, transport and use of personal computers and laptops also has what some say is the most significant impact, producing roughly 200 million tons of emissions in 2002.
+"And what that includes is the energy that we at Google use to be able to receive your search, process it and then send it back to you," Erik Teetzel, one of Google's "green" engineers, told CNN.
+Citing competitive reasons, Teetzel declined to divulge Google's annual power bill, yet he said the internet company has been taking steps to make its main six, five megawatt server farms green as well as the other, smaller data centers it has around the world.
+And, like Google, Yahoo also incorporates renewable power and other efficiency measures in its data centers.
+It is actually a paradigm change."

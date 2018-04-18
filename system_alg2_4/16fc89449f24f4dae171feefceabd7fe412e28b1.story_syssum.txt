@@ -1,0 +1,15 @@
+(CNN) -- As Android devices get more popular (today comScore reports Android phones comprise 40% of the U.S. smartphone market), they're becoming a more attractive target for cybercriminals.
+This is according to a new threat report from Lookout Mobile Security.
+How can mobile malware harm you?
+Malware also can sign you up for "premium SMS" text messaging services.
+Why is Android a bigger mobile security concern?
+Users of Apple and BlackBerry mobile devices are not immune to mobile security threats.
+"We've observed that most mobile users are far more trusting about how they download and install software on their phone, compared to their computer," he said.
+Android users especially are starting to get more discerning."
+If it were even possible to run the same types of analytics on a mobile phone, that would destroy battery and take two decades to build," Mahaffey said.
+Mahaffey notes that if your phone is running an older version of the Android operating system, you face greater mobile security risks.
+Unless you've rooted your Android phone to gain complete control over it, it's up to the carrier and manufacturer, not you, when your phone will get a system update.
+So some cheaper phones simply are not able to run the latest version of Android well, or at all.
+Also, check your phone bill online periodically -- probably more often than once a month.
+"If your battery suddenly starts draining really fast, consider that it might be malware," Mahaffey said.
+The opinions expressed in this post are solely those of Amy Gahran.

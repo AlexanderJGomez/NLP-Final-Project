@@ -1,0 +1,5 @@
+A team of individuals going by the name LulzSec, who recently managed to deface PBS.org's homepage, announced that they have broken into SonyPictures.com and compromised more than 1 million user accounts.
+The accounts, presumably associated with any sort of registered activity on SonyPictures.com (or its subsidiaries or partners), contain information like passwords, email addresses, dates of birth and other Sony opt-in data.
+According to the groups own press release, access to the main Sony Pictures website was gained using a very basic tactic called a SQL injection.
+The attacks, while often juvenile in nature and execution (the Lulzsecurity.com website plays the theme from "The Love Boat"), underscore just how important it is for brands to keep their web servers updated, hardened and monitored.
+All rights reserved.

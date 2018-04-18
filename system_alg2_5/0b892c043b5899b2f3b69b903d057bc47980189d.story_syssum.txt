@@ -1,0 +1,7 @@
+And one, the Stuxnet virus, was able to penetrate Iran's Natanz nuclear facility, researchers say.
+So, Stuxnet infected a third party first, likely a trusted contractor to the Natanz facility.
+Stuxnet spread through the network undetected.
+According to the Institute for Science and International Security, IAEA records show that between the end of 2009 and early 2010 about 1,000 centrifuges at Natanz  had to be replaced.
+Researchers at internet security firm Symantec say they have identified a new virus called Duqu that they believe is a successor to Stuxnet, although not all security experts agree.
+Ralph Langner, the German computer security specialist credited with discovering Stuxnet, says it doesn't matter who created Duqu.
+"To build the first nuclear bomb, it took a genius like Oppenheimer and the resources of the Manhattan project.

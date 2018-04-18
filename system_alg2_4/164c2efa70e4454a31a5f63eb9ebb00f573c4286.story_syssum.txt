@@ -1,0 +1,21 @@
+And yet we can at least make a guess at what will happen in the early part of next year simply by looking at the trends that are shaping the latter half of this year.
+1.
+These new interfaces essentially impose a touchscreen-inspired interface over the traditional desktop environment.
+2.
+In the social media realm, social gestures appear to be the leading trend of 2012.
+3.
+Next year is likely to be the year when mobile payments blossom.
+4.
+Why?
+Why does one device constitute an entire trend?
+5.
+The cable companies have a cunning plan: They'll let you watch live TV, plus on-demand movies and TV shows, on your connected devices if you keep your cable subscription.
+6.
+Surely voice control has been around for years?
+7.
+8.
+The chances are that you already use your tablet computer or phone while watching TV, so there's ample opportunity to make the viewing experience a more interactive one.
+9.
+Can I squeeze in one more trend?
+As developers tire of building applications for every operating system out there -- from Android to iOS to Windows Phone and beyond -- HTML5 offers the opportunity to build an app once and have it work everywhere.
+In short, 2012 is all about new ways to interact with our devices through touch and voice control, new lightweight ways to share content, a revolution in mobile payments and a plethora of rich Web applications -- not to mention the hundreds of new innovations that we've yet to dream up.

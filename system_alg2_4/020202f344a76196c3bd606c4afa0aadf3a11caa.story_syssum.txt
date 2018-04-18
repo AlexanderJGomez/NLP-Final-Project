@@ -1,0 +1,5 @@
+(WIRED)  -- The Verizon iPhone and AT&T iPhone have gone head-to-head in thousands of broadband tests, and the numbers tell the story you'd expect: AT&T's network is much faster.
+By way of comparison, the Verizon iPhone's average download speed was 848 Kbps, and the average upload speed was 506 Kbps.
+From my benchmarking of the Verizon iPhone versus the AT&T iPhone, I also found that the AT&T iPhone's 3G transfer rates were much faster than Verizon's.
+Speedtest.net's nationwide results back my verdict: You should get a Verizon iPhone if you really care about voice quality and calls, but the AT&T iPhone is better as a media-consumption device (Netflix movies, photo downloads and uploads, etc.)
+Click here!

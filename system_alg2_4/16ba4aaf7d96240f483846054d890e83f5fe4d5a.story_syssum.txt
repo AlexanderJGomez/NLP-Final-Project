@@ -1,0 +1,8 @@
+The secretive company released its first transparency report on Tuesday, breaking down the number of account and device data requests it received from law enforcement by country for the first half of 2013.
+Apple received 3,542 of these "device information" requests in the U.S. for 8,605 devices, and Apple turned over some or all of the desired information 88 of the time.
+Apple joins Facebook, Yahoo and other tech companies taking part in a practice that is fast becoming industry standard.
+The last line under the notes section in the report says, "Apple has never received an order under Section 215 of the USA Patriot Act.
+If Apple did receive such an order, it would likely be accompanied by a gag order so Apple would not even be able to say that it did or did not receive a 215 request.
+"We have reported all the information we are legally allowed to share, and Apple will continue to advocate for greater transparency about the requests we receive," Apple said in the report.
+We have no interest in amassing personal information about our customers," Apple said in the beginning of the report.
+The hunger for personal data isn't limited to governments as it's also very lucrative for many technology companies.

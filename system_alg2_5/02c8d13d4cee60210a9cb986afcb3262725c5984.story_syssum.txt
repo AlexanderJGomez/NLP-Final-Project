@@ -1,0 +1,9 @@
+But as neural devices become more complicated, and go wireless, some scientists say the risks of "brain hacking" should be taken seriously.
+"Neural devices are innovating at an extremely rapid rate and hold tremendous promise for the future," said computer security expert Tadayoshi Kohno of the University of Washington.
+Some might question why anyone would want to hack into someone else's brain, but the researchers say there's a precedent for using computers to cause neurological harm.
+In some cases, patients might even want to hack into their own neural device.
+Despite the risks, Kohno said, most new devices aren't created with security in mind.
+But the paper gives a very compelling argument that this is important, and that this is the time to have neural engineers collaborate with security developers."
+"These kinds of security issues have to proceed in lockstep with the technology," Williams said.
+Kohno said.
+Click here!

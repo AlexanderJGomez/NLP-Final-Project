@@ -1,0 +1,4 @@
+My pick of the bunch, EZ Apps' $2.99 Hurricane Tracker offers detailed storm maps, National Hurricane Center info, threat level maps, audio/video forecast updates, real-time feeds and push alerts.
+Developer Kitty Code's longstanding $2.99 hurricane-watching app (updated in June) offers a repository of global meteorological information, including tracking maps, satellite views, five-day forecasts, radar and bulletins from the National Hurricane Center.
+It's now out of beta — still free, though ad-littered (there's a $2.99 ad-free "Pro" version) — and packing hurricane data from the National Hurricane Center, high resolution maps, satellite images, warning information and storm tracks.
+But if you want the app's push services, "more space on the main map" and to banish those annoying ads that sit at the top of the screen, you'll have to fork over $2.99 through an in-app purchase option.

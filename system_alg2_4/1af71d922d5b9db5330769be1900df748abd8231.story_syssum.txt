@@ -1,0 +1,6 @@
+PetMatch lets you upload a picture of a dog or cat, or use one from its gallery.
+It then tries to find you a pet available for adoption that is the closest possible match to the one you posted.
+Of course, it's not perfect.
+And, of course, we love our animals for reasons other than their appearance.
+We tested the app with a photo of Cash, a gray-and-white Scottish Fold cat in Atlanta, and it returned matches of cats with similar coloring in Jefferson, Georgia; Knoxville, Tennessee; Huntsville, Alabama; Charlotte, North Carolina, and other neighboring states.
+And while it will no doubt be helpful to pet seekers, PetMatch is not the only product the folks at Superfish have in mind.

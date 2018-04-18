@@ -1,0 +1,4 @@
+(CNN) -- Apple appears to be testing out motion control features that will let people control their iPhones by moving their heads.
+The new version of the iOS mobile operating system is still in beta testing, when its features are used by developers creating new apps while Apple fixes bugs and polishes the interface.
+The Microsoft Kinect and a soon-to-be-released device from Leap Motion use powerful depth sensor cameras.
+If you look away from a video while it is playing, it can automatically pause.

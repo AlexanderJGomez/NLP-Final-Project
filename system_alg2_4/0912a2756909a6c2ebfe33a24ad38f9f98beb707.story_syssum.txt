@@ -1,0 +1,10 @@
+Recent research from Trusteer, an internet security firm, indicates that mobile users may be three times more likely to fall victim to e-mail phishing attempts.
+1.
+"This makes sense since mobile users are 'always on' and are most likely to read e-mail messages as soon as they arrive.
+This is crucial, since internet providers and web hosts watch for phishing-style activity on their networks and often act quickly to block phishing sites.
+2.
+3. iPhone users are eight times more likely than BlackBerry users to access phishing sites.
+Boodaei speculates that many BlackBerry users are business users who were issued their BlackBerry by their employer, ostensibly with at least some security training.
+Although phishing attempts are most likely immediately after a data breach, they can occur weeks or months later.
+But if you do click a link in an e-mail, make sure you never enter personal information on the resulting website.
+Or just look up the company's phone number and call them, an action that's especially easy from your mobile phone.

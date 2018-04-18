@@ -1,0 +1,6 @@
+The new printers that HP is unveiling today along with ePrint can connect directly to Google Cloud using their touchscreen interface.
+Similarly, Box.net and Docstoc users can also retrieve and push documents to and from the cloud through new print apps.
+HP also sees a big opportunity for providing different types of activities for parents and kids, and to that end has signed on Crayola for coloring pages and PBS for a variety of education-driven printing.
+With more and more types of documents getting digitized and smartphones replacing former functions of printers (think coupons and tickets), HP needs new ways to drive printer usage.
+HP will dive into these topics at apress conference this morning to kick off Internet Week New York, where I'll be moderating a panel with a number of the players involved in the new ePrint initiative.
+All rights reserved.

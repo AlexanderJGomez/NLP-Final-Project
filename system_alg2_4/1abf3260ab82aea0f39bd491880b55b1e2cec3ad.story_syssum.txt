@@ -1,0 +1,12 @@
+Exciting or frightening, these connected devices of the futuristic "smart" home may be familiar to fans of science fiction.
+Mundane physical objects all around us are connecting to networks, communicating with mobile devices and each other to create what's being called an "Internet of Things," or IoT.
+Many can communicate with their own apps and ecosystems but haven't found a way to play nice with each other.
+Over the past four years, Qualcomm has been working on its AllJoyn protocol to connect devices from different manufacturers, even if they have different communication standards.
+Many standards already help smart devices communicate, though none has emerged as a dominant option yet.
+If there are too many different ecosystems, people will find a way to connect them -- much like how the problem of multiple phone chargers is being solved by micro-USB, she said.
+It also sells the chips that will go inside smart thermostats, security systems, cars and everything else.
+The first revolution was the connected Internet," she said.
+Ben-Zur predicts the Internet of Things will be the third revolution.
+But it's still to early to say for sure how all these devices will chat with each other and whether Qualcomm's AllJoyn or some other option will take off.
+The exact killer apps for the Internet of Things are also a mystery.
+"Exposing that, how your toothbrush and your water heater and your thermostat ... are going to interact with you, with your school, that's what's next," said Ben-Zur.

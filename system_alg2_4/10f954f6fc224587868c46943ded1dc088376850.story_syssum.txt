@@ -1,0 +1,11 @@
+Last week, millions of Americans stood up against the Stop Online Piracy Act and the Senate's related anti-piracy bill.
+People have good reason to be unhappy about losing control over who and what services know what about them.
+The Patriot Act, passed overwhelmingly but hastily after 9/11, allows the FBI to obtain telecommunication, financial, and credit records without a court order.
+Moreover, the Foreign Intelligence Surveillance Act's 2008 amendment act grants U.S. companies immunity from being sued by their customers when they comply even with blatantly illegal government surveillance requests.
+While the federal government is required by law to document publicly its wiretapping of phone lines, it is not required to do so with Internet communications.
+Last year, the Electronic Frontier Foundation published a report analyzing the FBI's use of National Security Letters from 2001 to 2008, concluding that the FBI might have violated the law as many as 40,000 times during that period.
+In many cases the companies involved -- including phone companies, Internet service providers, financial institutions, and credit agencies -- "contributed in some way to the FBI's unauthorized receipt of personal information."
+The Republican primary field is not unified on how to handle surveillance: Romney and Gingrich advocate expanding the Patriot Act's surveillance powers.
+The Cyber Intelligence Sharing and Protection Act of 2011, which exempts companies from liability for sharing data with the government, is one of several bills introduced in Congress last year that civil liberties groups -- and in this case even the White House -- warn will lead to further erosion of consumer privacy.
+In 2012, the American people rightly expect presidential and congressional candidates to explain how they plan to protect us from crime and terror.
+Yet it is equally vital we demand a clear vision of how they will protect us from abuses of government surveillance power through the corporate-run digital platforms upon which we are increasingly dependent.

@@ -1,0 +1,6 @@
+George Kalogeropoulos, who created the site along with Ning Liang and Michael Wasser, said all three of them had tried using the government website to get insurance.
+"The Health Sherpa is a free guide that makes it easier to find and sign up for health insurance under the Affordable Care Act.
+The site states that it's for research purposes only, and that users must verify the premiums and subsidies they find there with state health care exchanges, insurance companies or on HealthCare.gov itself.
+Creating the original Sherpa site took three days and cost "several hundred dollars," according to Kalogeropoulos.
+"Tens of thousands of  people have clicked through to buy a specific plan, suggesting that we are achieving our goal: helping people find a health insurance plan."
+As it scrambles to fix the heath care site, the government  has sought to inject a little more Silicon Valley into the process by enlisting a "Tech Surge" of staffers from Oracle and Red Hat, as well as Michael Dickerson, a site reliability engineer on leave from Google.

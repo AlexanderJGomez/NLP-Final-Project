@@ -1,0 +1,9 @@
+Speaking before a capacity crowd of hackers and security experts Wednesday at the Black Hat computer-security conference, Alexander defended the NSA's embattled programs, which collect phone metadata and online communications in an effort to root out potential terrorists.
+Alexander said the NSA can collect metadata on phone calls in the United States, including the date and time of the call, the numbers involved and the length of the conversations.
+Alexander attempted to reassure the audience that NSA officials are not abusing access to the databases to intrude on Americans' privacy.
+Alexander made no mention of a report in Wednesday's Guardian newspaper about the existence of another secret NSA program, called XKeyscore.
+Alexander denied accusations that the NSA programs allow the government to collect all online data on everyone.
+Aside from a couple jokes, Alexander's words were serious and measured, and he seemed unfazed by a smattering of heckling from the audience during his hourlong talk.
+During a Q&A session consisting of prescreened questions, Alexander said that one reason terrorists target the United States is a desire by people in the Middle East to run governments under Islamic law.
+inspired the general to cap his explanation of the programs by saying "And that's no bulls---, those are facts."
+"If we tell everyone exactly what we're doing, then the adversaries will know exactly how to get through our defenses," he said.

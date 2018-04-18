@@ -1,0 +1,4 @@
+"The robots job is really to move inventory from storage to the work station," said Brian Lemerise VP of third-party fulfillment at Quiet Logistics.
+This is made possible by the bar codes they drive over and the cameras on the bottom of the drive units, which together communicate where the bot is driving to.
+"The software will allocate a certain number of spots to a specific robot; that's what keeps the robots from hitting each other"
+But the human touch is still necessary to get the products out the door.

@@ -1,0 +1,7 @@
+The irritating glare won't, of course, affect the way we navigate our way to London's Heathrow Airport; a complicated and well-engineered computer system using GPS positioning provides information to air traffic controllers.
+That was a question facing pilots in airspace over the United Kingdom on Friday, when Shanwick Oceanic, a part of the UK's NAT system of air traffic control, developed a computer glitch.
+Traditional radar is still available once the flight travels in range of a land-based facility.
+Before the latest computer technology became prevalent, oceanic controllers would track airplanes manually based on verbal pilot position reports at designated degrees of longitude.
+All this means that airplanes can still maintain this separation even if the ground-based oceanic computers take a temporary vacation.
+This of course raises the question of whether the global air traffic control system has become computer dependent.
+With all that in mind, we are just going to have to suffer through the compromise of inconvenience when the technology breaks down.

@@ -1,0 +1,9 @@
+That's why on Super Bowl Sunday, the NFL is planning to block live streams of the game inside the stadium.
+She said the 82,500-seat stadium will be able to handle 25,000 to 30,000 concurrent Internet users across cellular and Wi-Fi.
+The NFL is providing a Super Bowl app to attendees with an event guide and "exclusive content," but it won't include streaming video or replays.
+While attending the final game of last year's World Series at Fenway Park in Boston, I was able to upload, e-mail, and text photos on the cellular network during the game.
+McKenna-Doyle is optimistic that multicast technology, as opposed to the unicast tech used today, will limit the amount of data needed for streaming video at future Super Bowls.
+The Super Bowl restriction doesn't mean live streaming is blocked at every NFL game.
+"Each team manages every game themselves and they have mobile apps that they run.
+As usual, the Super Bowl crew will use monitoring tools to identify hacker attacks on the network or technical problems that prevent fans from getting on the Internet.
+Network monitoring tools divide the stadium into sectors, and this year "we cut the stadium into more sectors than we had in the past so we can pinpoint more quickly where issues are in a section of the stadium," McKenna-Doyle said.

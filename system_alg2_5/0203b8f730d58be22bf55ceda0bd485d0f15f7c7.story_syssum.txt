@@ -1,0 +1,6 @@
+Bush.
+So, do the average users of online e-mail and Web services simply have to assume that hacking will expose their personal messages and photos?
+Some Web-based e-mail services like Google's Gmail offer tools to add an extra layer of protection.
+Two-step verification drastically reduces the chances of someone stealing the personal information from your e-mail account because hackers would have to not only get a password and your user name, they would also have to have access to the mobile phone to which the code is sent.
+For an extra level of security, check to see if other websites you use offer HTTPS for transmission.
+So instead of throwing up your hands that Web-based e-mail and online data transfers can never be secure, seek out and use the security tools that already exist.

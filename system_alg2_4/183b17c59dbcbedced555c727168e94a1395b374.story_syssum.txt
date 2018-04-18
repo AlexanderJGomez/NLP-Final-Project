@@ -1,0 +1,6 @@
+But for people traveling abroad, living in foreign countries or accessing the Web through an international proxy service, Google's guess can be awkwardly wrong.
+A Google spokesman said the Android Market site is designed only for United States-based English speakers.
+Will Deasy from Cork, Ireland, tipped off CNN to the language problems with the Android Market website.
+There is a work-around for the problem, however.
+"Many sites these days try to be smart and automatically change their language without giving you the option to change it back," said one person who speaks English but lives in Hong Kong.
+In another message, an Android user wrote: "I am traveling, and I want things in English, but I get Dutch instead.

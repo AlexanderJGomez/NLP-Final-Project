@@ -1,0 +1,5 @@
+But the hackers were able to access user information, including user names, e-mail addresses and encrypted passwords.
+"What's not good news," he wrote, "is that the hackers now have access to the usernames and email addresses of Evernote customers.
+He argued that their message -- warning users not to click phony security e-mails while sending out a security e-mail of their own -- could confuse users.
+Last week, customer support tool Zendesk announced it was hacked, with the breach exposing the e-mail addresses of users of three other websites -- Tumblr, Pinterest, and Twitter, all of which use Zendesk.
+CNN's Melissa Gray contributed to this report.

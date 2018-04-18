@@ -1,0 +1,6 @@
+This time it's a hacker attack on various websites associated with Sony Pictures.
+The attack, part of a campaign known as Sownage, was announced on Twitter and on the LulzSec website.
+The accounts, presumably associated with any sort of registered activity on SonyPictures.com (or its subsidiaries or partners), contain information like passwords, email addresses, dates of birth and other Sony opt-in data.
+Still, that doesn't make up for what by all appearances is an abysmal security record.
+The attacks, while often juvenile in nature and execution (the Lulzsecurity.com website plays the theme from "The Love Boat"), underscore just how important it is for brands to keep their web servers updated, hardened and monitored.
+All rights reserved.

@@ -1,0 +1,10 @@
+So content with the operation is the social media giant that it announced the creation a second data center in Lulea earlier this year.
+The Facebook move has inevitably attracted the attention of other firms with large data storage needs.
+Lulea will soon host another large data facility for UK-based data-storage specialist firm, Hydro66, while the nearby town of Boden welcomed Bitcoin mining group KnCMiner earlier this year.
+An abundance of renewable energy sources, meanwhile, ensures the large amounts of electricity required to power data centers is clean and environmentally friendly.
+"The environmental impact (of data centers in the north of Sweden) is pretty much zero," said Anne Graf of the Node Pole, a regional trade body designed to attract investment into Lulea, Boden and nearby town Pitea.
+And that computer needs electricity.
+Yevgeniy Sverdlik of specialist IT publication Data Center Knowledge recognizes the potential environmental and cost benefits but highlights numerous circumstances where storing company data far away from headquarters or operations wouldn't be practical or cost effective.
+"For companies like Facebook or even Google that kind of latency difference (the time between a button being pressed and that action occurring) is negligible," Sverdlik said.
+"They (locations in the likes of Sweden, Finland and Iceland) say they are attractive because they have a lot of spare power that they want to sell.
+"They've lost industries like paper and aluminum and have an excess of power (and) data centers appear to be a very high revenue load.

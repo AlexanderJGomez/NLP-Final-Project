@@ -1,0 +1,4 @@
+A new alert system, rolling out over the next two months, will repeatedly warn and possibly punish people violating digital copyrights.
+First the Internet provider will let the customer know that their Internet connection is being used to download content illegally.
+If they continue to download content illegally, the alerts will threaten mild punishments, such as forcing the copyright violator to read "educational materials," or throttling their Internet connection so that it is slow, making it harder to download large files.
+Each ISP will have a slightly different version of the system.

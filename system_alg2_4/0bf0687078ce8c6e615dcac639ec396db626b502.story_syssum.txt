@@ -1,0 +1,6 @@
+Technological advances are giving rise to huge amounts of data -- about consumers, supply chains and world events -- that businesses can use to make better decisions and gain a competitive edge.
+Netflix has effectively built its entire business model on analyzing customer data, he says.
+The development of smartphone technologies and near-field communication means analyzing customer data is no longer limited to the online world.
+Meanwhile major supermarkets in the UK are turning to big data analytics to help them provide same-day grocery delivery services -- a huge logistical challenge involving predicting what customers are likely to want before they order it, and ensuring coordinated delivery times that protect supermarkets' already-thin profit margins.
+Consultants and academics say businesses who don't jump on the big data bandwagon are at risk of falling behind.
+Professor Thierry Chaussalet, who runs a business intelligence and analytics masters course at the University of Westminster in London, says many businesses simply don't understand the big data technology now available and what it has to offer.

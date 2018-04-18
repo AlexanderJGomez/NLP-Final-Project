@@ -1,0 +1,8 @@
+But did you know there were strings attached, invisible eyes tracking your every consumer move?
+To do so, they often rely on "data brokers" -- companies that collect and share our personal information and label us based on what they learn.
+And that box of Cheerios?
+Data brokers scoop up the digital breadcrumbs we leave as we shop in stores and online, and apply "big data" analytical tools to predict where we're going, what we'll buy, and what we'll do -- sometimes even before we know ourselves what we'll buy next.
+Most Americans don't even know that data brokers exist, let alone that they collect and trade a staggering amount of our personal data.
+Brokers operate invisibly, buying and selling data about us without interacting directly with us.
+We found that data brokers collect billions of pieces of data on nearly every American consumer, often merging online and offline information.
+We also recommend that Congress require data brokers to create a centralized website, among other measures, so that consumers can access their own data and opt out of data collection and retention.

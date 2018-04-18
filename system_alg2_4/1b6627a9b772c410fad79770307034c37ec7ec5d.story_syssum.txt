@@ -1,0 +1,15 @@
+The free service lets users synchronize documents, photos and applications between Apple devices over the Internet.
+When iCloud drops this fall, Apple will join Amazon.com and Google, two major players that have already begun rolling out storage services.
+ITunes Match will allow people to pay $25 per year to sync as many as 25,000 songs not purchased through the iTunes Store between their computers and gadgets.
+Amazon's Cloud Drive and Google's Music Beta require users to upload their entire libraries to each service before they can be accessed from Web and mobile jukeboxes.
+Music files bought from Amazon can be automatically stored in a user's Cloud Drive.
+Google does not have a music store.
+ICloud will only store photos for 30 days.
+Amazon's Cloud Drive can also store photos and video, but those files do count against a user's total.
+Google Docs can keep a gigabyte of files free and charges 25 cents for each extra gigabyte.
+Google also has an e-book store and has begun offering video services beyond YouTube for home movies.
+Apple will also have websites for accessing e-mail, calendar and other features, as well as allowing Windows-PC users to sync photos to a folder.
+Jobs acknowledged the failure humbly and with good humor on Monday.
+They're the ones that brought me to MobileMe," Jobs said, mimicking the potential response to iCloud from critics.
+...
+It's rather large."

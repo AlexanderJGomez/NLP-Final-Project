@@ -1,0 +1,8 @@
+(CNN) -- Israelis looking to know when to take cover are turning to their smartphones to get real-time notifications after Hamas fires rockets from Gaza.
+Red Alert receives notifications when rockets are being launched from Gaza, and automatically sends out a push notification to users via the downloaded app.
+Sprung works full time at a software development company, and tends to Red Alert in his free time.
+Once the app is downloaded, users can select which Israeli cities for which they want to get alerts.
+Before the latest Gaza operation, there were 60,000 Android users and 80,000 iPhone users, all in Israel.
+"I know if it hits they won't be able to contact me immediately, so I want to be able to know to get in touch with them to make sure they're OK."
+The time it takes for Israeli's to seek shelter varies, based on how far they are from the Gaza border.
+Although I'm happy to be able to know when rockets fall, it's really sad to know we need something like this."

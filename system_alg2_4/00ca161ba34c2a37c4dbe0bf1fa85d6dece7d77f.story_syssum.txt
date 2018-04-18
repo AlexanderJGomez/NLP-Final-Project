@@ -1,0 +1,12 @@
+The Internet was designed to have no central point of failure, allowing anyone to run his or her own communications channel.
+Technology pundits promptly began hand-wringing -- the weaknesses of having a single point of failure to critical communications had been revealed again!
+Not at all.
+And wasn't that the promise of the Web in the first place?
+The company has even shown a reassuring sensitivity to the civic and social obligations that come from running such a popular communication service.
+But the Web is bigger than any one site or any one social network.
+We'll naturally make great use of Twitter and Facebook and all the other services, but it'd be unforgivable to pick only one of them as a platform for civic engagement.
+Now the challenge is reminding all of the social institutions, media organizations and government agencies that they need to use their own communications infrastructure just as much as they participate in services such as Twitter and Facebook.
+In fact, many of us have allowed companies to become intermediaries to all our communications, whether it was AOL 10 years ago or Facebook today.
+But those Facebook addresses are just like AOL keywords 10 years earlier.
+This is, after all, how the Web was designed to work.
+Because we'll have a web of independent but connected communications systems, just as the Internet was always designed to be.

@@ -1,0 +1,12 @@
+This is according to a new threat report from Lookout Mobile Security.
+Cybercriminals aren't simply targeting Android devices more often, they're also getting sneakier about it.
+How can mobile malware harm you?
+Why is Android a bigger mobile security concern?
+Users of Apple and BlackBerry mobile devices are not immune to mobile security threats.
+Android users especially are starting to get more discerning."
+Kevin Mahaffey, Lookout's CTO and co-founder, explained that spotting malware on mobile devices is a bigger technical challenge than on computers.
+Mahaffey notes that if your phone is running an older version of the Android operating system, you face greater mobile security risks.
+Unless you've rooted your Android phone to gain complete control over it, it's up to the carrier and manufacturer, not you, when your phone will get a system update.
+So some cheaper phones simply are not able to run the latest version of Android well, or at all.
+"If your battery suddenly starts draining really fast, consider that it might be malware," Mahaffey said.
+The opinions expressed in this post are solely those of Amy Gahran.

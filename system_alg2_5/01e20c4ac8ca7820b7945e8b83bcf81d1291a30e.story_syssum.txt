@@ -1,0 +1,8 @@
+"It's a website that's republished the feeds from many thousands of unsecured web cams and CCTV cameras.
+I believe you can view more or less live footage and it looks like one person has automatically scanned the internet for unsecured cameras and then aggregated this information in one site," Paterson says.
+"In theory, if you have a web camera and it is interface accessible over the internet, it could be at risk," Paterson says.
+"There have been some very public examples of smart home equipment that could be accessed remotely," he says -- including devices to raise blinds or turn on lights remotely.
+While the ICO doesn't know the Russian website owner's intentions, Paterson says that as far as it can tell the feeds have not been archived -- though they don't know for certain.
+"Here you're selling things to people who don't even know there's not a back door.
+Polonetsky says it is possible that sellers of devices without basic data protection would be considered unfair to consumers under the U.S. Federal Trade Commission's standards.
+"If the feed from your camera can identify individuals that would be personal data and if someone's processing that in an unfair or unlawful manner then it could breach the act," he says.

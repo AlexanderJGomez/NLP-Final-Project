@@ -1,0 +1,6 @@
+(WIRED) -- Research In Motion is preparing to release its much-awaited response to the iPad, the BlackBerry PlayBook tablet, a month behind schedule.
+Difficulty getting Flash to work properly on the PlayBook is probably another one of RIM's woes.
+The Samsung Galaxy Tab, which runs an earlier version of Android, is the only major tablet that currently supports a shipping version of the Adobe plugin.
+Without great Flash support, a PlayBook tablet would practically have nothing to do.
+"We're not trying to dumb down the internet for a small mobile device," says Mike Lazaridis, RIM's CEO, during the PlayBook demonstration.
+Click here!

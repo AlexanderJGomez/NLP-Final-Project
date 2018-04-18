@@ -1,0 +1,14 @@
+And as a result, just 10 percent of those surveyed use mobile location services at least once a week, according to the Mobile Marketing Association's latest Mobile Consumer Briefing survey.
+Still, even with smartphones predicted to overtake feature phones sometime next year, there may still be adoption hurdles for location-based social networks.
+Furthermore, the use of geo-location data for commercial purposes has also raised concerns, prompting the Congressional subcommittee on Commerce, Trade and Consumer Protection to hold hearings on the issue.
+Most current iterations of the popular location-based networks allow users to opt-out of location tagging and notifying users when their location is being shared.
+Because of privacy concerns, it is imperative for location-based services to clearly communicate the value proposition to users.
+For some users, the privacy concerns of sharing their location might be trumped by the potential utility of receiving highly targeted advertising and promotions.
+"I think it does have a lot of staying power.
+Facebook, meanwhile, will also reportedly soon enable members to add location details to their status updates and release an API so other apps can offer location ability to Facebook users.
+Twitter has yet to clearly communicate to users what they get in return for adding location to their tweets.
+Further, because location is off by default for all users, without a more clearly communicated message, the feature may remain off for many people.
+One thing Facebook does have in its favor is a great track record of getting people to eventually use new services en masse -- concerns or not.
+"Facebook could really be the looming giant that could wipe all [other location services] away," Boland said.
+"Facebook has proven to have so many users who are mobile.
+All rights reserved.

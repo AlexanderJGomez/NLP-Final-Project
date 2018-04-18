@@ -1,0 +1,13 @@
+Yet in 2005, a freestyle chess tournament featured teams of humans partnering with computers in various combinations.
+Licklider.
+..."
+It's easy to argue that life and death decisions should never be left to machines, but Licklider's vision was much broader, recognizing technology as an enabler for many human capacities.
+Since Kasparov and Deep Blue squared off, we have seen numerous examples of man-computer symbiosis, while A.I.
+The tension between the Minsky and Licklider visions has certainly been amplified in the age of so-called big data.
+Why is this?
+The high-value targets in big data are invariably human: highly adaptive adversaries such as terrorists and cybercriminals whose ingenuity frustrates even the most advanced algorithms.
+When U.S. intelligence tracked down Osama bin Laden, it was a function of brilliant, resourceful people asking questions and testing hypotheses using a variety of technologies.
+Yet how weak is something that can learn in ways even the most robust automated systems can't?
+Sometimes, the right combination of humans and technology can reshape the data landscape itself.
+Through rapid iteration, a group of determined people using low-friction technology had created a vast, self-regulating system.
+Almost 50 years since the identification of Moore's Law, and 10 years since the human genome was first sequenced, humans and machines are beginning a new arc of re-imagining and discovery -- together.

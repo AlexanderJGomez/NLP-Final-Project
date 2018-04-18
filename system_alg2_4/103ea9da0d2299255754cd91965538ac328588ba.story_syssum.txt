@@ -1,0 +1,5 @@
+This week, cellular carriers released details about a trio of upcoming smartphones, all of which run an older version of Google's Android operating system.
+At $200 with a two-year contract, the Atrix will be among the first to run on AT&T's faster data network and carry the "4G" branding.
+On the same day, AT&T will begin selling another so-called 4G phone.
+Customers will have to pay an extra $20 per month to use the feature, which adds 2 gigabytes of wireless internet usage, the carrier said on Wednesday.
+Since releasing that version, Google launched another called Gingerbread, which powers a Samsung-made phone called the Nexus S. Google held a news conference on Wednesday to say developers are close to releasing the first device that will run the next Android, called Honeycomb, this month.

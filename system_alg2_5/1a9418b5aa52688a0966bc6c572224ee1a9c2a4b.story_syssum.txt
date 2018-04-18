@@ -1,0 +1,8 @@
+Reputation is co-created by individuals having experiences.
+Search Yelp reviews and see what people who have already dined at a place have to say about it.
+For Airbnb hosts and Uber and Lyft drivers, positive ratings are paramount to their success.
+Even though these reputation systems have been created for the specific company -- imagine how powerful it would be to have your reputation in one place.
+While we will create reputation on individual platforms, there will be an increasing demand for fluid exchange of reputation and ratings from one system to another.
+We may even see reputation system APIs developed to enable the transfer of your reputation to new platforms.
+We'll see more of personal reputation integrated in person-to-person transactions, which will enable deeper transactions in the resource sharing economy.
+This is an excerpt of a report on reputation currencies, written by Heather Schlegel and commissioned by the Institute of Customer Experience.

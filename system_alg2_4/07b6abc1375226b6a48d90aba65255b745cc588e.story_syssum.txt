@@ -1,0 +1,19 @@
+The smartphones are first being deployed to U.S. soldiers, people familiar with the project said.
+The Army has been testing touchscreen devices at U.S. bases for nearly two years, said Michael McCarthy, a director for the Army's Brigade Modernization Command, in a phone interview.
+As many as 5 million Android users may have had their phones compromised by a recent virus outbreak rooted in apps found on Google's market, said security software maker Symantec.
+Rather than building special handsets hardwired with secure components, the government plans to install its software on commercially available phones, the people familiar with the project said.
+Verizon Wireless has sold more Android phones than any other U.S. cell carrier, thanks in part to its marketing emphasis interest on the Droid brand.
+Still, Apple's iPhone and iPad are also highly desired among U.S. officials, and people involved in the U.S. smartphone program said their goal is to support any type of smartphone.
+Federal officials have met with Apple, but they were told they could not have access to the core of the company's mobile operating system, said Angelos Stavrou, an information-security director at George Mason University who is working on the government project as a contractor, in a phone interview.
+When Google releases a new version of Android or when a new version of its phones comes out, a compatible software update to the government's secure Android can be ready within two weeks, Stavrou said.
+The version will allow users to choose which data from Android and its applications can be sent over the Internet, they said.
+On government phones, officials will be prompted with detailed reports about what data may be sent, and they can decline or allow each transmission, the people involved said.
+They are also consulting with several federal agencies, many within the Department of Defense, he said.
+"The government is actually working pretty hard in getting this technology to most agencies," Stavrou said.
+The project is funded by the Defense Advanced Research Projects Agency, the group responsible for early development of GPS and the Internet, Stavrou said.
+The NSA is also working on a competing system called SE Android, or Security Enhanced Android, Stephen Smalley, a National Security Agency official, wrote this month in a brief e-mail to a group of software developers that was obtained by CNN.
+In an unusual move for the federal government, each version of the secure Android operating systems will only need to be certified once before it can be deployed to any U.S. agency, said two people involved in the project.
+He concluded by saying, "Enjoy!"
+Many companies have expressed interest in the government smartphone project, officials said.
+Another obstacle for the government will be to figure out how to secure voice calls, Schromsky said.
+After the Defense Advanced Research Projects Agency project is certified for classified data, developers plan to work on securing the Android system for voice-over IP communications using apps such as Skype, Stavrou said.

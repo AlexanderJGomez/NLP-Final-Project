@@ -1,0 +1,6 @@
+The Red Alert app co-created by Ari Sprung, an Israeli software developer born in the United States, has become increasingly popular as the conflict escalates.
+Red Alert receives notifications when rockets are being launched from Gaza, and automatically sends out a push notification to users via the downloaded app.
+Once the app is downloaded, users can select which Israeli cities for which they want to get alerts.
+Before the latest Gaza operation, there were 60,000 Android users and 80,000 iPhone users, all in Israel.
+"I know if it hits they won't be able to contact me immediately, so I want to be able to know to get in touch with them to make sure they're OK."
+His parents have approximately one minute to seek shelter once the alerts go off, he says.

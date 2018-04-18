@@ -1,0 +1,5 @@
+Hackers appear to have posted account info for 4.6 million users of quickie social-sharing app Snapchat, making usernames and at least partial phone numbers available for download.
+Security matters as much as user experience does," the hackers said in a statement to technology blog TechCrunch.
+In the statement, the hackers said they blurred the last two digits of the phone numbers they posted but were still considering whether to post more with the full number visible.
+The SnapchatDB group said Snapchat implemented "very minor obstacles" after that.
+"Happy Snapping!"

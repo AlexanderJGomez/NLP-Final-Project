@@ -1,0 +1,7 @@
+Still in its early stages of development, Skype Translator, as it's being called for now, will provide voice and text language translation for calls between people speaking different languages.
+The conversation was no simple "Hello, how are you?"
+either.
+Pall said Skype Translator will be available first as a Windows 8 beta app by the end of this year.
+It learns English," he said.
+"Then you teach it Mandarin.
+"It's brain-like in the sense of its capability to learn.

@@ -1,0 +1,9 @@
+Exciting or frightening, these connected devices of the futuristic "smart" home may be familiar to fans of science fiction.
+Many can communicate with their own apps and ecosystems but haven't found a way to play nice with each other.
+Over the past four years, Qualcomm has been working on its AllJoyn protocol to connect devices from different manufacturers, even if they have different communication standards.
+Many standards already help smart devices communicate, though none has emerged as a dominant option yet.
+If there are too many different ecosystems, people will find a way to connect them -- much like how the problem of multiple phone chargers is being solved by micro-USB, she said.
+It also sells the chips that will go inside smart thermostats, security systems, cars and everything else.
+The first revolution was the connected Internet," she said.
+Ben-Zur predicts the Internet of Things will be the third revolution.
+The exact killer apps for the Internet of Things are also a mystery.

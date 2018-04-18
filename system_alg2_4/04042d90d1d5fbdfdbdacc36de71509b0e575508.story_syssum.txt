@@ -1,0 +1,9 @@
+Earlier this month, a test conducted by the Leviathan Security Group showed that even "no-permissions" Android apps can access potentially sensitive data on your phone -- and transmit that data elsewhere via your phone's Web browser.
+He also could see which apps were installed on the phone, and list some files belonging to those apps.
+Last year the Skype Android app presented this kind of problem.
+Finally, since no-permissions apps can launch the phone's Web browser, that provides a potential route to transmit some data from the phone.
+For instance, developers sometimes build apps that store user data (such as usernames and passwords) in ways that could be easily accessed through the security cracks Leviathan found.
+Or the app might open the phone's Web browser to allow functionality that could be handled other ways.
+"This was information that we'd never given Google, either on a phone or within Picasa.
+To make matters worse, Picasa Web-Album syncing had been switched off a week before the information was found."
+The opinions expressed in this post are solely those of Amy Gahran.

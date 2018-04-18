@@ -1,0 +1,4 @@
+Currently the 3G iPad ships with a MicroSIM card slot, and in the United States, the only carrier that uses MicroSIM is AT&T.
+Customers who want to connect to non-AT&T 3G networks must either buy an external wireless hotspot device such as the Verizon MiFi (Verizon already sells a MiFi plus iPad package) or trim a standard SIM card down to MicroSIM size, like Wired.com's Charlie Sorrel.
+If Verizon gets the iPhone and the iPad, it would greatly expand Apple's potential market, and would also likely deal a severe blow to AT&T, which has been roundly criticized for the inability of its 3G network to keep up with iPhone-induced demand.
+Click here!

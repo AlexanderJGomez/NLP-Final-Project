@@ -1,0 +1,6 @@
+(CNN) -- Google began an ambitious project in 2004: to scan and index the world's paper books and make them searchable online.
+More than 20 million books and magazines have been scanned using optical character-recognition technology, making each word or phrase searchable, so snippets of text are part of Google search results.
+"As we have long said, Google Books is in compliance with copyright law and acts like a card catalog for the digital age, giving users the ability to find books to buy or borrow," said a Google spokesperson.
+Because the company only shows "snippets" of the books in search results, it claims the project falls under fair use.
+The books scanned are also primarily nonfiction titles, which have less copyright protection than fiction.
+By converting print to digital text, the program has also made it easier to convert titles into more accessible formats, like text-to-speech and Braille.

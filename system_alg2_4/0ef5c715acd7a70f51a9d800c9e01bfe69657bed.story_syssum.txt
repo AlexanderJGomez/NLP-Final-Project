@@ -1,0 +1,6 @@
+Apparently, problems with circuit board capacitors are to blame for the litany of units that have trouble keeping a charge, exhibit erratic data-recording behavior, or just plain stop working.
+We're also fixing an issue with syncing related to the band hardware.
+You can also set the band to give you "Activity Reminders" -- gentle vibrations on your wrist that compel you to get out of your seat and take a few steps.
+One band issued random vibrations (even though no reminders were set) and consistently dropped data before failing to keep a charge, and then dying completely.
+Consumers experiencing hardware problems can also continue to receive replacement bands through Jawbone's existing warranty program.
+In fact, someone can collect a full refund, as well as receive a replacement band as long as the band qualifies under warranty.

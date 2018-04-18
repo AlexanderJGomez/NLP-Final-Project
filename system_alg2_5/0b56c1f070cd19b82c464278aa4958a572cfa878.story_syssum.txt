@@ -1,0 +1,6 @@
+LONDON, England (CNN) -- A new sleeper virus that could allow hackers to steal financial and personal information has now spread to more than eight million computers in what industry analysts say is one of the most serious infections they have ever seen.
+"It's getting worse, not better."
+It is a Windows worm and almost all the cases are corporate networks.
+However if an infected laptop is connected to your corporate network, it will immediately scan the network looking for machines to infect.
+The best way is to get the patch and install it company-wide.
+The problem is for companies with thousands of infected machines, which can become re-infected from just one computer even as they are being cleared.

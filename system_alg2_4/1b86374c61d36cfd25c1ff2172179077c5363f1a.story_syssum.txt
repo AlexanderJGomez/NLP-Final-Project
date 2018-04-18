@@ -1,0 +1,11 @@
+It's easy to forget that we're volunteering basic information about ourselves in return for free e-mail, social networking and other digital services.
+"It's not just that people decided to get interested in encryption all of a sudden."
+Unfortunately, endpoint security is so terrifically weak that NSA can frequently find ways around it."
+With all of the renewed interest in online privacy, we talked with Williamson about ways to help keep your data secure -- before, during and after sending it.
+Many major websites offer the option of using a secure connection all the time.
+If not -- sometimes it can be as easy as tweaking "http" to "https" in your browser's address bar.
+(Note: His company focuses on network security and does not sell encryption software to individuals).
+With many of the systems, customers will get digital "certificates" for themselves called private keys.
+There's some free disk encryption software floating around in the open-source community, but for most folks this, too, will cost some cash.
+To summarize, there are lots of encryption and other security options out there.
+To find a level of security you're comfortable with, start by poking around with security settings on your browser, e-mail client and favorite websites.

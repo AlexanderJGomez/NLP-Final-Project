@@ -1,0 +1,6 @@
+"On a fundamental level, the policy appears to invade consumer privacy by automatically sharing personal information consumers input into one Google product with all Google products," reads the letter sent to Google CEO Larry Page and signed by 36 state attorneys general.
+In Wednesday's letter, the state attorneys called the policy "troubling for a number of reasons," saying that users should be able to use one product without having its information shared with others.
+Google said Wednesday it's willing to discuss the policy with government officials, but that its intention is to make using its products easier and more transparent.
+A later post from Google Public Policy Director Pablo Chavez said that the company's privacy policies, but not its privacy controls, are changing.
+They are "trying to make them simpler and more understandable, which is something that lawmakers and regulators have asked technology companies to do," he wrote.
+"No doubt many of these consumers bought an Android-powered phone in reliance on Google's existing privacy policy, which touted to these consumers that 'We will not reduce your rights under this Privacy Policy without your explicit consent,' " the letter said.

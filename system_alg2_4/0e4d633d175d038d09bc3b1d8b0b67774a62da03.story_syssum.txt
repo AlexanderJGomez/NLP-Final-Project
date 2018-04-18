@@ -1,0 +1,6 @@
+(WIRED) -- In an effort to streamline and simplify the maturity ratings of software in mobile app stores, CTIA, the international wireless industry association, yesterday proposed a ratings system that store owners could voluntarily adopt.
+In the Android Market, Google assigns content ratings that range from "Everyone" to "Low Maturity" to "High Maturity," but provides no details on the specific content that inspired its ratings.
+The CTIA's guidelines aim to score smartphone and tablet apps on a five-point scale based on their violence and sexual content.
+CTIA announced it would be developing its app rating system in March.
+Apps would receive their rating almost instantaneously, and if a developer disagreed with the assigned rating, it could appeal it.
+Click here!

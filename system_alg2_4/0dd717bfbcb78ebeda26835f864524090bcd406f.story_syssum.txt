@@ -1,0 +1,11 @@
+That's why on Super Bowl Sunday, the NFL is planning to block live streams of the game inside the stadium.
+Super Bowl XLVIII, between the Denver Broncos and Seattle Seahawks, will be streamed by NFL.com and Fox Sports, but both of those sources will be blocked on the Wi-Fi and cellular networks at MetLife Stadium in New Jersey, NFL CIO Michelle McKenna-Doyle told Ars in a phone interview.
+She said the 82,500-seat stadium will be able to handle 25,000 to 30,000 concurrent Internet users across cellular and Wi-Fi.
+The NFL is providing a Super Bowl app to attendees with an event guide and "exclusive content," but it won't include streaming video or replays.
+While attending the final game of last year's World Series at Fenway Park in Boston, I was able to upload, e-mail, and text photos on the cellular network during the game.
+"When you can't do the basics, it's all of a sudden not that cool that you can show replays or stream the game," McKenna-Doyle said.
+A Multicast transmission sends IP packets to a group of hosts on a network," explains network video Visionary Solutions.
+The Super Bowl restriction doesn't mean live streaming is blocked at every NFL game.
+Some allow it based on their infrastructure, and some block it."
+As usual, the Super Bowl crew will use monitoring tools to identify hacker attacks on the network or technical problems that prevent fans from getting on the Internet.
+Network monitoring tools divide the stadium into sectors, and this year "we cut the stadium into more sectors than we had in the past so we can pinpoint more quickly where issues are in a section of the stadium," McKenna-Doyle said.

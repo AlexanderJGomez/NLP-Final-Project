@@ -1,0 +1,10 @@
+The Internet was designed to have no central point of failure, allowing anyone to run his or her own communications channel.
+Not at all.
+There's no reason that organizations or individuals who want to use the Web to relay critical information have to rely on Twitter or Facebook or Google or any other giant of the technology industry in the first place.
+The company has even shown a reassuring sensitivity to the civic and social obligations that come from running such a popular communication service.
+But the Web is bigger than any one site or any one social network.
+Smart inventors have already made cutting-edge technologies that let any site deliver messages with the same immediacy as Twitter or Facebook.
+In fact, many of us have allowed companies to become intermediaries to all our communications, whether it was AOL 10 years ago or Facebook today.
+But those Facebook addresses are just like AOL keywords 10 years earlier.
+This is, after all, how the Web was designed to work.
+Because we'll have a web of independent but connected communications systems, just as the Internet was always designed to be.
